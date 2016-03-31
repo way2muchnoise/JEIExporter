@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jeiexporter",
+  "name": "JEIExporter",
+  "description": "Export JEI to html pages",
+  "version": "",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["way2muchnoise"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["JEI"]
+}
+]
