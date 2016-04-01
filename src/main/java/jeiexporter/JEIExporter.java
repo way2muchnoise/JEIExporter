@@ -23,5 +23,11 @@ public class JEIExporter
     {
         LogHelper.info("Updating ModMetaData...");
         metadata = MetaData.init(metadata);
+
+        LogHelper.info("Registering KeyBindings...");
+        PROXY.registerKeyBindings();
+
+        LogHelper.info("Registering Handlers...");
+        PROXY.registerHandlers();
     }
 }
