@@ -1,5 +1,6 @@
 package jeiexporter;
 
+import jeiexporter.config.ConfigHandler;
 import jeiexporter.proxy.CommonProxy;
 import jeiexporter.reference.MetaData;
 import jeiexporter.reference.Reference;
@@ -21,6 +22,9 @@ public class JEIExporter
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
+        LogHelper.info("Init Config...");
+        ConfigHandler.init(event.getModConfigurationDirectory());
+
         LogHelper.info("Updating ModMetaData...");
         metadata = MetaData.init(metadata);
 

@@ -1,6 +1,7 @@
 package jeiexporter.handler;
 
 import jeiexporter.config.Settings;
+import jeiexporter.jei.JEIExporter;
 import jeiexporter.render.Loading;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.I18n;
@@ -15,17 +16,6 @@ public class RenderHandler
     public void onFrameStart(TickEvent.RenderTickEvent event)
     {
         if (event.phase != TickEvent.Phase.START || !Keyboard.isKeyDown(Settings.openUI.getKeyCode())) return;
-
-        long lastUpdate = 0;
-        int size = 100;
-        for (int i = 0; i < size; i++)
-        {
-            if (Minecraft.getSystemTime()-lastUpdate > 33) // 30 FPS
-            {
-                Loading.render(I18n.format("Rendering %s items", size), I18n.format("Rendered %s/%s", i, size), (i*1F) / size);
-                lastUpdate = Minecraft.getSystemTime();
-            }
-            try { Thread.sleep(10); } catch (InterruptedException ignored) {}
-        }
+        JEIExporter.exportAll();
     }
 }
