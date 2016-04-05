@@ -1,0 +1,67 @@
+body {
+	background: #7C7C7C;
+}
+
+#grayBox {
+	background: #CACACA;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	padding: 5px;
+}
+
+#fileinput {
+	background: #CACACA;
+	margin: auto;
+	width: 400px;
+	margin-bottom: 5px;
+}
+
+p {
+	font-family: Helvita, Sans-serif;
+	padding: 5px;
+}
+
+input {
+	font-family: Helvita, Sans-serif;
+}
+
+.content {
+    margin: auto;
+    width: 60%;
+}
+
+.arrow {
+	position: relative;
+	display: inline-block;
+	background: #858585;
+	color: #FFFFFF;
+}
+
+.left {
+	float: left;
+	clear: both;
+}
+
+.right {
+	float: right;
+}
+
+.arrows {
+	text-align: center;
+	margin: 4px;
+	padding: 0;
+	background: #B9B9B9;
+}
+
+#renderSpace {
+	margin: auto;
+	margin-top: 30px;
+	position: relative;
+}
+
+.itemstack {
+	position: absolute;
+	background: #A4A4A4;
+	display: inline-block;
+}

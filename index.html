@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JEI Exported</title>
+	<link rel="stylesheet" type="text/css" href="css/jeie.css">
+	<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+	<script type="text/javascript" src="js/jeie.js"></script>
+</head>
+<body>
+	<div class="content">
+		<div id="fileinput">
+			<p>Add files <input type="file" id="files" name="files[]" multiple /><input id="reset" type="button" value="Reset"></p>
+		</div>
+		<div id="grayBox">
+			<p class="arrows cat">
+				<input class="arrow cat left" id="catLeft" type="button" value="<"/>
+				<span id="cat">Category</span>
+				<input class="arrow cat right" id="catRight" type="button" value=">"/>
+			</p>
+			<p class="arrows recipe">
+				<input class="arrow recipe left" id="recipeLeft" type="button" value="<"/>
+				<span id="recipe">Recipe</span>
+				<input class="arrow recipe right" id="recipeRight" type="button" value=">"/>
+			</p>
+			<div id="renderSpace"></div>
+		</div>
+	</div>
+</body>
+</html>
