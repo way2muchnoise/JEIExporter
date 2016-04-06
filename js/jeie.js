@@ -1,5 +1,29 @@
 var data = [];
+var tooltipMap;
 var cat = 0, recipe = 0;
+var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
+
+function loadDefaultFiles()
+{
+	$.getJSON(gitURL + "/minecraft_crafting.json", pushToData);
+	$.getJSON(gitURL + "/minecraft_brewing.json", pushToData);
+	$.getJSON(gitURL + "/minecraft_fuel.json", pushToData);
+	$.getJSON(gitURL + "/minecraft_smelting.json", pushToData);
+	$.getJSON(gitURL + "/tooltipMap.json", setTooltipMap);
+}
+
+function pushToData(json)
+{
+	data.push(json);
+	changeBackground();
+	udpateRecipe();
+}
+
+function setTooltipMap(json)
+{
+	tooltipMap = json;
+	udpateRecipe();
+}
 
 function readFiles(event) {
 	var files = event.target.files;
@@ -7,10 +31,16 @@ function readFiles(event) {
 	for (var i = files.length - 1; i >= 0; i--) {
 		var reader = new FileReader();
 		reader.onload = function(event) {
-			data.push(JSON.parse(event.target.result));
-			udpateRecipe();
+			pushToData(JSON.parse(event.target.result));
 		};
-		reader.readAsText(files[i]);
+		if (files[i].name == "tooltipMap.json") {
+			var tooltipReader = new FileReader();
+			tooltipReader.onload = function(event) {
+				setTooltipMap(JSON.parse(event.target.result));;
+			};
+			tooltipReader.readAsText(files[i])
+		}
+		else reader.readAsText(files[i]);
 	}
 }
 
@@ -19,6 +49,7 @@ function nextCategory() {
 		cat = 0;
 	if (data.length > 1)
 		recipe = 0;
+	changeBackground();
 	udpateRecipe();
 }
 
@@ -27,6 +58,7 @@ function prevCategory() {
 		cat = data.length - 1;
 	if (data.length > 1)
 		recipe = 0;
+	changeBackground();
 	udpateRecipe();
 }
 
@@ -63,15 +95,35 @@ function drawRecipe(recipe) {
 	renderSpace.empty();
 	for (var i = items.length - 1; i >= 0; i--) {
 		var item = items[i];
+		var image = "";
+		if (item.stacks[0])
+			image = "url(items/" + item.stacks[0].replace(/:/g, "_") + ".png)";
+		var padding = item.p;
 		var itemElement = $("<div></div>").css({
 			width: item.w*2,
 			height: item.h*2,
-			top: item.y*2,
-			left: item.x*2,
-			margin: item.p*2
+			top: item.y*2-padding,
+			left: item.x*2-padding,
+			margin: padding*2,
+			'background-image': image
 		}).addClass("itemstack");
+		if (item.stacks[0])
+			itemElement.attr('title', tooltipMap[item.stacks[0]]);
 		renderSpace.append(itemElement);
 	}
+}
+
+function changeBackground()
+{
+	var bg = data[cat].bg;
+	var image = "";
+	if (bg.tex)
+		image = "url(bg/" + bg.tex.replace(/:/g, "_") + ".png)";
+	$("#renderSpace").css({
+		width: bg.w*2,
+		height: bg.h*2,
+		'background-image': image
+	});
 }
 
 $(document).ready(function() {
@@ -82,4 +134,5 @@ $(document).ready(function() {
 	$("#recipeLeft").on("click", prevRecipe);
 	$("#recipeRight").on("click", nextRecipe);
 	$(window).on("mousewheel", scrolling);
+	loadDefaultFiles();
 });

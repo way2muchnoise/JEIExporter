@@ -1,0 +1,717 @@
+{
+  "category": "Smelting",
+  "bg": {
+    "w": 82,
+    "h": 54,
+    "tex": "minecraft.smelting"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:sand:0",
+            "minecraft:sand:1"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:glass:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:log2:0",
+            "minecraft:log2:1"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:coal:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:emerald_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:emerald:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:redstone_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:redstone:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:log:0",
+            "minecraft:log:1",
+            "minecraft:log:2",
+            "minecraft:log:3"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:coal:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:clay_ball:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:brick:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:diamond:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:cactus:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:dye:2"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:rabbit:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_rabbit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:mutton:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_mutton:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:sponge:1"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:sponge:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:fish:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_fish:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:netherrack:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:netherbrick:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:potato:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:baked_potato:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:gold_ingot:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:porkchop:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_porkchop:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:quartz_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:quartz:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:lapis_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:dye:4"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:chicken:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_chicken:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:iron_ingot:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:clay:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:hardened_clay:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:beef:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_beef:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:stonebrick:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:stonebrick:2"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:fish:1"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:cooked_fish:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:cobblestone:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:stone:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:coal_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "minecraft:coal:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    }
+  ]
+}

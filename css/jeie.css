@@ -1,9 +1,9 @@
 body {
-	background: #7C7C7C;
+	background-image: url(bg.jpg);
 }
 
 #grayBox {
-	background: #CACACA;
+	background: #A7A7A7;
 	width: 400px;
 	height: 300px;
 	margin: auto;
@@ -11,7 +11,7 @@ body {
 }
 
 #fileinput {
-	background: #CACACA;
+	background: #A7A7A7;
 	margin: auto;
 	width: 400px;
 	margin-bottom: 5px;
@@ -20,6 +20,7 @@ body {
 p {
 	font-family: Helvita, Sans-serif;
 	padding: 5px;
+	color: #FFFFFF;
 }
 
 input {
@@ -51,7 +52,14 @@ input {
 	text-align: center;
 	margin: 4px;
 	padding: 0;
-	background: #B9B9B9;
+	background: #7C7C7C;
+	height: 24px;
+	position: relative;
+}
+
+.arrows span {
+	position: relative;
+	top: 3px;
 }
 
 #renderSpace {
@@ -62,6 +70,6 @@ input {
 
 .itemstack {
 	position: absolute;
-	background: #A4A4A4;
 	display: inline-block;
+	background-repeat: no-repeat;
 }

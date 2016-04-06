@@ -1,0 +1,948 @@
+{
+  "category": "Fuel",
+  "bg": {
+    "w": 98,
+    "h": 32,
+    "tex": "minecraft.fuel"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:planks:0",
+            "minecraft:planks:1",
+            "minecraft:planks:2",
+            "minecraft:planks:3",
+            "minecraft:planks:4",
+            "minecraft:planks:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:log:0",
+            "minecraft:log:1",
+            "minecraft:log:2",
+            "minecraft:log:3",
+            "minecraft:log2:0",
+            "minecraft:log2:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:bookshelf:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:oak_stairs:0",
+            "minecraft:spruce_stairs:0",
+            "minecraft:birch_stairs:0",
+            "minecraft:jungle_stairs:0",
+            "minecraft:acacia_stairs:0",
+            "minecraft:dark_oak_stairs:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_slab:0",
+            "minecraft:wooden_slab:1",
+            "minecraft:wooden_slab:2",
+            "minecraft:wooden_slab:3",
+            "minecraft:wooden_slab:4",
+            "minecraft:wooden_slab:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:coal_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:sapling:0",
+            "minecraft:sapling:1",
+            "minecraft:sapling:2",
+            "minecraft:sapling:3",
+            "minecraft:sapling:4",
+            "minecraft:sapling:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:chest:0",
+            "minecraft:trapped_chest:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:chest:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:crafting_table:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:jukebox:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:trapped_chest:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:spruce_fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:birch_fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:jungle_fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:dark_oak_fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:acacia_fence:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:15"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:14"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:13"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:12"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:11"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:10"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:9"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:8"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:7"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:6"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:4"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:3"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:2"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:noteblock:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_pressure_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:trapdoor:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:daylight_detector:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:spruce_fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:birch_fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:jungle_fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:dark_oak_fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:acacia_fence_gate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:lava_bucket:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_shovel:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_pickaxe:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_axe:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_hoe:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:wooden_sword:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:coal:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:coal:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:stick:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:blaze_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:brown_mushroom_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:red_mushroom_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:banner:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    }
+  ]
+}
