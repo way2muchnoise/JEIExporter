@@ -1,12 +1,14 @@
 package jeiexporter.jei;
 
 import jeiexporter.json.JEIJsonWriter;
+import jeiexporter.json.TooltipJsonMap;
 import jeiexporter.render.Loading;
 import jeiexporter.util.LogHelper;
 import mezz.jei.api.gui.IRecipeLayout;
 import mezz.jei.api.recipe.IRecipeCategory;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.I18n;
+import org.lwjgl.input.Keyboard;
 
 import java.io.IOException;
 import java.util.List;
@@ -28,6 +30,7 @@ public class JEIExporter
         int index = 0;
         for (Map.Entry<IRecipeCategory, List<IRecipeLayout>> entry : map.entrySet())
         {
+            if (Keyboard.isKeyDown(Keyboard.KEY_ESCAPE)) break;
             index++;
             List<IRecipeLayout> layouts = entry.getValue();
             int layoutsSize = layouts.size();
@@ -57,5 +60,14 @@ public class JEIExporter
                 e.printStackTrace();
                 LogHelper.warn("Failed writing category: " + entry.getKey().getTitle());
             }
-        }}
+        }
+        try
+        {
+            TooltipJsonMap.saveAsJson();
+        } catch (IOException e)
+        {
+            e.printStackTrace();
+            LogHelper.warn("Failed writing tooltip map");
+        }
+    }
 }

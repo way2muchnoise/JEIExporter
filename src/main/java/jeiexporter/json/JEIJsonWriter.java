@@ -15,22 +15,20 @@ import java.util.Collection;
 
 public class JEIJsonWriter
 {
-    private FileWriter fileWriter;
     private JsonWriter jsonWriter;
-    private String dir;
+    private static String dir;
 
-    private String getDir()
+    public static String getDir()
     {
-        if (this.dir != null) return this.dir;
-        this.dir = ConfigHandler.getConfigDir().getAbsolutePath() + "/exports/";
+        if (dir != null) return dir;
+        dir = ConfigHandler.getConfigDir().getAbsolutePath() + "/exports/";
         new File(dir).mkdir();
-        return this.dir;
+        return dir;
     }
 
     public JEIJsonWriter(String filename) throws IOException
     {
-        this.fileWriter = new FileWriter(getDir() + filename + ".json");
-        this.jsonWriter = new JsonWriter(fileWriter);
+        this.jsonWriter = new JsonWriter(new FileWriter(getDir() + filename + ".json"));
         this.jsonWriter.setIndent("  ");
     }
 
@@ -38,8 +36,8 @@ public class JEIJsonWriter
     {
         this.jsonWriter.beginObject();
         this.jsonWriter.name("category").value(category.getTitle());
-        this.jsonWriter.name("uid").value(category.getUid());
-        //this.jsonWriter.name("bg").value(category.getBackground()); // TODO add IDrawable adapter
+        this.jsonWriter.name("bg");
+        Adapters.drawable.write(this.jsonWriter, category);
         this.jsonWriter.name("recipes");
         this.jsonWriter.beginArray();
     }
