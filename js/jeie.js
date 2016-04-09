@@ -1,5 +1,6 @@
 var data = [];
 var tooltipMap;
+var lookupMap;
 var cat = 0, recipe = 0;
 var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
@@ -10,6 +11,7 @@ function loadDefaultFiles()
 	$.getJSON(gitURL + "/minecraft_fuel.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_smelting.json", pushToData);
 	$.getJSON(gitURL + "/tooltipMap.json", setTooltipMap);
+	$.getJSON(gitURL + "/lookupMap.json", setLookupMap);
 }
 
 function pushToData(json)
@@ -22,6 +24,12 @@ function pushToData(json)
 function setTooltipMap(json)
 {
 	tooltipMap = json;
+	udpateRecipe();
+}
+
+function setLookupMap(json)
+{
+	lookupMap = json;
 	udpateRecipe();
 }
 
@@ -39,7 +47,13 @@ function readFiles(event) {
 				setTooltipMap(JSON.parse(event.target.result));;
 			};
 			tooltipReader.readAsText(files[i])
-		}
+		} else if (files[i].name == "lookupMap.json") {
+		var lookupReader = new FileReader();
+		lookupReader.onload = function(event) {
+			setLookupMap(JSON.parse(event.target.result));;
+		};
+		lookupReader.readAsText(files[i])
+	}
 		else reader.readAsText(files[i]);
 	}
 }
@@ -108,7 +122,7 @@ function drawRecipe(recipe) {
 			'background-image': image
 		}).addClass("itemstack");
 		if (item.stacks[0])
-			itemElement.attr('title', tooltipMap[item.stacks[0]]);
+			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({delay: {show: 0, hide: 100000}});
 		renderSpace.append(itemElement);
 	}
 }

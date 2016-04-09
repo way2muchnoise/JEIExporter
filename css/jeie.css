@@ -1,5 +1,6 @@
 body {
 	background-image: url(bg.jpg);
+	font-family: Helvita, Sans-serif;
 }
 
 #grayBox {
@@ -18,15 +19,9 @@ body {
 }
 
 p {
-	font-family: Helvita, Sans-serif;
 	padding: 5px;
 	color: #FFFFFF;
 }
-
-input {
-	font-family: Helvita, Sans-serif;
-}
-
 .content {
     margin: auto;
     width: 60%;
@@ -72,4 +67,16 @@ input {
 	position: absolute;
 	display: inline-block;
 	background-repeat: no-repeat;
+}
+
+.tooltip {
+	padding: 5px;
+	color: #FFFFFF;
+	background-color: #06003C;
+	z-index: 3;
+	font-size: small;
+}
+
+.tooltip-inner {
+  text-align: center;
 }
