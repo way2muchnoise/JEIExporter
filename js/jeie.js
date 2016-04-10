@@ -48,12 +48,12 @@ function readFiles(event) {
 			};
 			tooltipReader.readAsText(files[i])
 		} else if (files[i].name == "lookupMap.json") {
-		var lookupReader = new FileReader();
-		lookupReader.onload = function(event) {
-			setLookupMap(JSON.parse(event.target.result));;
-		};
-		lookupReader.readAsText(files[i])
-	}
+			var lookupReader = new FileReader();
+			lookupReader.onload = function(event) {
+				setLookupMap(JSON.parse(event.target.result));;
+			};
+			lookupReader.readAsText(files[i])
+		}
 		else reader.readAsText(files[i]);
 	}
 }
@@ -121,8 +121,8 @@ function drawRecipe(recipe) {
 			margin: padding*2,
 			'background-image': image
 		}).addClass("itemstack");
-		if (item.stacks[0])
-			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({delay: {show: 0, hide: 100000}});
+		if (tooltipMap && item.stacks[0])
+			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({placement: 'left'})
 		renderSpace.append(itemElement);
 	}
 }
