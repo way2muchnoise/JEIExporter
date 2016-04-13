@@ -1,15 +1,15 @@
 var data = [];
 var tooltipMap;
 var lookupMap;
-var cat = 0, recipe = 0;
+var cat = 0, recipe = 0, itemPage = 0, itemsPerRow = 5, itemsPerCol = 7, itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
 var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
 function loadDefaultFiles()
 {
 	$.getJSON(gitURL + "/minecraft_crafting.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_brewing.json", pushToData);
-	$.getJSON(gitURL + "/minecraft_fuel.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_smelting.json", pushToData);
+	$.getJSON(gitURL + "/minecraft_fuel.json", pushToData);
 	$.getJSON(gitURL + "/tooltipMap.json", setTooltipMap);
 	$.getJSON(gitURL + "/lookupMap.json", setLookupMap);
 }
@@ -25,6 +25,8 @@ function setTooltipMap(json)
 {
 	tooltipMap = json;
 	udpateRecipe();
+	totalPages = Math.ceil(Object.keys(tooltipMap).length / itemsPerPage);
+	drawItemlist();
 }
 
 function setLookupMap(json)
@@ -95,11 +97,19 @@ function udpateRecipe() {
 	drawRecipe(data[cat].recipes[recipe]);
 }
 
-function scrolling(event) {
+function recipeScrolling(event) {
 	if (event.originalEvent.wheelDelta >= 0) {
 		prevRecipe();
 	} else {
 		nextRecipe();
+	}
+}
+
+function listScrolling(event) {
+	if (event.originalEvent.wheelDelta >= 0) {
+		prevList();
+	} else {
+		nextList();
 	}
 }
 
@@ -140,13 +150,68 @@ function changeBackground()
 	});
 }
 
+function nextList() {
+	if(++itemPage >= totalPages)
+		itemPage = 0;
+	drawItemlist();
+}
+
+function prevList() {
+	if(--itemPage < 0)
+		itemPage = totalPages-1;
+	drawItemlist();
+}
+
+function drawItemlist() {
+	var offsetX = 9, offsetY = 32, x = 0, y = 0;
+	var size = 18;
+	var padding = 1;
+	$("#list").html((itemPage+1) + "/" + (totalPages));
+	$("#itemlistRenderSpace").empty();
+	var skipped = 0;
+	for (var item in tooltipMap)
+	{
+		if (skipped++ < itemPage * itemsPerPage) continue;
+		var image = "url(items/" + item.replace(/:/g, "_") + ".png)";
+		var itemElement = $("<div></div>").css({
+			width: size*2,
+			height: size*2,
+			top: y*size*2-padding+offsetY,
+			left: x*size*2-padding+offsetX,
+			margin: padding*2,
+			'background-image': image
+		}).addClass("itemstack")
+		.attr('title', tooltipMap[item]).tooltip({placement: 'left'});
+		$("#itemlistRenderSpace").append(itemElement);
+		if (++x > itemsPerRow)
+		{
+			x = 0;
+			if (++y > itemsPerCol) break;
+		}
+	}
+}
+
+function clearAll()
+{
+	data = [];
+	lookupMap = [];
+	tooltipMap = [];
+	$("#renderSpace").empty();
+	$("#renderSpace").css('background-image', "none");
+	$("#cat").html("Category");
+	$("#recipe").html("Recipe");
+}
+
 $(document).ready(function() {
 	$("#files").on("change", readFiles);
-	$("#reset").on("click", function(event) { data = [] });
+	$("#reset").on("click", clearAll);
 	$("#catLeft").on("click", prevCategory);
 	$("#catRight").on("click", nextCategory);
 	$("#recipeLeft").on("click", prevRecipe);
 	$("#recipeRight").on("click", nextRecipe);
-	$(window).on("mousewheel", scrolling);
+	$("#listLeft").on("click", prevList);
+	$("#listRight").on("click", nextList);
+	$("#grayBox").on("mousewheel", recipeScrolling);
+	$(".itemlist").on("mousewheel", listScrolling);
 	loadDefaultFiles();
 });
