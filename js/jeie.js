@@ -12,9 +12,20 @@ function loadDefaultFiles()
 	$.getJSON(gitURL + "/minecraft_brewing.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_smelting.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_fuel.json", pushToData);
+
+	$.getJSON(gitURL + "/tconstruct_alloy.json", pushToData);
+	$.getJSON(gitURL + "/tconstruct_casting_table.json", pushToData);
+	$.getJSON(gitURL + "/tconstruct_smeltery.json", pushToData);
+	$.getJSON(gitURL + "/thaumcraft_crucible.json", pushToData);
+	$.getJSON(gitURL + "/thaumcraft_infernal.json", pushToData);
+	$.getJSON(gitURL + "/thaumcraft_arcane.json", pushToData);
+	$.getJSON(gitURL + "/thaumcraft_crucible.json", pushToData);
+	$.getJSON(gitURL + "/thaumcraft_infusion.json", pushToData);
+
 	$.getJSON(gitURL + "/tooltipMap.json", setTooltipMap);
 	$.getJSON(gitURL + "/lookupMap.json", setLookupMap);
 }
+
 
 function pushToData(json)
 {

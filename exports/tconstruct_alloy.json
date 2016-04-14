@@ -1,0 +1,233 @@
+{
+  "category": "Alloying",
+  "bg": {
+    "w": 160,
+    "h": 60,
+    "tex": "tconstruct.alloy"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [],
+      "ingredientFluids": [
+        {
+          "x": 118,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 21,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 39,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [],
+      "ingredientFluids": [
+        {
+          "x": 118,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "clay"
+          ]
+        },
+        {
+          "x": 21,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 33,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 45,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "dirt"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [],
+      "ingredientFluids": [
+        {
+          "x": 118,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 21,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 33,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "purpleslime"
+          ]
+        },
+        {
+          "x": 45,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "stone"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [],
+      "ingredientFluids": [
+        {
+          "x": 118,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 21,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 33,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "blood"
+          ]
+        },
+        {
+          "x": 45,
+          "y": 11,
+          "w": 12,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "emerald"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [],
+      "ingredientFluids": [
+        {
+          "x": 118,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 21,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 39,
+          "y": 11,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": true,
+          "fluids": [
+            "ardite"
+          ]
+        }
+      ]
+    }
+  ]
+}

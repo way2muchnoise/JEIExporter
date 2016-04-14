@@ -1,0 +1,8560 @@
+{
+  "category": "Smelting",
+  "bg": {
+    "w": 160,
+    "h": 60,
+    "tex": "tconstruct.smeltery"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:nuggets:3"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ingots:3"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:metal:3"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "knightslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:nugget:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_ingot:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_ore:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:plate:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:nuggets:4"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ingots:4"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:metal:4"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "pigiron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:nuggets:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ingots:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:metal:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ore:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "cobalt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:nuggets:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ingots:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:metal:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ore:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "ardite"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:nuggets:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:ingots:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:metal:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "manyullyn"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_nugget:0",
+            "thaumcraft:coin:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_ingot:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_ore:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:nugget:8"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:ingot:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:metal:4"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:gear:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:ice:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:packed_ice:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:snow:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:snowball:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "water"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:rotten_flesh:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "blood"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:edible:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "purpleslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:slime_congealed:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "purpleslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:slime:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "purpleslime"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:stone:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:cobblestone:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:obsidian:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "obsidian"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sharpening_kit:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pick_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:shovel_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:wide_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hand_guard:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:pan_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:sign_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_tool_rod:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:hammer_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:excavator_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:tough_binding:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:broad_axe_head:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:large_sword_blade:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:seared:0",
+            "tconstruct:seared:1",
+            "tconstruct:seared:2",
+            "tconstruct:seared:3",
+            "tconstruct:seared:4",
+            "tconstruct:seared:5",
+            "tconstruct:seared:6",
+            "tconstruct:seared:7",
+            "tconstruct:seared:8"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "tconstruct:materials:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "stone"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:dirt:0",
+            "minecraft:dirt:1",
+            "minecraft:dirt:2"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "dirt"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:clay_ball:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "clay"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:clay:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "clay"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:emerald:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "emerald"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:emerald_block:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "emerald"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": []
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_chestplate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_leggings:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:golden_chestplate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:golden_leggings:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:cauldron:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_bars:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_helmet:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_boots:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:golden_helmet:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:golden_boots:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_door:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:minecart:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:bucket:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:shears:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_trapdoor:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:heavy_weighted_pressure_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:light_weighted_pressure_plate:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "gold"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:baubles:1"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "brass"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 27,
+          "y": 20,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:wand_cap:0"
+          ]
+        }
+      ],
+      "ingredientFluids": [
+        {
+          "x": 115,
+          "y": 6,
+          "w": 18,
+          "h": 32,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "iron"
+          ]
+        },
+        {
+          "x": 72,
+          "y": 38,
+          "w": 16,
+          "h": 16,
+          "p": 0,
+          "in": false,
+          "fluids": [
+            "lava"
+          ]
+        }
+      ]
+    }
+  ]
+}
