@@ -46,12 +46,12 @@ public class TooltipJsonMap
         writer.write(gson.toJson(map));
         writer.flush();
         writer.close();
-        clear();
     }
 
     public static void saveAsJson() throws IOException
     {
         asJson(new File(ConfigHandler.getConfigDir() + "/exports/tooltipMap.json"), regToDisp);
         asJson(new File(ConfigHandler.getConfigDir() + "/exports/lookupMap.json"), dispToReg);
+        clear();
     }
 }
