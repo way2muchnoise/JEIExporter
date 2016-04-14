@@ -1,6 +1,7 @@
 body {
 	background-image: url(bg.jpg);
 	font-family: Helvita, Sans-serif;
+	overflow: hidden;
 }
 
 #grayBox {

@@ -1,7 +1,9 @@
 var data = [];
 var tooltipMap;
 var lookupMap;
-var cat = 0, recipe = 0, itemPage = 0, itemsPerRow = 5, itemsPerCol = 7, itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
+var cat = 0, recipe = 0, itemPage = 0,
+	itemsPerRow = 5, itemsPerCol = 7,
+	itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
 var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
 function loadDefaultFiles()
@@ -130,10 +132,30 @@ function drawRecipe(recipe) {
 			left: item.x*2-padding,
 			margin: padding*2,
 			'background-image': image
-		}).addClass("itemstack");
+		}).addClass("itemstack").attr({cycle: 0, id: "itemElement" + i});
 		if (tooltipMap && item.stacks[0])
-			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({placement: 'left'})
+			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({placement: 'left'});
 		renderSpace.append(itemElement);
+		if ($("#itemElement" + i).is(":hover")) itemElement.tooltip('show');
+	}
+}
+
+function cycleItems() {
+	var items = data[cat].recipes[recipe].ingredientItems;
+	for (var i = items.length - 1; i >= 0; i--) {
+		var item = items[i];
+		var itemElement = $("#itemElement" + i);
+		var image = "";
+		var ii = itemElement.attr('cycle');
+		if (++ii >= item.stacks.length) ii = 0;
+		if (item.stacks[ii])
+			image = "url(items/" + item.stacks[ii].replace(/:/g, "_") + ".png)";
+		itemElement.css('background-image', image).attr('cycle', ii);
+		if (tooltipMap && item.stacks[ii])
+			itemElement.tooltip('hide')
+				.attr('data-original-title', tooltipMap[item.stacks[ii]])
+				.tooltip('fixTitle');
+		if (itemElement.is(":hover")) itemElement.tooltip('show');
 	}
 }
 
@@ -180,9 +202,10 @@ function drawItemlist() {
 			left: x*size*2-padding+offsetX,
 			margin: padding*2,
 			'background-image': image
-		}).addClass("itemstack")
+		}).addClass("itemstack").attr('id', "listedItem" + x + y)
 		.attr('title', tooltipMap[item]).tooltip({placement: 'left'});
 		$("#itemlistRenderSpace").append(itemElement);
+		if ($("#listedItem" + x + y).is(":hover")) itemElement.tooltip('show');
 		if (++x > itemsPerRow)
 		{
 			x = 0;
@@ -214,4 +237,5 @@ $(document).ready(function() {
 	$("#grayBox").on("mousewheel", recipeScrolling);
 	$(".itemlist").on("mousewheel", listScrolling);
 	loadDefaultFiles();
+	setInterval(cycleItems, 1300);
 });
