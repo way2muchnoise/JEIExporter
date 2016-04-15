@@ -1473,39 +1473,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:2"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 14,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
             "thaumcraft:aura_totem:4"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 14,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "thaumcraft:aura_totem:0"
           ]
         }
       ],
@@ -1538,6 +1506,38 @@
           "in": true,
           "stacks": [
             "thaumcraft:aura_totem:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:aura_totem:2"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:aura_totem:0"
           ]
         }
       ],

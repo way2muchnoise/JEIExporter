@@ -4,7 +4,7 @@ var tooltipMap;
 var lookupMap;
 var recipeLinks
 var cat = 0, recipe = 0, itemPage = 0,
-	itemsPerRow = 5, itemsPerCol = 7,
+	itemsPerRow = 6, itemsPerCol = 8,
 	itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
 var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
@@ -158,19 +158,19 @@ function drawRecipe(recipe) {
 	for (var i = fluids.length - 1; i >= 0; i--) {
 		var fluid = fluids[i];
 		var image = "";
-		if (fluid.stacks[0])
-			image = "url(fluids/" + fluid.stacks[0].replace(/:/g, "_") + ".png)";
-		var padding = item.p;
+		if (fluid.fluids[0])
+			image = "url(fluids/" + fluid.fluids[0].replace(/:/g, "_") + ".png)";
+		var padding = fluid.p;
 		var fluidElement = $("<div></div>").css({
-			width: item.w*2,
-			height: item.h*2,
-			top: item.y*2-padding,
-			left: item.x*2-padding,
+			width: fluid.w*2,
+			height: fluid.h*2,
+			top: fluid.y*2-padding,
+			left: fluid.x*2-padding,
 			margin: padding*2,
 			'background-image': image
 		}).addClass("fluidstack").attr({cycle: 0, id: "fluidElement" + i});
-		if (tooltipMap && fluid.stacks[0])
-			fluidElement.attr('title', tooltipMap[fluid.stacks[0]]).tooltip({placement: 'left'});
+		if (tooltipMap && fluid.fluids[0])
+			fluidElement.attr('title', tooltipMap[fluid.fluids[0]]).tooltip({placement: 'left'});
 		renderSpace.append(fluidElement);
 		if ($("#fluidElement" + i).is(":hover")) fluidElement.tooltip('show');
 	}
@@ -208,13 +208,13 @@ function cycleFluids() {
 		var fluidElement = $("#fluidElement" + i);
 		var image = "";
 		var ii = fluidElement.attr('cycle');
-		if (++ii >= fluid.stacks.length) ii = 0;
-		if (fluid.stacks[ii])
-			image = "url(fluids/" + fluid.stacks[ii].replace(/:/g, "_") + ".png)";
+		if (++ii >= fluid.fluids.length) ii = 0;
+		if (fluid.fluids[ii])
+			image = "url(fluids/" + fluid.fluids[ii].replace(/:/g, "_") + ".png)";
 		fluidElement.css('background-image', image).attr('cycle', ii);
-		if (tooltipMap && fluid.stacks[ii])
+		if (tooltipMap && fluid.fluids[ii])
 			fluidElement.tooltip('hide')
-				.attr('data-original-title', tooltipMap[fluid.stacks[ii]])
+				.attr('data-original-title', tooltipMap[fluid.fluids[ii]])
 				.tooltip('fixTitle');
 		if (fluidElement.is(":hover")) fluidElement.tooltip('show');
 	}
@@ -255,22 +255,32 @@ function drawItemlist() {
 	for (var item in tooltipMap)
 	{
 		if (skipped++ < itemPage * itemsPerPage) continue;
-		var image = "url(items/" + item.replace(/:/g, "_") + ".png)";
-		var itemElement = $("<div></div>").css({
+		var url, cssClass
+		if (/^fluid:/.test(item))
+		{
+			url = "fluids/" + item.replace(/:/g, "_") + ".png";
+			cssClass = "fluidstack";
+		} else
+		{
+			url = "items/" + item.replace(/:/g, "_") + ".png";
+			cssClass = "itemstack";
+		}
+		var image = "url(" + url + ")";
+		var listElement = $("<div></div>").css({
 			width: size*2,
 			height: size*2,
 			top: y*size*2-padding+offsetY,
 			left: x*size*2-padding+offsetX,
 			margin: padding*2,
 			'background-image': image
-		}).addClass("itemstack").attr('id', "listedItem" + x + y)
+		}).addClass(cssClass).attr('id', "listedItem" + x + y)
 		.attr('title', tooltipMap[item]).tooltip({placement: 'left'});
-		$("#itemlistRenderSpace").append(itemElement);
-		if ($("#listedItem" + x + y).is(":hover")) itemElement.tooltip('show');
-		if (++x > itemsPerRow)
+		$("#itemlistRenderSpace").append(listElement);
+		if ($("#listedItem" + x + y).is(":hover")) listElement.tooltip('show');
+		if (++x >= itemsPerRow)
 		{
 			x = 0;
-			if (++y > itemsPerCol) break;
+			if (++y >= itemsPerCol) break;
 		}
 	}
 }
