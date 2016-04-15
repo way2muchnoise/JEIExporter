@@ -24,7 +24,7 @@ public class RenderFluid
     public static String render(FluidStack fluidStack)
     {
         RenderHelper.setupRenderState(FLUID_SIZE);
-        String fluidName = fluidStack.getFluid().getName();
+        String fluidName = "fluid:" + fluidStack.getFluid().getName();
         String filename = fluidName.replaceAll(":", "_") + ".png";
         GlStateManager.pushMatrix();
         GlStateManager.clearColor(0, 0, 0, 0);

@@ -33,7 +33,7 @@ public class TooltipJsonMap
 
     public static void add(FluidStack fluidStack)
     {
-        String regName = fluidStack.getFluid().getName();
+        String regName = "fluid:" + fluidStack.getFluid().getName();
         String dispName = fluidStack.getLocalizedName();
         regToDisp.put(regName, dispName);
         dispToReg.put(dispName, regName);
