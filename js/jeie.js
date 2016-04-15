@@ -255,7 +255,7 @@ function drawItemlist() {
 	for (var item in tooltipMap)
 	{
 		if (skipped++ < itemPage * itemsPerPage) continue;
-		var url, cssClass
+		var url, cssClass;
 		if (/^fluid:/.test(item))
 		{
 			url = "fluids/" + item.replace(/:/g, "_") + ".png";
