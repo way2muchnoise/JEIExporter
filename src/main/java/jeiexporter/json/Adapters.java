@@ -3,6 +3,7 @@ package jeiexporter.json;
 import com.google.gson.TypeAdapter;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
+import jeiexporter.render.RenderFluid;
 import jeiexporter.render.RenderIDrawable;
 import jeiexporter.render.RenderItem;
 import mezz.jei.api.gui.IDrawable;
@@ -81,7 +82,7 @@ public class Adapters
             out.name("fluids").beginArray();
             for (FluidStack fluidStack : value.getAllIngredients())
             {
-                out.value(fluidStack.getFluid().getName());
+                out.value(RenderFluid.render(fluidStack));
                 TooltipJsonMap.add(fluidStack);
             }
             out.endArray();
