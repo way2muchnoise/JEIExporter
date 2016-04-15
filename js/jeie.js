@@ -1,6 +1,8 @@
 var data = [];
+var mainData = [];
 var tooltipMap;
 var lookupMap;
+var recipeLinks
 var cat = 0, recipe = 0, itemPage = 0,
 	itemsPerRow = 5, itemsPerCol = 7,
 	itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
@@ -29,7 +31,8 @@ function loadDefaultFiles()
 
 function pushToData(json)
 {
-	data.push(json);
+	mainData.push(json);
+	data = mainData;
 	changeBackground();
 	udpateRecipe();
 }
@@ -127,9 +130,10 @@ function listScrolling(event) {
 }
 
 function drawRecipe(recipe) {
-	var items = recipe.ingredientItems;
 	var renderSpace = $("#renderSpace");
 	renderSpace.empty();
+
+	var items = recipe.ingredientItems;
 	for (var i = items.length - 1; i >= 0; i--) {
 		var item = items[i];
 		var image = "";
@@ -149,6 +153,33 @@ function drawRecipe(recipe) {
 		renderSpace.append(itemElement);
 		if ($("#itemElement" + i).is(":hover")) itemElement.tooltip('show');
 	}
+
+	var fluids = recipe.ingredientFluids;
+	for (var i = fluids.length - 1; i >= 0; i--) {
+		var fluid = fluids[i];
+		var image = "";
+		if (fluid.stacks[0])
+			image = "url(fluids/" + fluid.stacks[0].replace(/:/g, "_") + ".png)";
+		var padding = item.p;
+		var fluidElement = $("<div></div>").css({
+			width: item.w*2,
+			height: item.h*2,
+			top: item.y*2-padding,
+			left: item.x*2-padding,
+			margin: padding*2,
+			'background-image': image
+		}).addClass("fluidstack").attr({cycle: 0, id: "fluidElement" + i});
+		if (tooltipMap && fluid.stacks[0])
+			fluidElement.attr('title', tooltipMap[fluid.stacks[0]]).tooltip({placement: 'left'});
+		renderSpace.append(fluidElement);
+		if ($("#fluidElement" + i).is(":hover")) fluidElement.tooltip('show');
+	}
+}
+
+function cycle()
+{
+	cycleItems();
+	cycleFluids();
 }
 
 function cycleItems() {
@@ -167,6 +198,25 @@ function cycleItems() {
 				.attr('data-original-title', tooltipMap[item.stacks[ii]])
 				.tooltip('fixTitle');
 		if (itemElement.is(":hover")) itemElement.tooltip('show');
+	}
+}
+
+function cycleFluids() {
+	var fluids = data[cat].recipes[recipe].ingredientFluids;
+	for (var i = fluids.length - 1; i >= 0; i--) {
+		var fluid = fluids[i];
+		var fluidElement = $("#fluidElement" + i);
+		var image = "";
+		var ii = fluidElement.attr('cycle');
+		if (++ii >= fluid.stacks.length) ii = 0;
+		if (fluid.stacks[ii])
+			image = "url(fluids/" + fluid.stacks[ii].replace(/:/g, "_") + ".png)";
+		fluidElement.css('background-image', image).attr('cycle', ii);
+		if (tooltipMap && fluid.stacks[ii])
+			fluidElement.tooltip('hide')
+				.attr('data-original-title', tooltipMap[fluid.stacks[ii]])
+				.tooltip('fixTitle');
+		if (fluidElement.is(":hover")) fluidElement.tooltip('show');
 	}
 }
 
@@ -248,5 +298,5 @@ $(document).ready(function() {
 	$("#grayBox").on("mousewheel", recipeScrolling);
 	$(".itemlist").on("mousewheel", listScrolling);
 	loadDefaultFiles();
-	setInterval(cycleItems, 1300);
+	setInterval(cycle, 1300);
 });

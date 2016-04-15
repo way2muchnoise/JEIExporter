@@ -73,6 +73,12 @@ p {
 	background-repeat: no-repeat;
 }
 
+.fluidstack {
+	position: absolute;
+	display: inline-block;
+	background-repeat: repeat;
+}
+
 .tooltip {
 	padding: 3px;
 	color: #FFFFFF;

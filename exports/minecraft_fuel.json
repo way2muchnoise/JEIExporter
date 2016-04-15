@@ -945,7 +945,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:loot_crate:2"
+            "thaumcraft:loot_crate:0"
           ]
         }
       ],
@@ -977,7 +977,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:loot_crate:0"
+            "thaumcraft:loot_crate:2"
           ]
         }
       ],
@@ -1473,23 +1473,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:1"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 14,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "thaumcraft:aura_totem:3"
+            "thaumcraft:aura_totem:2"
           ]
         }
       ],
@@ -1537,7 +1521,23 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:2"
+            "thaumcraft:aura_totem:3"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "thaumcraft:aura_totem:1"
           ]
         }
       ],
