@@ -287,13 +287,61 @@ function drawItemlist() {
 
 function clearAll()
 {
+	mainData = [];
 	data = [];
 	lookupMap = [];
 	tooltipMap = [];
+	cat = 0, recipe = 0, itemPage = 0;
 	$("#renderSpace").empty();
 	$("#renderSpace").css('background-image', "none");
 	$("#cat").html("Category");
 	$("#recipe").html("Recipe");
+}
+
+function toAllRecipes() 
+{
+	data = mainData;
+	// TODO: set to correct category
+	cat = 0, recipe = 0;
+	changeBackground();
+	udpateRecipe();
+}
+
+function recipesForItem()
+{
+	var itemName = $(this).attr('data-original-title');
+	var item = lookupMap[itemName];
+	var currentCat = 0;
+	data = [];
+	for (var i = mainData.length - 1; i >= 0; i--) {
+		var category = mainData[i];
+		var usedCat = false;
+		for (var ii = category.recipes.length - 1; ii >= 0; ii--) {
+			var recipe = category.recipes[ii];
+			recipeLabel: {
+				for (var iii = recipe.ingredientItems.length - 1; iii >= 0; iii--) {
+					if ($.inArray(item, recipe.ingredientItems[iii].stacks) != -1)
+					{
+						if (!usedCat)
+						{
+							data[currentCat] = {};
+							data[currentCat].category = category.category;
+							data[currentCat].bg = category.bg;
+							data[currentCat].recipes = [];
+						}
+						data[currentCat].recipes.push(recipe);
+						usedCat = true;
+						console.log("found");
+						break recipeLabel;
+					}
+				}
+			}
+		}
+		if (usedCat) currentCat++;
+	}
+	cat = 0, recipe = 0;
+	changeBackground();
+	udpateRecipe();
 }
 
 $(document).ready(function() {
@@ -307,6 +355,8 @@ $(document).ready(function() {
 	$("#listRight").on("click", nextList);
 	$("#grayBox").on("mousewheel", recipeScrolling);
 	$(".itemlist").on("mousewheel", listScrolling);
+	$("#cat").on("click", toAllRecipes);
+	$(".content").on("click", ".itemstack", recipesForItem);
 	loadDefaultFiles();
 	setInterval(cycle, 1300);
 });
