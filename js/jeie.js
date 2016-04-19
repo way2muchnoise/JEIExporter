@@ -339,7 +339,7 @@ function recipesForItem()
 		}
 		if (usedCat) currentCat++;
 	}
-	cat = 0, recipe = 0;
+	cat = 0, window.recipe = 0;
 	changeBackground();
 	udpateRecipe();
 }
