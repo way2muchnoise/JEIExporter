@@ -111,3 +111,12 @@ p {
 	position: relative;
 	top: 3px;
 }
+
+.itemlist #search {
+	position: relative;
+	bottom: 0px;
+	font-size: 17px;
+	color: #FFFFFF;
+	background: #858585;
+	border-radius: 2px;
+}

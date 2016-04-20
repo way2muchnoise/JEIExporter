@@ -2,9 +2,10 @@ var data = [];
 var mainData = [];
 var tooltipMap;
 var lookupMap;
+var itemlist;
 var recipeLinks
 var cat = 0, recipe = 0, itemPage = 0,
-	itemsPerRow = 6, itemsPerCol = 8,
+	itemsPerRow = 6, itemsPerCol = 7,
 	itemsPerPage = itemsPerRow * itemsPerCol, totalPages;
 var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
@@ -40,8 +41,9 @@ function pushToData(json)
 function setTooltipMap(json)
 {
 	tooltipMap = json;
+	itemlist = tooltipMap;
 	udpateRecipe();
-	totalPages = Math.ceil(Object.keys(tooltipMap).length / itemsPerPage);
+	totalPages = Math.ceil(Object.keys(itemlist).length / itemsPerPage);
 	drawItemlist();
 }
 
@@ -252,7 +254,7 @@ function drawItemlist() {
 	$("#list").html((itemPage+1) + "/" + (totalPages));
 	$("#itemlistRenderSpace").empty();
 	var skipped = 0;
-	for (var item in tooltipMap)
+	for (var item in itemlist)
 	{
 		if (skipped++ < itemPage * itemsPerPage) continue;
 		var url, cssClass;
@@ -289,8 +291,8 @@ function clearAll()
 {
 	mainData = [];
 	data = [];
-	lookupMap = [];
-	tooltipMap = [];
+	lookupMap = {};
+	tooltipMap = {};
 	cat = 0, recipe = 0, itemPage = 0;
 	$("#renderSpace").empty();
 	$("#renderSpace").css('background-image', "none");
@@ -344,6 +346,21 @@ function recipesForItem()
 	udpateRecipe();
 }
 
+function updateSearch()
+{
+	var search = $(this).val();
+	itemlist = {};
+	for (var itemname in lookupMap)
+	{
+		if (lookupMap[itemname].toLowerCase().indexOf(search) > -1)
+			itemlist[lookupMap[itemname]] = itemname;
+	}
+	totalPages = Math.ceil(Object.keys(itemlist).length / itemsPerPage);
+	if (itemPage >= totalPages) itemPage = totalPages-1;
+	else if (totalPages > 0 && itemPage < 1) itemPage = 0;
+	drawItemlist();
+}
+
 $(document).ready(function() {
 	$("#files").on("change", readFiles);
 	$("#reset").on("click", clearAll);
@@ -359,4 +376,9 @@ $(document).ready(function() {
 	$(".content").on("click", ".itemstack", recipesForItem);
 	loadDefaultFiles();
 	setInterval(cycle, 1300);
+	$("#search").on("keyup", updateSearch);
+	$("#itemlistRenderSpace").css({
+		width: itemsPerRow*18*2,
+		height: itemsPerCol*18*2
+	});
 });
