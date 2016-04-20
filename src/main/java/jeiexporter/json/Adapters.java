@@ -52,10 +52,7 @@ public class Adapters
             out.name("in").value(getBoolean(in, value));
             out.name("stacks").beginArray();
             for (ItemStack itemStack : value.getAllIngredients())
-            {
                 out.value(RenderItem.render(itemStack));
-                TooltipJsonMap.add(itemStack);
-            }
             out.endArray();
             out.endObject();
         }
@@ -81,10 +78,7 @@ public class Adapters
             out.name("in").value(getBoolean(in, value));
             out.name("fluids").beginArray();
             for (FluidStack fluidStack : value.getAllIngredients())
-            {
                 out.value(RenderFluid.render(fluidStack));
-                TooltipJsonMap.add(fluidStack);
-            }
             out.endArray();
             out.endObject();
         }

@@ -9,34 +9,55 @@ import net.minecraftforge.fluids.FluidStack;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class TooltipJsonMap
 {
     private static Map<String, String> regToDisp = new HashMap<>();
     private static Map<String, String> dispToReg = new HashMap<>();
+    private static Map<String, List<ItemStack>> doubles = new HashMap<>();
 
     public static void clear()
     {
         regToDisp.clear();
         dispToReg.clear();
+        doubles.clear();
     }
 
-    public static void add(ItemStack itemStack)
+    public static String add(ItemStack itemStack)
     {
-        String regName = itemStack.getItem().getRegistryName() + ":" + itemStack.getMetadata();
+        String regName = createRegName(itemStack);
         String dispName = itemStack.getDisplayName();
         regToDisp.put(regName, dispName);
         dispToReg.put(dispName, regName);
+        return regName;
     }
 
-    public static void add(FluidStack fluidStack)
+    private static String createRegName(ItemStack itemStack)
+    {
+        String regName = itemStack.getItem().getRegistryName() + ":" + itemStack.getMetadata();
+        List<ItemStack> stacks = doubles.get(regName);
+        if(stacks == null) stacks = new ArrayList<>();
+        String result = regName + ":" + stacks.size();
+        boolean isIn = false;
+        for (ItemStack stack : stacks)
+            if (ItemStack.areItemStacksEqual(itemStack, stack))
+                isIn = true;
+        if (!isIn) stacks.add(itemStack);
+        doubles.put(regName, stacks);
+        return result;
+    }
+
+    public static String add(FluidStack fluidStack)
     {
         String regName = "fluid:" + fluidStack.getFluid().getName();
         String dispName = fluidStack.getLocalizedName();
         regToDisp.put(regName, dispName);
         dispToReg.put(dispName, regName);
+        return regName;
     }
 
     public static void asJson(File location, Map<String, String> map) throws IOException

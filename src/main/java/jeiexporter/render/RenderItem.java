@@ -2,6 +2,7 @@ package jeiexporter.render;
 
 import com.google.common.io.Files;
 import jeiexporter.config.ConfigHandler;
+import jeiexporter.json.TooltipJsonMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.item.ItemStack;
@@ -18,7 +19,7 @@ public class RenderItem
     public static String render(ItemStack itemStack)
     {
         RenderHelper.setupRenderState(ITEM_SIZE);
-        String itemName = itemStack.getItem().getRegistryName() + ":" + itemStack.getMetadata();
+        String itemName = TooltipJsonMap.add(itemStack);
         String filename = itemName.replaceAll(":", "_") + ".png";
         GlStateManager.pushMatrix();
         GlStateManager.clearColor(0, 0, 0, 0);

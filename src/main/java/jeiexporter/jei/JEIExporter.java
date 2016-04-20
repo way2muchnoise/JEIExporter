@@ -36,10 +36,11 @@ public class JEIExporter
             int layoutsSize = layouts.size();
             try
             {
-                JEIJsonWriter writer = new JEIJsonWriter(entry.getKey().getUid().replaceAll("[\\.\\s]", "_"));
+                JEIJsonWriter writer = new JEIJsonWriter(entry.getKey().getUid().replaceAll("[\\.\\s:]", "_"));
                 writer.writeTitle(entry.getKey());
                 for (int i = 0; i < layoutsSize; i++)
                 {
+                    if (Keyboard.isKeyDown(Keyboard.KEY_ESCAPE)) break;
                     if (Minecraft.getSystemTime() - lastUpdate > 33) // 30 FPS
                     {
                         Loading.render(

@@ -2,6 +2,7 @@ package jeiexporter.render;
 
 import com.google.common.io.Files;
 import jeiexporter.config.ConfigHandler;
+import jeiexporter.json.TooltipJsonMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.Tessellator;
@@ -24,7 +25,7 @@ public class RenderFluid
     public static String render(FluidStack fluidStack)
     {
         RenderHelper.setupRenderState(FLUID_SIZE);
-        String fluidName = "fluid:" + fluidStack.getFluid().getName();
+        String fluidName = TooltipJsonMap.add(fluidStack);
         String filename = fluidName.replaceAll(":", "_") + ".png";
         GlStateManager.pushMatrix();
         GlStateManager.clearColor(0, 0, 0, 0);
