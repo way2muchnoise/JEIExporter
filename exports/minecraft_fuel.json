@@ -16,14 +16,14 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:planks:0",
-            "minecraft:planks:1",
-            "minecraft:planks:2",
-            "minecraft:planks:3",
-            "minecraft:planks:4",
-            "minecraft:planks:5",
-            "thaumcraft:plank:0",
-            "thaumcraft:plank:1"
+            "minecraft:planks:0:1",
+            "minecraft:planks:1:1",
+            "minecraft:planks:2:1",
+            "minecraft:planks:3:1",
+            "minecraft:planks:4:1",
+            "minecraft:planks:5:1",
+            "thaumcraft:plank:0:1",
+            "thaumcraft:plank:1:1"
           ]
         }
       ],
@@ -39,14 +39,14 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:log:0",
-            "minecraft:log:1",
-            "minecraft:log:2",
-            "minecraft:log:3",
-            "minecraft:log2:0",
-            "minecraft:log2:1",
-            "thaumcraft:log:0",
-            "thaumcraft:log:3"
+            "minecraft:log:0:0",
+            "minecraft:log:1:0",
+            "minecraft:log:2:0",
+            "minecraft:log:3:0",
+            "minecraft:log2:0:0",
+            "minecraft:log2:1:0",
+            "thaumcraft:log:0:1",
+            "thaumcraft:log:3:1"
           ]
         }
       ],
@@ -62,7 +62,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:bookshelf:0"
+            "minecraft:bookshelf:0:0"
           ]
         }
       ],
@@ -78,12 +78,12 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:oak_stairs:0",
-            "minecraft:spruce_stairs:0",
-            "minecraft:birch_stairs:0",
-            "minecraft:jungle_stairs:0",
-            "minecraft:acacia_stairs:0",
-            "minecraft:dark_oak_stairs:0"
+            "minecraft:oak_stairs:0:0",
+            "minecraft:spruce_stairs:0:0",
+            "minecraft:birch_stairs:0:0",
+            "minecraft:jungle_stairs:0:0",
+            "minecraft:acacia_stairs:0:0",
+            "minecraft:dark_oak_stairs:0:0"
           ]
         }
       ],
@@ -99,14 +99,14 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_slab:0",
-            "minecraft:wooden_slab:1",
-            "minecraft:wooden_slab:2",
-            "minecraft:wooden_slab:3",
-            "minecraft:wooden_slab:4",
-            "minecraft:wooden_slab:5",
-            "thaumcraft:slab_wood:0",
-            "thaumcraft:slab_wood:1"
+            "minecraft:wooden_slab:0:1",
+            "minecraft:wooden_slab:1:1",
+            "minecraft:wooden_slab:2:1",
+            "minecraft:wooden_slab:3:1",
+            "minecraft:wooden_slab:4:1",
+            "minecraft:wooden_slab:5:1",
+            "thaumcraft:slab_wood:0:1",
+            "thaumcraft:slab_wood:1:1"
           ]
         }
       ],
@@ -122,7 +122,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:coal_block:0"
+            "minecraft:coal_block:0:1"
           ]
         }
       ],
@@ -138,12 +138,12 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:sapling:0",
-            "minecraft:sapling:1",
-            "minecraft:sapling:2",
-            "minecraft:sapling:3",
-            "minecraft:sapling:4",
-            "minecraft:sapling:5"
+            "minecraft:sapling:0:0",
+            "minecraft:sapling:1:0",
+            "minecraft:sapling:2:0",
+            "minecraft:sapling:3:0",
+            "minecraft:sapling:4:0",
+            "minecraft:sapling:5:0"
           ]
         }
       ],
@@ -159,8 +159,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:chest:0",
-            "minecraft:trapped_chest:0"
+            "minecraft:chest:0:1",
+            "minecraft:trapped_chest:0:0"
           ]
         }
       ],
@@ -176,7 +176,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:chest:0"
+            "minecraft:chest:0:1"
           ]
         }
       ],
@@ -192,8 +192,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:crafting_table:0",
-            "tconstruct:tooltables:0"
+            "minecraft:crafting_table:0:1",
+            "tconstruct:tooltables:0:0"
           ]
         }
       ],
@@ -209,7 +209,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:jukebox:0"
+            "minecraft:jukebox:0:0"
           ]
         }
       ],
@@ -225,7 +225,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:fence:0"
+            "minecraft:fence:0:0"
           ]
         }
       ],
@@ -241,7 +241,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:trapped_chest:0"
+            "minecraft:trapped_chest:0:1"
           ]
         }
       ],
@@ -257,7 +257,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:spruce_fence:0"
+            "minecraft:spruce_fence:0:0"
           ]
         }
       ],
@@ -273,7 +273,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:birch_fence:0"
+            "minecraft:birch_fence:0:0"
           ]
         }
       ],
@@ -289,7 +289,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:jungle_fence:0"
+            "minecraft:jungle_fence:0:0"
           ]
         }
       ],
@@ -305,7 +305,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:dark_oak_fence:0"
+            "minecraft:dark_oak_fence:0:0"
           ]
         }
       ],
@@ -321,7 +321,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:acacia_fence:0"
+            "minecraft:acacia_fence:0:0"
           ]
         }
       ],
@@ -337,7 +337,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:15"
+            "minecraft:banner:15:0"
           ]
         }
       ],
@@ -353,7 +353,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:14"
+            "minecraft:banner:14:0"
           ]
         }
       ],
@@ -369,7 +369,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:13"
+            "minecraft:banner:13:0"
           ]
         }
       ],
@@ -385,7 +385,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:12"
+            "minecraft:banner:12:0"
           ]
         }
       ],
@@ -401,7 +401,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:11"
+            "minecraft:banner:11:0"
           ]
         }
       ],
@@ -417,7 +417,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:10"
+            "minecraft:banner:10:0"
           ]
         }
       ],
@@ -433,7 +433,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:9"
+            "minecraft:banner:9:0"
           ]
         }
       ],
@@ -449,7 +449,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:8"
+            "minecraft:banner:8:0"
           ]
         }
       ],
@@ -465,7 +465,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:7"
+            "minecraft:banner:7:0"
           ]
         }
       ],
@@ -481,7 +481,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:6"
+            "minecraft:banner:6:0"
           ]
         }
       ],
@@ -497,7 +497,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:5"
+            "minecraft:banner:5:0"
           ]
         }
       ],
@@ -513,7 +513,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:4"
+            "minecraft:banner:4:0"
           ]
         }
       ],
@@ -529,7 +529,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:3"
+            "minecraft:banner:3:0"
           ]
         }
       ],
@@ -545,7 +545,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:2"
+            "minecraft:banner:2:0"
           ]
         }
       ],
@@ -561,7 +561,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:1"
+            "minecraft:banner:1:0"
           ]
         }
       ],
@@ -577,7 +577,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:0"
+            "minecraft:banner:0:0"
           ]
         }
       ],
@@ -593,7 +593,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:noteblock:0"
+            "minecraft:noteblock:0:0"
           ]
         }
       ],
@@ -609,7 +609,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_pressure_plate:0"
+            "minecraft:wooden_pressure_plate:0:0"
           ]
         }
       ],
@@ -625,7 +625,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:trapdoor:0"
+            "minecraft:trapdoor:0:1"
           ]
         }
       ],
@@ -641,7 +641,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:fence_gate:0"
+            "minecraft:fence_gate:0:0"
           ]
         }
       ],
@@ -657,7 +657,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:daylight_detector:0"
+            "minecraft:daylight_detector:0:1"
           ]
         }
       ],
@@ -673,7 +673,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:spruce_fence_gate:0"
+            "minecraft:spruce_fence_gate:0:0"
           ]
         }
       ],
@@ -689,7 +689,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:birch_fence_gate:0"
+            "minecraft:birch_fence_gate:0:0"
           ]
         }
       ],
@@ -705,7 +705,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:jungle_fence_gate:0"
+            "minecraft:jungle_fence_gate:0:0"
           ]
         }
       ],
@@ -721,7 +721,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:dark_oak_fence_gate:0"
+            "minecraft:dark_oak_fence_gate:0:0"
           ]
         }
       ],
@@ -737,7 +737,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:acacia_fence_gate:0"
+            "minecraft:acacia_fence_gate:0:0"
           ]
         }
       ],
@@ -753,7 +753,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:lava_bucket:0"
+            "minecraft:lava_bucket:0:1"
           ]
         }
       ],
@@ -769,7 +769,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_shovel:0"
+            "minecraft:wooden_shovel:0:0"
           ]
         }
       ],
@@ -785,7 +785,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_pickaxe:0"
+            "minecraft:wooden_pickaxe:0:0"
           ]
         }
       ],
@@ -801,7 +801,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_axe:0"
+            "minecraft:wooden_axe:0:0"
           ]
         }
       ],
@@ -817,7 +817,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_hoe:0"
+            "minecraft:wooden_hoe:0:0"
           ]
         }
       ],
@@ -833,7 +833,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:wooden_sword:0"
+            "minecraft:wooden_sword:0:0"
           ]
         }
       ],
@@ -849,7 +849,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:coal:0"
+            "minecraft:coal:0:1"
           ]
         }
       ],
@@ -865,7 +865,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:coal:1"
+            "minecraft:coal:1:1"
           ]
         }
       ],
@@ -881,7 +881,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:stick:0"
+            "minecraft:stick:0:1"
           ]
         }
       ],
@@ -897,7 +897,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:blaze_rod:0"
+            "minecraft:blaze_rod:0:1"
           ]
         }
       ],
@@ -913,7 +913,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:greatwood_stairs:0"
+            "thaumcraft:greatwood_stairs:0:0"
           ]
         }
       ],
@@ -929,7 +929,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:silverwood_stairs:0"
+            "thaumcraft:silverwood_stairs:0:0"
           ]
         }
       ],
@@ -945,7 +945,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:loot_crate:0"
+            "thaumcraft:loot_crate:2:0"
           ]
         }
       ],
@@ -961,7 +961,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:loot_crate:1"
+            "thaumcraft:loot_crate:0:0"
           ]
         }
       ],
@@ -977,7 +977,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:loot_crate:2"
+            "thaumcraft:loot_crate:1:0"
           ]
         }
       ],
@@ -993,7 +993,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:table_wood:0"
+            "thaumcraft:table_wood:0:0"
           ]
         }
       ],
@@ -1009,7 +1009,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:1"
+            "thaumcraft:banner:1:0"
           ]
         }
       ],
@@ -1025,7 +1025,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1041,7 +1041,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1057,7 +1057,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1073,7 +1073,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1089,7 +1089,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1105,7 +1105,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1121,7 +1121,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1137,7 +1137,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1153,7 +1153,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1169,7 +1169,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1185,7 +1185,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1201,7 +1201,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1217,7 +1217,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1233,7 +1233,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1249,7 +1249,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1265,7 +1265,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:banner:0"
+            "thaumcraft:banner:0:16"
           ]
         }
       ],
@@ -1281,7 +1281,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:research_table:0"
+            "thaumcraft:research_table:0:0"
           ]
         }
       ],
@@ -1297,7 +1297,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:arcane_workbench:0"
+            "thaumcraft:arcane_workbench:0:0"
           ]
         }
       ],
@@ -1313,7 +1313,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:arcane_workbench_charger:0"
+            "thaumcraft:arcane_workbench_charger:0:1"
           ]
         }
       ],
@@ -1329,7 +1329,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:arcane_ear:0"
+            "thaumcraft:arcane_ear:0:1"
           ]
         }
       ],
@@ -1345,7 +1345,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:levitator:0"
+            "thaumcraft:levitator:0:1"
           ]
         }
       ],
@@ -1361,7 +1361,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:crystallizer:0"
+            "thaumcraft:crystallizer:0:1"
           ]
         }
       ],
@@ -1377,7 +1377,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:centrifuge:0"
+            "thaumcraft:centrifuge:0:1"
           ]
         }
       ],
@@ -1393,7 +1393,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:bellows:0"
+            "thaumcraft:bellows:0:1"
           ]
         }
       ],
@@ -1409,7 +1409,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:alembic:0"
+            "thaumcraft:alembic:0:1"
           ]
         }
       ],
@@ -1425,7 +1425,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:hungry_chest:0"
+            "thaumcraft:hungry_chest:0:1"
           ]
         }
       ],
@@ -1441,7 +1441,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:arcane_bore:0"
+            "thaumcraft:arcane_bore:0:1"
           ]
         }
       ],
@@ -1457,7 +1457,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:arcane_bore_base:0"
+            "thaumcraft:arcane_bore_base:0:1"
           ]
         }
       ],
@@ -1473,7 +1473,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:4"
+            "thaumcraft:aura_totem:3:1"
           ]
         }
       ],
@@ -1489,7 +1489,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:3"
+            "thaumcraft:aura_totem:1:1"
           ]
         }
       ],
@@ -1505,7 +1505,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:1"
+            "thaumcraft:aura_totem:4:1"
           ]
         }
       ],
@@ -1521,7 +1521,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:2"
+            "thaumcraft:aura_totem:2:1"
           ]
         }
       ],
@@ -1537,7 +1537,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:aura_totem:0"
+            "thaumcraft:aura_totem:0:1"
           ]
         }
       ],
@@ -1553,7 +1553,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:alumentum:0"
+            "thaumcraft:alumentum:0:1"
           ]
         }
       ],
@@ -1569,7 +1569,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:0"
           ]
         }
       ],
@@ -1585,7 +1585,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:1"
           ]
         }
       ],
@@ -1601,7 +1601,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:2"
           ]
         }
       ],
@@ -1617,7 +1617,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:3"
           ]
         }
       ],
@@ -1633,7 +1633,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:4"
           ]
         }
       ],
@@ -1649,7 +1649,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:5"
           ]
         }
       ],
@@ -1665,7 +1665,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:6"
           ]
         }
       ],
@@ -1681,7 +1681,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:1"
+            "tconstruct:tooltables:1:7"
           ]
         }
       ],
@@ -1697,7 +1697,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:4"
+            "tconstruct:tooltables:4:0"
           ]
         }
       ],
@@ -1713,7 +1713,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:0"
           ]
         }
       ],
@@ -1729,7 +1729,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:1"
           ]
         }
       ],
@@ -1745,7 +1745,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:2"
           ]
         }
       ],
@@ -1761,7 +1761,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:3"
           ]
         }
       ],
@@ -1777,7 +1777,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:4"
           ]
         }
       ],
@@ -1793,7 +1793,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:5"
           ]
         }
       ],
@@ -1809,7 +1809,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:6"
           ]
         }
       ],
@@ -1825,7 +1825,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:2"
+            "tconstruct:tooltables:2:7"
           ]
         }
       ],
@@ -1841,7 +1841,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:5"
+            "tconstruct:tooltables:5:0"
           ]
         }
       ],
@@ -1857,7 +1857,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tooltables:3"
+            "tconstruct:tooltables:3:0"
           ]
         }
       ],
@@ -1873,7 +1873,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:brown_mushroom_block:0"
+            "minecraft:brown_mushroom_block:0:0"
           ]
         }
       ],
@@ -1889,7 +1889,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:red_mushroom_block:0"
+            "minecraft:red_mushroom_block:0:0"
           ]
         }
       ],
@@ -1905,7 +1905,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:banner:0"
+            "minecraft:banner:0:1"
           ]
         }
       ],

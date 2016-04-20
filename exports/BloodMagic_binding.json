@@ -1,0 +1,314 @@
+{
+  "category": "Alchemy Array (Binding)",
+  "bg": {
+    "w": 100,
+    "h": 30,
+    "tex": "BloodMagic:binding"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:0"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond_pickaxe:0:1"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBoundPickaxe:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond_shovel:0:1"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBoundShovel:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_leggings:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourLegs:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond_sword:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBoundSword:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_chestplate:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourChest:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_helmet:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourHelmet:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_boots:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourBoots:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemComponent:8:1"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond_axe:0:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBoundAxe:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    }
+  ]
+}

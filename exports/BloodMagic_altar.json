@@ -1,0 +1,604 @@
+{
+  "category": "Blood Altar",
+  "bg": {
+    "w": 155,
+    "h": 65,
+    "tex": "BloodMagic:altar"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemSlate:3:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemSlate:4:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:diamond:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:redstone_block:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:1:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemSlate:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemSlate:1:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:coal_block:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:5:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:bucket:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBucketEssence:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:iron_sword:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemDaggerOfSacrifice:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemBloodShard:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:3:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:stone:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemSlate:0:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:gold_block:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:2:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemTelepositionFocus:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemTelepositionFocus:1:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:nether_star:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:4:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:glowstone:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:6:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:ghast_tear:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:4:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemLavaCrystal:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemActivationCrystal:0:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:BlockCrystal:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemBloodOrb:5:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemSlate:2:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemSlate:3:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:magma_cream:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:2:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:ender_pearl:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemTelepositionFocus:0:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "bloodmagic:ItemSlate:1:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemSlate:2:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:lapis_block:0:0"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:1:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 31,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "stacks": [
+            "minecraft:obsidian:0:1"
+          ]
+        },
+        {
+          "x": 125,
+          "y": 30,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemInscriptionTool:3:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    }
+  ]
+}

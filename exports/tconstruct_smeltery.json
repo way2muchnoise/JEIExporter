@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:nuggets:3"
+            "tconstruct:nuggets:3:1"
           ]
         }
       ],
@@ -55,7 +55,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ingots:3"
+            "tconstruct:ingots:3:1"
           ]
         }
       ],
@@ -94,7 +94,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:metal:3"
+            "tconstruct:metal:3:1"
           ]
         }
       ],
@@ -133,7 +133,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -172,7 +172,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -211,7 +211,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -250,7 +250,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -289,7 +289,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -328,7 +328,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -367,7 +367,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -406,7 +406,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -445,7 +445,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -484,7 +484,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -523,7 +523,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -562,7 +562,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -601,7 +601,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -640,7 +640,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -679,7 +679,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -718,7 +718,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -757,7 +757,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -796,7 +796,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -835,7 +835,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -874,7 +874,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:nugget:0"
+            "thaumcraft:nugget:0:2"
           ]
         }
       ],
@@ -913,7 +913,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_ingot:0"
+            "minecraft:iron_ingot:0:2"
           ]
         }
       ],
@@ -952,7 +952,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_block:0"
+            "minecraft:iron_block:0:1"
           ]
         }
       ],
@@ -991,7 +991,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_ore:0"
+            "minecraft:iron_ore:0:1"
           ]
         }
       ],
@@ -1030,7 +1030,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:plate:1"
+            "thaumcraft:plate:1:1"
           ]
         }
       ],
@@ -1069,7 +1069,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -1108,7 +1108,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -1147,7 +1147,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -1186,7 +1186,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -1225,7 +1225,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -1264,7 +1264,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -1303,7 +1303,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -1342,7 +1342,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -1381,7 +1381,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -1420,7 +1420,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -1459,7 +1459,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -1498,7 +1498,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -1537,7 +1537,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -1576,7 +1576,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -1615,7 +1615,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -1654,7 +1654,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -1693,7 +1693,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -1732,7 +1732,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -1771,7 +1771,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -1810,7 +1810,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:nuggets:4"
+            "tconstruct:nuggets:4:1"
           ]
         }
       ],
@@ -1849,7 +1849,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ingots:4"
+            "tconstruct:ingots:4:1"
           ]
         }
       ],
@@ -1888,7 +1888,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:metal:4"
+            "tconstruct:metal:4:1"
           ]
         }
       ],
@@ -1927,7 +1927,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -1966,7 +1966,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -2005,7 +2005,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -2044,7 +2044,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -2083,7 +2083,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -2122,7 +2122,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -2161,7 +2161,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -2200,7 +2200,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -2239,7 +2239,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -2278,7 +2278,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -2317,7 +2317,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -2356,7 +2356,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -2395,7 +2395,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -2434,7 +2434,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -2473,7 +2473,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -2512,7 +2512,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -2551,7 +2551,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -2590,7 +2590,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -2629,7 +2629,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -2668,7 +2668,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:nuggets:0"
+            "tconstruct:nuggets:0:1"
           ]
         }
       ],
@@ -2707,7 +2707,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ingots:0"
+            "tconstruct:ingots:0:1"
           ]
         }
       ],
@@ -2746,7 +2746,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:metal:0"
+            "tconstruct:metal:0:1"
           ]
         }
       ],
@@ -2785,7 +2785,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ore:0"
+            "tconstruct:ore:0:0"
           ]
         }
       ],
@@ -2824,7 +2824,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -2863,7 +2863,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -2902,7 +2902,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -2941,7 +2941,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -2980,7 +2980,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -3019,7 +3019,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -3058,7 +3058,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -3097,7 +3097,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -3136,7 +3136,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -3175,7 +3175,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -3214,7 +3214,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -3253,7 +3253,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -3292,7 +3292,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -3331,7 +3331,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -3370,7 +3370,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -3409,7 +3409,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -3448,7 +3448,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -3487,7 +3487,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -3526,7 +3526,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -3565,7 +3565,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:nuggets:1"
+            "tconstruct:nuggets:1:1"
           ]
         }
       ],
@@ -3604,7 +3604,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ingots:1"
+            "tconstruct:ingots:1:1"
           ]
         }
       ],
@@ -3643,7 +3643,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:metal:1"
+            "tconstruct:metal:1:1"
           ]
         }
       ],
@@ -3682,7 +3682,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ore:1"
+            "tconstruct:ore:1:0"
           ]
         }
       ],
@@ -3721,7 +3721,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -3760,7 +3760,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -3799,7 +3799,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -3838,7 +3838,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -3877,7 +3877,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -3916,7 +3916,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -3955,7 +3955,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -3994,7 +3994,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -4033,7 +4033,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -4072,7 +4072,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -4111,7 +4111,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -4150,7 +4150,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -4189,7 +4189,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -4228,7 +4228,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -4267,7 +4267,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -4306,7 +4306,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -4345,7 +4345,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -4384,7 +4384,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -4423,7 +4423,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -4462,7 +4462,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:nuggets:2"
+            "tconstruct:nuggets:2:1"
           ]
         }
       ],
@@ -4501,7 +4501,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:ingots:2"
+            "tconstruct:ingots:2:1"
           ]
         }
       ],
@@ -4540,7 +4540,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:metal:2"
+            "tconstruct:metal:2:1"
           ]
         }
       ],
@@ -4579,7 +4579,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -4618,7 +4618,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -4657,7 +4657,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -4696,7 +4696,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -4735,7 +4735,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -4774,7 +4774,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -4813,7 +4813,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -4852,7 +4852,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -4891,7 +4891,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -4930,7 +4930,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -4969,7 +4969,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -5008,7 +5008,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -5047,7 +5047,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -5086,7 +5086,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -5125,7 +5125,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -5164,7 +5164,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -5203,7 +5203,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -5242,7 +5242,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -5281,7 +5281,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -5320,8 +5320,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_nugget:0",
-            "thaumcraft:coin:0"
+            "minecraft:gold_nugget:0:2",
+            "thaumcraft:coin:0:1"
           ]
         }
       ],
@@ -5360,7 +5360,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_ingot:0"
+            "minecraft:gold_ingot:0:2"
           ]
         }
       ],
@@ -5399,7 +5399,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_block:0"
+            "minecraft:gold_block:0:1"
           ]
         }
       ],
@@ -5438,7 +5438,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_ore:0"
+            "minecraft:gold_ore:0:1"
           ]
         }
       ],
@@ -5477,7 +5477,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:nugget:8"
+            "thaumcraft:nugget:8:1"
           ]
         }
       ],
@@ -5516,7 +5516,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:ingot:2"
+            "thaumcraft:ingot:2:1"
           ]
         }
       ],
@@ -5555,7 +5555,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:metal:4"
+            "thaumcraft:metal:4:1"
           ]
         }
       ],
@@ -5594,7 +5594,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:plate:0"
+            "thaumcraft:plate:0:1"
           ]
         }
       ],
@@ -5633,7 +5633,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:gear:0"
+            "thaumcraft:gear:0:1"
           ]
         }
       ],
@@ -5672,7 +5672,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:ice:0"
+            "minecraft:ice:0:1"
           ]
         }
       ],
@@ -5711,7 +5711,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:packed_ice:0"
+            "minecraft:packed_ice:0:0"
           ]
         }
       ],
@@ -5750,7 +5750,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:snow:0"
+            "minecraft:snow:0:1"
           ]
         }
       ],
@@ -5789,7 +5789,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:snowball:0"
+            "minecraft:snowball:0:0"
           ]
         }
       ],
@@ -5828,7 +5828,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:rotten_flesh:0"
+            "minecraft:rotten_flesh:0:1"
           ]
         }
       ],
@@ -5867,7 +5867,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:edible:2"
+            "tconstruct:edible:2:0"
           ]
         }
       ],
@@ -5906,7 +5906,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:slime_congealed:2"
+            "tconstruct:slime_congealed:2:0"
           ]
         }
       ],
@@ -5945,7 +5945,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:slime:2"
+            "tconstruct:slime:2:0"
           ]
         }
       ],
@@ -5984,7 +5984,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:stone:0"
+            "minecraft:stone:0:1"
           ]
         }
       ],
@@ -6023,7 +6023,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:cobblestone:0"
+            "minecraft:cobblestone:0:1"
           ]
         }
       ],
@@ -6062,7 +6062,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:obsidian:0"
+            "minecraft:obsidian:0:1"
           ]
         }
       ],
@@ -6101,7 +6101,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -6140,7 +6140,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -6179,7 +6179,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -6218,7 +6218,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -6257,7 +6257,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -6296,7 +6296,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -6335,7 +6335,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -6374,7 +6374,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -6413,7 +6413,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -6452,7 +6452,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -6491,7 +6491,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -6530,7 +6530,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -6569,7 +6569,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -6608,7 +6608,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -6647,7 +6647,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -6686,7 +6686,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -6725,7 +6725,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -6764,7 +6764,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -6803,7 +6803,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shard:0"
+            "tconstruct:shard:0:21"
           ]
         }
       ],
@@ -6842,7 +6842,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sharpening_kit:0"
+            "tconstruct:sharpening_kit:0:21"
           ]
         }
       ],
@@ -6881,7 +6881,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tool_rod:0"
+            "tconstruct:tool_rod:0:21"
           ]
         }
       ],
@@ -6920,7 +6920,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pick_head:0"
+            "tconstruct:pick_head:0:21"
           ]
         }
       ],
@@ -6959,7 +6959,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:binding:0"
+            "tconstruct:binding:0:21"
           ]
         }
       ],
@@ -6998,7 +6998,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:shovel_head:0"
+            "tconstruct:shovel_head:0:21"
           ]
         }
       ],
@@ -7037,7 +7037,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:axe_head:0"
+            "tconstruct:axe_head:0:21"
           ]
         }
       ],
@@ -7076,7 +7076,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sword_blade:0"
+            "tconstruct:sword_blade:0:21"
           ]
         }
       ],
@@ -7115,7 +7115,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:wide_guard:0"
+            "tconstruct:wide_guard:0:21"
           ]
         }
       ],
@@ -7154,7 +7154,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hand_guard:0"
+            "tconstruct:hand_guard:0:21"
           ]
         }
       ],
@@ -7193,7 +7193,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:pan_head:0"
+            "tconstruct:pan_head:0:21"
           ]
         }
       ],
@@ -7232,7 +7232,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:sign_head:0"
+            "tconstruct:sign_head:0:21"
           ]
         }
       ],
@@ -7271,7 +7271,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_tool_rod:0"
+            "tconstruct:tough_tool_rod:0:21"
           ]
         }
       ],
@@ -7310,7 +7310,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:hammer_head:0"
+            "tconstruct:hammer_head:0:21"
           ]
         }
       ],
@@ -7349,7 +7349,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_plate:0"
+            "tconstruct:large_plate:0:21"
           ]
         }
       ],
@@ -7388,7 +7388,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:excavator_head:0"
+            "tconstruct:excavator_head:0:21"
           ]
         }
       ],
@@ -7427,7 +7427,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:tough_binding:0"
+            "tconstruct:tough_binding:0:21"
           ]
         }
       ],
@@ -7466,7 +7466,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:broad_axe_head:0"
+            "tconstruct:broad_axe_head:0:21"
           ]
         }
       ],
@@ -7505,7 +7505,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:large_sword_blade:0"
+            "tconstruct:large_sword_blade:0:21"
           ]
         }
       ],
@@ -7544,15 +7544,15 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:seared:0",
-            "tconstruct:seared:1",
-            "tconstruct:seared:2",
-            "tconstruct:seared:3",
-            "tconstruct:seared:4",
-            "tconstruct:seared:5",
-            "tconstruct:seared:6",
-            "tconstruct:seared:7",
-            "tconstruct:seared:8"
+            "tconstruct:seared:0:1",
+            "tconstruct:seared:1:0",
+            "tconstruct:seared:2:0",
+            "tconstruct:seared:3:0",
+            "tconstruct:seared:4:0",
+            "tconstruct:seared:5:0",
+            "tconstruct:seared:6:0",
+            "tconstruct:seared:7:0",
+            "tconstruct:seared:8:0"
           ]
         }
       ],
@@ -7591,7 +7591,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:materials:0"
+            "tconstruct:materials:0:1"
           ]
         }
       ],
@@ -7630,9 +7630,9 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:dirt:0",
-            "minecraft:dirt:1",
-            "minecraft:dirt:2"
+            "minecraft:dirt:0:1",
+            "minecraft:dirt:1:0",
+            "minecraft:dirt:2:0"
           ]
         }
       ],
@@ -7671,7 +7671,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:clay_ball:0"
+            "minecraft:clay_ball:0:1"
           ]
         }
       ],
@@ -7710,7 +7710,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:clay:0"
+            "minecraft:clay:0:1"
           ]
         }
       ],
@@ -7749,7 +7749,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:emerald:0"
+            "minecraft:emerald:0:1"
           ]
         }
       ],
@@ -7788,7 +7788,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:emerald_block:0"
+            "minecraft:emerald_block:0:1"
           ]
         }
       ],
@@ -7825,7 +7825,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_chestplate:0"
+            "minecraft:iron_chestplate:0:1"
           ]
         }
       ],
@@ -7864,7 +7864,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_leggings:0"
+            "minecraft:iron_leggings:0:1"
           ]
         }
       ],
@@ -7903,7 +7903,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:golden_chestplate:0"
+            "minecraft:golden_chestplate:0:0"
           ]
         }
       ],
@@ -7942,7 +7942,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:golden_leggings:0"
+            "minecraft:golden_leggings:0:0"
           ]
         }
       ],
@@ -7981,7 +7981,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:cauldron:0"
+            "minecraft:cauldron:0:1"
           ]
         }
       ],
@@ -8020,7 +8020,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_bars:0"
+            "minecraft:iron_bars:0:1"
           ]
         }
       ],
@@ -8059,7 +8059,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_helmet:0"
+            "minecraft:iron_helmet:0:1"
           ]
         }
       ],
@@ -8098,7 +8098,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_boots:0"
+            "minecraft:iron_boots:0:1"
           ]
         }
       ],
@@ -8137,7 +8137,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:golden_helmet:0"
+            "minecraft:golden_helmet:0:0"
           ]
         }
       ],
@@ -8176,7 +8176,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:golden_boots:0"
+            "minecraft:golden_boots:0:0"
           ]
         }
       ],
@@ -8215,7 +8215,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_door:0"
+            "minecraft:iron_door:0:0"
           ]
         }
       ],
@@ -8254,7 +8254,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:minecart:0"
+            "minecraft:minecart:0:0"
           ]
         }
       ],
@@ -8293,7 +8293,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:bucket:0"
+            "minecraft:bucket:0:1"
           ]
         }
       ],
@@ -8332,7 +8332,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:shears:0"
+            "minecraft:shears:0:0"
           ]
         }
       ],
@@ -8371,7 +8371,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_trapdoor:0"
+            "minecraft:iron_trapdoor:0:0"
           ]
         }
       ],
@@ -8410,7 +8410,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:heavy_weighted_pressure_plate:0"
+            "minecraft:heavy_weighted_pressure_plate:0:0"
           ]
         }
       ],
@@ -8449,7 +8449,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:light_weighted_pressure_plate:0"
+            "minecraft:light_weighted_pressure_plate:0:0"
           ]
         }
       ],
@@ -8488,7 +8488,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:baubles:1"
+            "thaumcraft:baubles:1:1"
           ]
         }
       ],
@@ -8527,7 +8527,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:wand_cap:0"
+            "thaumcraft:wand_cap:0:1"
           ]
         }
       ],

@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:porkchop:0"
+            "thaumcraft:cluster:0:1"
           ]
         },
         {
@@ -27,7 +27,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_porkchop:0"
+            "minecraft:iron_ingot:0:1"
           ]
         },
         {
@@ -38,7 +38,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:2"
+            "thaumcraft:nugget:0:2"
           ]
         }
       ],
@@ -54,7 +54,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_ore:0"
+            "thaumcraft:cluster:1:1"
           ]
         },
         {
@@ -65,7 +65,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:iron_ingot:0"
+            "minecraft:gold_ingot:0:1"
           ]
         },
         {
@@ -76,7 +76,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:nugget:0"
+            "minecraft:gold_nugget:0:2"
           ]
         }
       ],
@@ -92,7 +92,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_ore:0"
+            "minecraft:porkchop:0:1"
           ]
         },
         {
@@ -103,7 +103,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_ingot:0"
+            "minecraft:cooked_porkchop:0:0"
           ]
         },
         {
@@ -114,7 +114,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_nugget:0"
+            "thaumcraft:chunk:2:0"
           ]
         }
       ],
@@ -130,7 +130,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:rabbit:0"
+            "minecraft:iron_ore:0:1"
           ]
         },
         {
@@ -141,7 +141,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_rabbit:0"
+            "minecraft:iron_ingot:0:2"
           ]
         },
         {
@@ -152,7 +152,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:4"
+            "thaumcraft:nugget:0:2"
           ]
         }
       ],
@@ -168,7 +168,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:chicken:0"
+            "minecraft:gold_ore:0:1"
           ]
         },
         {
@@ -179,7 +179,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_chicken:0"
+            "minecraft:gold_ingot:0:2"
           ]
         },
         {
@@ -190,7 +190,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:1"
+            "minecraft:gold_nugget:0:2"
           ]
         }
       ],
@@ -206,7 +206,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:ore_cinnabar:0"
+            "minecraft:rabbit:0:0"
           ]
         },
         {
@@ -217,7 +217,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:quicksilver:0"
+            "minecraft:cooked_rabbit:0:0"
           ]
         },
         {
@@ -228,7 +228,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:nugget:5"
+            "thaumcraft:chunk:4:0"
           ]
         }
       ],
@@ -244,7 +244,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:beef:0"
+            "minecraft:chicken:0:0"
           ]
         },
         {
@@ -255,7 +255,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_beef:0"
+            "minecraft:cooked_chicken:0:0"
           ]
         },
         {
@@ -266,7 +266,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:0"
+            "thaumcraft:chunk:1:0"
           ]
         }
       ],
@@ -282,7 +282,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:mutton:0"
+            "thaumcraft:ore_cinnabar:0:1"
           ]
         },
         {
@@ -293,7 +293,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_mutton:0"
+            "thaumcraft:quicksilver:0:1"
           ]
         },
         {
@@ -304,7 +304,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:5"
+            "thaumcraft:nugget:5:1"
           ]
         }
       ],
@@ -320,7 +320,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:6"
+            "minecraft:beef:0:1"
           ]
         },
         {
@@ -331,7 +331,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:quicksilver:0"
+            "minecraft:cooked_beef:0:0"
           ]
         },
         {
@@ -342,7 +342,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:nugget:5"
+            "thaumcraft:chunk:0:0"
           ]
         }
       ],
@@ -358,10 +358,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:fish:0",
-            "minecraft:fish:1",
-            "minecraft:fish:2",
-            "minecraft:fish:3"
+            "minecraft:mutton:0:1"
           ]
         },
         {
@@ -372,7 +369,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_fish:0"
+            "minecraft:cooked_mutton:0:0"
           ]
         },
         {
@@ -383,7 +380,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:chunk:3"
+            "thaumcraft:chunk:5:0"
           ]
         }
       ],
@@ -399,7 +396,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:0"
+            "thaumcraft:cluster:6:1"
           ]
         },
         {
@@ -410,7 +407,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:iron_ingot:0"
+            "thaumcraft:quicksilver:0:1"
           ]
         },
         {
@@ -421,7 +418,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:nugget:0"
+            "thaumcraft:nugget:5:1"
           ]
         }
       ],
@@ -437,7 +434,10 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:1"
+            "minecraft:fish:0:1",
+            "minecraft:fish:1:1",
+            "minecraft:fish:2:1",
+            "minecraft:fish:3:1"
           ]
         },
         {
@@ -448,7 +448,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_ingot:0"
+            "minecraft:cooked_fish:0:0"
           ]
         },
         {
@@ -459,7 +459,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_nugget:0"
+            "thaumcraft:chunk:3:0"
           ]
         }
       ],
