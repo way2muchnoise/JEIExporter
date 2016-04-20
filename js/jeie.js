@@ -352,7 +352,7 @@ function updateSearch()
 	itemlist = {};
 	for (var itemname in lookupMap)
 	{
-		if (lookupMap[itemname].toLowerCase().indexOf(search) > -1)
+		if (lookupMap[itemname].toLowerCase().indexOf(search.toLowerCase()) > -1)
 			itemlist[lookupMap[itemname]] = itemname;
 	}
 	totalPages = Math.ceil(Object.keys(itemlist).length / itemsPerPage);
