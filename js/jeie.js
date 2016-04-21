@@ -333,7 +333,21 @@ function recipesForItem()
 						}
 						data[currentCat].recipes.push(recipe);
 						usedCat = true;
-						console.log("found");
+						break recipeLabel;
+					}
+				}
+				for (var iii = recipe.ingredientFluids.length - 1; iii >= 0; iii--) {
+					if ($.inArray(item, recipe.ingredientFluids[iii].fluids) != -1)
+					{
+						if (!usedCat)
+						{
+							data[currentCat] = {};
+							data[currentCat].category = category.category;
+							data[currentCat].bg = category.bg;
+							data[currentCat].recipes = [];
+						}
+						data[currentCat].recipes.push(recipe);
+						usedCat = true;
 						break recipeLabel;
 					}
 				}
@@ -373,7 +387,7 @@ $(document).ready(function() {
 	$("#grayBox").on("mousewheel", recipeScrolling);
 	$(".itemlist").on("mousewheel", listScrolling);
 	$("#cat").on("click", toAllRecipes);
-	$(".content").on("click", ".itemstack", recipesForItem);
+	$(".content").on("click", ".itemstack,.fluidstack", recipesForItem);
 	loadDefaultFiles();
 	setInterval(cycle, 1300);
 	$("#search").on("keyup", updateSearch);
