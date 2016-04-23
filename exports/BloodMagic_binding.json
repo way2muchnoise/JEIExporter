@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:0"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -27,7 +27,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond_pickaxe:0:1"
+            "minecraft:diamond_pickaxe:0"
           ]
         },
         {
@@ -38,7 +38,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBoundPickaxe:0:0"
+            "bloodmagic:ItemBoundPickaxe:0"
           ]
         }
       ],
@@ -54,7 +54,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -65,7 +65,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond_shovel:0:1"
+            "minecraft:iron_helmet:0"
           ]
         },
         {
@@ -76,7 +76,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBoundShovel:0:0"
+            "bloodmagic:ItemLivingArmourHelmet:0"
           ]
         }
       ],
@@ -92,7 +92,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -103,7 +103,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_leggings:0:0"
+            "minecraft:iron_chestplate:0"
           ]
         },
         {
@@ -114,7 +114,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemLivingArmourLegs:0:0"
+            "bloodmagic:ItemLivingArmourChest:0"
           ]
         }
       ],
@@ -130,7 +130,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -141,7 +141,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond_sword:0:0"
+            "minecraft:diamond_axe:0"
           ]
         },
         {
@@ -152,7 +152,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBoundSword:0:0"
+            "bloodmagic:ItemBoundAxe:0"
           ]
         }
       ],
@@ -168,7 +168,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -179,7 +179,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_chestplate:0:0"
+            "minecraft:diamond_sword:0"
           ]
         },
         {
@@ -190,7 +190,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemLivingArmourChest:0:0"
+            "bloodmagic:ItemBoundSword:0"
           ]
         }
       ],
@@ -206,7 +206,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -217,7 +217,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_helmet:0:0"
+            "minecraft:iron_leggings:0"
           ]
         },
         {
@@ -228,7 +228,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemLivingArmourHelmet:0:0"
+            "bloodmagic:ItemLivingArmourLegs:0"
           ]
         }
       ],
@@ -244,7 +244,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -255,7 +255,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_boots:0:0"
+            "minecraft:diamond_shovel:0"
           ]
         },
         {
@@ -266,7 +266,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemLivingArmourBoots:0:0"
+            "bloodmagic:ItemBoundShovel:0"
           ]
         }
       ],
@@ -282,7 +282,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:8:1"
+            "bloodmagic:ItemComponent:8"
           ]
         },
         {
@@ -293,7 +293,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond_axe:0:0"
+            "minecraft:iron_boots:0"
           ]
         },
         {
@@ -304,7 +304,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBoundAxe:0:0"
+            "bloodmagic:ItemLivingArmourBoots:0"
           ]
         }
       ],

@@ -29,6 +29,13 @@ p {
 .content {
     margin: auto;
     width: 60%;
+    display: flex;
+}
+
+.recipeBox {
+    width: 410px;
+    margin: auto;
+    margin-right: 20px;
 }
 
 .arrow {
@@ -96,20 +103,24 @@ p {
 }
 
 .itemlist {
-	position: relative;
-	margin: auto;
-	margin-right: 0;
 	width: 230px;
 	height: 330px;
-	top: -350px;
 	text-align: center;
 	background: #A7A7A7;
 	border-radius: 2px;
+	margin: auto;
+	margin-top: 30px;
+    margin-left: 20px;
+    position: relative;
 }
 
 .itemlist span {
 	position: relative;
 	top: 3px;
+}
+.itemlist p {
+	margin-bottom: 10px;
+	margin-top: 5px;
 }
 
 .itemlist #search {
@@ -119,4 +130,8 @@ p {
 	color: #FFFFFF;
 	background: #858585;
 	border-radius: 2px;
+}
+
+#itemlistRenderSpace {
+	position: relative;
 }

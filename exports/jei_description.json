@@ -1,0 +1,42 @@
+{
+  "category": "Description",
+  "bg": {
+    "w": 160,
+    "h": 125,
+    "tex": "jei.description"
+  },
+  "recipes": [
+    {
+      "ingredientItems": [
+        {
+          "x": 71,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemAltarMaker:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 71,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "stacks": [
+            "bloodmagic:ItemMonsterSoul:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    }
+  ]
+}

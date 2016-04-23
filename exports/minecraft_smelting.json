@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:ore_cinnabar:0:1"
+            "tconstruct:soil:3"
           ]
         },
         {
@@ -27,7 +27,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:quicksilver:0:2"
+            "tconstruct:soil:4"
           ]
         }
       ],
@@ -43,7 +43,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:netherrack:0:0"
+            "minecraft:netherrack:0"
           ]
         },
         {
@@ -54,7 +54,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:netherbrick:0:1"
+            "minecraft:netherbrick:0"
           ]
         }
       ],
@@ -70,7 +70,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:clay:0:0"
+            "minecraft:lapis_ore:0"
           ]
         },
         {
@@ -81,7 +81,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:hardened_clay:0:1"
+            "minecraft:dye:4"
           ]
         }
       ],
@@ -97,7 +97,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_ore:0:1"
+            "thaumcraft:ore_cinnabar:0"
           ]
         },
         {
@@ -108,7 +108,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_ingot:0:2"
+            "thaumcraft:quicksilver:0"
           ]
         }
       ],
@@ -124,8 +124,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:sand:0:1",
-            "minecraft:sand:1:1"
+            "minecraft:rabbit:0"
           ]
         },
         {
@@ -136,7 +135,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:glass:0:1"
+            "minecraft:cooked_rabbit:0"
           ]
         }
       ],
@@ -152,7 +151,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:porkchop:0:1"
+            "thaumcraft:cluster:1"
           ]
         },
         {
@@ -163,7 +162,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_porkchop:0:1"
+            "minecraft:gold_ingot:0"
           ]
         }
       ],
@@ -179,7 +178,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:stonebrick:0:0"
+            "minecraft:gold_ore:0"
           ]
         },
         {
@@ -190,7 +189,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:stonebrick:2:0"
+            "minecraft:gold_ingot:0"
           ]
         }
       ],
@@ -206,7 +205,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:potato:0:1"
+            "minecraft:cobblestone:0"
           ]
         },
         {
@@ -217,7 +216,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:baked_potato:0:0"
+            "minecraft:stone:0"
           ]
         }
       ],
@@ -233,8 +232,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:log2:0:1",
-            "minecraft:log2:1:1"
+            "thaumcraft:coin:0"
           ]
         },
         {
@@ -245,7 +243,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:coal:1:1"
+            "minecraft:gold_nugget:0"
           ]
         }
       ],
@@ -261,7 +259,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:soil:0:0"
+            "minecraft:redstone_ore:0"
           ]
         },
         {
@@ -272,7 +270,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "tconstruct:materials:0:1"
+            "minecraft:redstone:0"
           ]
         }
       ],
@@ -288,7 +286,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:cobblestone:0:1"
+            "minecraft:fish:1"
           ]
         },
         {
@@ -299,7 +297,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:stone:0:1"
+            "minecraft:cooked_fish:1"
           ]
         }
       ],
@@ -315,7 +313,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:ore_amber:0:0"
+            "thaumcraft:ore_amber:0"
           ]
         },
         {
@@ -326,7 +324,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:amber:0:1"
+            "thaumcraft:amber:0"
           ]
         }
       ],
@@ -342,7 +340,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond_ore:0:0"
+            "minecraft:beef:0"
           ]
         },
         {
@@ -353,7 +351,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:diamond:0:1"
+            "minecraft:cooked_beef:0"
           ]
         }
       ],
@@ -369,7 +367,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:clay_ball:0:1"
+            "minecraft:fish:0"
           ]
         },
         {
@@ -380,7 +378,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:brick:0:1"
+            "minecraft:cooked_fish:0"
           ]
         }
       ],
@@ -396,7 +394,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:soil:5:0"
+            "minecraft:clay:0"
           ]
         },
         {
@@ -407,7 +405,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "tconstruct:materials:11:0"
+            "minecraft:hardened_clay:0"
           ]
         }
       ],
@@ -423,7 +421,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:6:1"
+            "thaumcraft:cluster:0"
           ]
         },
         {
@@ -434,7 +432,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:quicksilver:0:2"
+            "minecraft:iron_ingot:0"
           ]
         }
       ],
@@ -450,7 +448,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:fish:0:1"
+            "thaumcraft:shard:7"
           ]
         },
         {
@@ -461,7 +459,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_fish:0:1"
+            "thaumcraft:salis_mundus:0"
           ]
         }
       ],
@@ -477,7 +475,10 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:chicken:0:1"
+            "minecraft:log:0",
+            "minecraft:log:1",
+            "minecraft:log:2",
+            "minecraft:log:3"
           ]
         },
         {
@@ -488,7 +489,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_chicken:0:1"
+            "minecraft:coal:1"
           ]
         }
       ],
@@ -504,7 +505,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:cactus:0:1"
+            "tconstruct:soil:5"
           ]
         },
         {
@@ -515,7 +516,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:dye:2:0"
+            "tconstruct:materials:11"
           ]
         }
       ],
@@ -531,7 +532,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:soil:3:0"
+            "minecraft:sand:0",
+            "minecraft:sand:1"
           ]
         },
         {
@@ -542,7 +544,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "tconstruct:soil:4:0"
+            "minecraft:glass:0"
           ]
         }
       ],
@@ -558,7 +560,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:shard:7:1"
+            "minecraft:iron_ore:0"
           ]
         },
         {
@@ -569,7 +571,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "thaumcraft:salis_mundus:0:1"
+            "minecraft:iron_ingot:0"
           ]
         }
       ],
@@ -585,7 +587,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:beef:0:1"
+            "minecraft:emerald_ore:0"
           ]
         },
         {
@@ -596,7 +598,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_beef:0:1"
+            "minecraft:emerald:0"
           ]
         }
       ],
@@ -612,7 +614,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:fish:1:1"
+            "minecraft:coal_ore:0"
           ]
         },
         {
@@ -623,7 +625,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_fish:1:0"
+            "minecraft:coal:0"
           ]
         }
       ],
@@ -639,7 +641,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:0:1"
+            "minecraft:cactus:0"
           ]
         },
         {
@@ -650,7 +652,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:iron_ingot:0:2"
+            "minecraft:dye:2"
           ]
         }
       ],
@@ -666,8 +668,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:log:3:1",
-            "thaumcraft:log:0:1"
+            "tconstruct:soil:0"
           ]
         },
         {
@@ -678,7 +679,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:coal:1:1"
+            "tconstruct:materials:0"
           ]
         }
       ],
@@ -694,7 +695,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:emerald_ore:0:0"
+            "tconstruct:soil:2"
           ]
         },
         {
@@ -705,7 +706,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:emerald:0:1"
+            "tconstruct:materials:10"
           ]
         }
       ],
@@ -721,7 +722,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:soil:1:0"
+            "minecraft:stonebrick:0"
           ]
         },
         {
@@ -732,7 +733,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "tconstruct:materials:9:0"
+            "minecraft:stonebrick:2"
           ]
         }
       ],
@@ -748,10 +749,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:log:0:1",
-            "minecraft:log:1:1",
-            "minecraft:log:2:1",
-            "minecraft:log:3:1"
+            "minecraft:porkchop:0"
           ]
         },
         {
@@ -762,7 +760,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:coal:1:1"
+            "minecraft:cooked_porkchop:0"
           ]
         }
       ],
@@ -778,7 +776,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:rabbit:0:1"
+            "minecraft:clay_ball:0"
           ]
         },
         {
@@ -789,7 +787,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_rabbit:0:1"
+            "minecraft:brick:0"
           ]
         }
       ],
@@ -805,7 +803,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:redstone_ore:0:0"
+            "minecraft:diamond_ore:0"
           ]
         },
         {
@@ -816,7 +814,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:redstone:0:1"
+            "minecraft:diamond:0"
           ]
         }
       ],
@@ -832,7 +830,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:quartz_ore:0:0"
+            "minecraft:mutton:0"
           ]
         },
         {
@@ -843,7 +841,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:quartz:0:1"
+            "minecraft:cooked_mutton:0"
           ]
         }
       ],
@@ -859,7 +857,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_ore:0:1"
+            "minecraft:log2:0",
+            "minecraft:log2:1"
           ]
         },
         {
@@ -870,7 +869,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:iron_ingot:0:2"
+            "minecraft:coal:1"
           ]
         }
       ],
@@ -886,7 +885,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:lapis_ore:0:0"
+            "minecraft:potato:0"
           ]
         },
         {
@@ -897,7 +896,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:dye:4:1"
+            "minecraft:baked_potato:0"
           ]
         }
       ],
@@ -913,7 +912,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:coal_ore:0:0"
+            "minecraft:sponge:1"
           ]
         },
         {
@@ -924,7 +923,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:coal:0:1"
+            "minecraft:sponge:0"
           ]
         }
       ],
@@ -940,7 +939,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "tconstruct:soil:2:0"
+            "minecraft:chicken:0"
           ]
         },
         {
@@ -951,7 +950,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "tconstruct:materials:10:0"
+            "minecraft:cooked_chicken:0"
           ]
         }
       ],
@@ -967,7 +966,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:cluster:1:1"
+            "tconstruct:soil:1"
           ]
         },
         {
@@ -978,7 +977,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_ingot:0:2"
+            "tconstruct:materials:9"
           ]
         }
       ],
@@ -994,7 +993,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:mutton:0:1"
+            "minecraft:quartz_ore:0"
           ]
         },
         {
@@ -1005,7 +1004,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:cooked_mutton:0:1"
+            "minecraft:quartz:0"
           ]
         }
       ],
@@ -1021,7 +1020,8 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "thaumcraft:coin:0:1"
+            "thaumcraft:log:3",
+            "thaumcraft:log:0"
           ]
         },
         {
@@ -1032,7 +1032,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:gold_nugget:0:2"
+            "minecraft:coal:1"
           ]
         }
       ],
@@ -1048,7 +1048,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:sponge:1:0"
+            "thaumcraft:cluster:6"
           ]
         },
         {
@@ -1059,7 +1059,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "minecraft:sponge:0:0"
+            "thaumcraft:quicksilver:0"
           ]
         }
       ],

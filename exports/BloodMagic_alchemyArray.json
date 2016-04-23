@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:redstone:0:1"
+            "bloodmagic:ItemComponent:9"
           ]
         },
         {
@@ -27,7 +27,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:0:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -38,7 +38,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilDivination:0:0"
+            "bloodmagic:ItemSigilSuppression:0"
           ]
         }
       ],
@@ -54,7 +54,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:13:0"
+            "bloodmagic:ItemComponent:7"
           ]
         },
         {
@@ -65,7 +65,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -76,7 +76,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilHaste:0:0"
+            "bloodmagic:ItemSigilSeer:0"
           ]
         }
       ],
@@ -92,7 +92,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:2:0"
+            "bloodmagic:ItemComponent:18"
           ]
         },
         {
@@ -103,7 +103,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -114,7 +114,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilAir:0:0"
+            "bloodmagic:ItemSigilTransposition:0"
           ]
         }
       ],
@@ -130,7 +130,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:11:0"
+            "bloodmagic:ItemComponent:4"
           ]
         },
         {
@@ -141,7 +141,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:2:1"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -152,7 +152,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilBloodLight:0:0"
+            "bloodmagic:ItemSigilVoid:0"
           ]
         }
       ],
@@ -168,7 +168,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:5:0"
+            "bloodmagic:ItemComponent:16"
           ]
         },
         {
@@ -179,7 +179,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -190,7 +190,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilGreenGrove:0:0"
+            "bloodmagic:ItemSigilEnderSeverance:0"
           ]
         }
       ],
@@ -206,7 +206,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:6:0"
+            "bloodmagic:ItemComponent:5"
           ]
         },
         {
@@ -217,7 +217,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:2:1"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -228,7 +228,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilElementalAffinity:0:0"
+            "bloodmagic:ItemSigilGreenGrove:0"
           ]
         }
       ],
@@ -244,7 +244,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:17:0"
+            "bloodmagic:ItemComponent:13"
           ]
         },
         {
@@ -255,7 +255,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -266,7 +266,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilTeleposition:0:0"
+            "bloodmagic:ItemSigilHaste:0"
           ]
         }
       ],
@@ -282,7 +282,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:14:0"
+            "bloodmagic:ItemComponent:2"
           ]
         },
         {
@@ -293,7 +293,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -304,7 +304,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilCompression:0:0"
+            "bloodmagic:ItemSigilAir:0"
           ]
         }
       ],
@@ -320,7 +320,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:3:0"
+            "bloodmagic:ItemComponent:14"
           ]
         },
         {
@@ -331,7 +331,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -342,7 +342,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilFastMiner:0:0"
+            "bloodmagic:ItemSigilCompression:0"
           ]
         }
       ],
@@ -358,7 +358,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:15:0"
+            "bloodmagic:ItemComponent:11"
           ]
         },
         {
@@ -369,7 +369,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:2"
           ]
         },
         {
@@ -380,7 +380,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilPhantomBridge:0:0"
+            "bloodmagic:ItemSigilBloodLight:0"
           ]
         }
       ],
@@ -396,7 +396,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:0:0"
+            "minecraft:redstone:0"
           ]
         },
         {
@@ -407,7 +407,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:0:1"
+            "bloodmagic:ItemSlate:0"
           ]
         },
         {
@@ -418,7 +418,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilWater:0:0"
+            "bloodmagic:ItemSigilDivination:0"
           ]
         }
       ],
@@ -434,7 +434,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:12:0"
+            "bloodmagic:ItemComponent:6"
           ]
         },
         {
@@ -445,7 +445,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:2:1"
+            "bloodmagic:ItemSlate:2"
           ]
         },
         {
@@ -456,7 +456,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilMagnetism:0:0"
+            "bloodmagic:ItemSigilElementalAffinity:0"
           ]
         }
       ],
@@ -472,7 +472,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:1:0"
+            "bloodmagic:ItemComponent:17"
           ]
         },
         {
@@ -483,7 +483,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:0:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -494,7 +494,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilLava:0:0"
+            "bloodmagic:ItemSigilTeleposition:0"
           ]
         }
       ],
@@ -510,7 +510,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:9:0"
+            "bloodmagic:ItemComponent:3"
           ]
         },
         {
@@ -521,7 +521,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -532,7 +532,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilSuppression:0:0"
+            "bloodmagic:ItemSigilFastMiner:0"
           ]
         }
       ],
@@ -548,7 +548,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:7:0"
+            "bloodmagic:ItemComponent:15"
           ]
         },
         {
@@ -559,7 +559,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -570,7 +570,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilSeer:0:0"
+            "bloodmagic:ItemSigilPhantomBridge:0"
           ]
         }
       ],
@@ -586,7 +586,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:18:0"
+            "bloodmagic:ItemComponent:0"
           ]
         },
         {
@@ -597,7 +597,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:0"
           ]
         },
         {
@@ -608,7 +608,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilTransposition:0:0"
+            "bloodmagic:ItemSigilWater:0"
           ]
         }
       ],
@@ -624,7 +624,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:4:0"
+            "bloodmagic:ItemComponent:12"
           ]
         },
         {
@@ -635,7 +635,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemSlate:2"
           ]
         },
         {
@@ -646,7 +646,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilVoid:0:0"
+            "bloodmagic:ItemSigilMagnetism:0"
           ]
         }
       ],
@@ -662,7 +662,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemComponent:16:0"
+            "bloodmagic:ItemComponent:1"
           ]
         },
         {
@@ -673,7 +673,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemSlate:0"
           ]
         },
         {
@@ -684,7 +684,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSigilEnderSeverance:0:0"
+            "bloodmagic:ItemSigilLava:0"
           ]
         }
       ],

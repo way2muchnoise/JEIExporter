@@ -248,7 +248,7 @@ function prevList() {
 }
 
 function drawItemlist() {
-	var offsetX = 9, offsetY = 32, x = 0, y = 0;
+	var offsetX = 9, x = 0, y = 0;
 	var size = 18;
 	var padding = 1;
 	$("#list").html((itemPage+1) + "/" + (totalPages));
@@ -271,7 +271,7 @@ function drawItemlist() {
 		var listElement = $("<div></div>").css({
 			width: size*2,
 			height: size*2,
-			top: y*size*2-padding+offsetY,
+			top: y*size*2-padding,
 			left: x*size*2-padding+offsetX,
 			margin: padding*2,
 			'background-image': image

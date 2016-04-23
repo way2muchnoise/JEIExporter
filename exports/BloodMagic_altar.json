@@ -16,7 +16,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:3:0"
+            "bloodmagic:ItemLavaCrystal:0"
           ]
         },
         {
@@ -27,7 +27,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSlate:4:0"
+            "bloodmagic:ItemActivationCrystal:0"
           ]
         }
       ],
@@ -43,7 +43,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:diamond:0:1"
+            "bloodmagic:ItemSlate:0"
           ]
         },
         {
@@ -54,7 +54,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:0:0"
+            "bloodmagic:ItemSlate:1"
           ]
         }
       ],
@@ -70,7 +70,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:redstone_block:0:0"
+            "minecraft:gold_block:0"
           ]
         },
         {
@@ -81,7 +81,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:1:0"
+            "bloodmagic:ItemBloodOrb:2"
           ]
         }
       ],
@@ -97,7 +97,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:0:0"
+            "minecraft:diamond:0"
           ]
         },
         {
@@ -108,7 +108,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSlate:1:0"
+            "bloodmagic:ItemBloodOrb:0"
           ]
         }
       ],
@@ -124,7 +124,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:coal_block:0:0"
+            "bloodmagic:ItemTelepositionFocus:0"
           ]
         },
         {
@@ -135,7 +135,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:5:0"
+            "bloodmagic:ItemTelepositionFocus:1"
           ]
         }
       ],
@@ -151,7 +151,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:bucket:0:1"
+            "minecraft:lapis_block:0"
           ]
         },
         {
@@ -162,7 +162,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBucketEssence:0:0"
+            "bloodmagic:ItemInscriptionTool:1"
           ]
         }
       ],
@@ -178,7 +178,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:iron_sword:0:0"
+            "minecraft:stone:0"
           ]
         },
         {
@@ -189,7 +189,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemDaggerOfSacrifice:0:0"
+            "bloodmagic:ItemSlate:0"
           ]
         }
       ],
@@ -205,7 +205,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemBloodShard:0:0"
+            "bloodmagic:ItemSlate:1"
           ]
         },
         {
@@ -216,7 +216,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:3:0"
+            "bloodmagic:ItemSlate:2"
           ]
         }
       ],
@@ -232,7 +232,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:stone:0:1"
+            "bloodmagic:ItemSlate:3"
           ]
         },
         {
@@ -243,7 +243,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSlate:0:1"
+            "bloodmagic:ItemSlate:4"
           ]
         }
       ],
@@ -259,7 +259,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:gold_block:0:1"
+            "minecraft:obsidian:0"
           ]
         },
         {
@@ -270,7 +270,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:2:0"
+            "bloodmagic:ItemInscriptionTool:3"
           ]
         }
       ],
@@ -286,7 +286,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemTelepositionFocus:0:0"
+            "minecraft:glowstone:0"
           ]
         },
         {
@@ -297,7 +297,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemTelepositionFocus:1:0"
+            "bloodmagic:ItemInscriptionTool:6"
           ]
         }
       ],
@@ -313,7 +313,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:nether_star:0:0"
+            "bloodmagic:BlockCrystal:0"
           ]
         },
         {
@@ -324,7 +324,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:4:0"
+            "bloodmagic:ItemBloodOrb:5"
           ]
         }
       ],
@@ -340,7 +340,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:glowstone:0:0"
+            "minecraft:iron_sword:0"
           ]
         },
         {
@@ -351,7 +351,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:6:0"
+            "bloodmagic:ItemDaggerOfSacrifice:0"
           ]
         }
       ],
@@ -367,7 +367,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:ghast_tear:0:1"
+            "minecraft:ender_pearl:0"
           ]
         },
         {
@@ -378,7 +378,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:4:0"
+            "bloodmagic:ItemTelepositionFocus:0"
           ]
         }
       ],
@@ -394,7 +394,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemLavaCrystal:0:0"
+            "minecraft:redstone_block:0"
           ]
         },
         {
@@ -405,7 +405,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemActivationCrystal:0:0"
+            "bloodmagic:ItemBloodOrb:1"
           ]
         }
       ],
@@ -421,7 +421,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:BlockCrystal:0:0"
+            "minecraft:coal_block:0"
           ]
         },
         {
@@ -432,7 +432,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemBloodOrb:5:0"
+            "bloodmagic:ItemInscriptionTool:5"
           ]
         }
       ],
@@ -448,7 +448,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:2:0"
+            "minecraft:bucket:0"
           ]
         },
         {
@@ -459,7 +459,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSlate:3:1"
+            "bloodmagic:ItemBucketEssence:0"
           ]
         }
       ],
@@ -475,7 +475,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:magma_cream:0:1"
+            "bloodmagic:ItemSlate:2"
           ]
         },
         {
@@ -486,7 +486,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:2:0"
+            "bloodmagic:ItemSlate:3"
           ]
         }
       ],
@@ -502,7 +502,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:ender_pearl:0:1"
+            "minecraft:ghast_tear:0"
           ]
         },
         {
@@ -513,7 +513,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemTelepositionFocus:0:1"
+            "bloodmagic:ItemInscriptionTool:4"
           ]
         }
       ],
@@ -529,7 +529,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "bloodmagic:ItemSlate:1:1"
+            "bloodmagic:ItemBloodShard:0"
           ]
         },
         {
@@ -540,7 +540,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemSlate:2:1"
+            "bloodmagic:ItemBloodOrb:3"
           ]
         }
       ],
@@ -556,7 +556,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:lapis_block:0:0"
+            "minecraft:magma_cream:0"
           ]
         },
         {
@@ -567,7 +567,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:1:0"
+            "bloodmagic:ItemInscriptionTool:2"
           ]
         }
       ],
@@ -583,7 +583,7 @@
           "p": 1,
           "in": true,
           "stacks": [
-            "minecraft:obsidian:0:1"
+            "minecraft:nether_star:0"
           ]
         },
         {
@@ -594,7 +594,7 @@
           "p": 1,
           "in": false,
           "stacks": [
-            "bloodmagic:ItemInscriptionTool:3:0"
+            "bloodmagic:ItemBloodOrb:4"
           ]
         }
       ],
