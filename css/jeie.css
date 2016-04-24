@@ -1,22 +1,26 @@
 body {
 	background-image: url(bg.jpg);
 	font-family: Helvita, Sans-serif;
-	overflow: hidden;
+	overflow-y: hidden;
+}
+
+.recipeBox {
+    width: 410px;
+    margin: auto;
+    margin-right: 20px;
 }
 
 #grayBox {
 	background: #A7A7A7;
-	width: 400px;
-	height: 300px;
 	margin: auto;
 	padding: 5px;
+	height: 300px;
 	border-radius: 2px;
 }
 
 #fileinput {
 	background: #A7A7A7;
 	margin: auto;
-	width: 400px;
 	margin-bottom: 5px;
 	border-radius: 2px;
 }
@@ -32,11 +36,7 @@ p {
     display: flex;
 }
 
-.recipeBox {
-    width: 410px;
-    margin: auto;
-    margin-right: 20px;
-}
+
 
 .arrow {
 	position: relative;
