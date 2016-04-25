@@ -302,9 +302,26 @@ function clearAll()
 
 function toAllRecipes() 
 {
+	var catname = data[cat].category
+	var r = data[cat].recipes[recipe];
 	data = mainData;
-	// TODO: set to correct category
-	cat = 0, recipe = 0;
+	recipe = 0;
+	for (var i = data.length - 1; i >= 0; i--)
+	{
+		if (data[i].category == catname)
+		{
+			cat = i;
+			break;
+		}
+	}
+	for (var i = data[cat].recipes.length - 1; i >= 0; i--)
+	{
+		if (data[cat].recipes[i] == r)
+		{
+			recipe = i;
+			break;
+		}
+	}
 	changeBackground();
 	udpateRecipe();
 }
@@ -331,7 +348,10 @@ function recipesForItem()
 							data[currentCat].bg = category.bg;
 							data[currentCat].recipes = [];
 						}
-						data[currentCat].recipes.push(recipe);
+						if (recipe.ingredientItems[iii].in)
+							data[currentCat].recipes.push(recipe);
+						else
+							data[currentCat].recipes.unshift(recipe);
 						usedCat = true;
 						break recipeLabel;
 					}
@@ -346,7 +366,10 @@ function recipesForItem()
 							data[currentCat].bg = category.bg;
 							data[currentCat].recipes = [];
 						}
-						data[currentCat].recipes.push(recipe);
+						if (recipe.ingredientFluids[iii].in)
+							data[currentCat].recipes.push(recipe);
+						else	
+							data[currentCat].recipes.unshift(recipe);
 						usedCat = true;
 						break recipeLabel;
 					}
@@ -366,7 +389,7 @@ function updateSearch()
 	itemlist = {};
 	for (var itemname in lookupMap)
 	{
-		if (lookupMap[itemname].toLowerCase().indexOf(search.toLowerCase()) > -1)
+		if (itemname.toLowerCase().indexOf(search.toLowerCase()) > -1)
 			itemlist[lookupMap[itemname]] = itemname;
 	}
 	totalPages = Math.ceil(Object.keys(itemlist).length / itemsPerPage);
