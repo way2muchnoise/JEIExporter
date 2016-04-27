@@ -49,7 +49,8 @@ public class Adapters
             out.name("w").value(getInt(w, value));
             out.name("h").value(getInt(h, value));
             out.name("p").value(getInt(p, value));
-            out.name("in").value(getBoolean(in, value));
+            out.name("in").value(value.isInput());
+            out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).stackSize : 0);
             out.name("stacks").beginArray();
             for (ItemStack itemStack : value.getAllIngredients())
                 out.value(RenderItem.render(itemStack));
@@ -75,7 +76,8 @@ public class Adapters
             out.name("w").value(getInt(w, value));
             out.name("h").value(getInt(h, value));
             out.name("p").value(getInt(p, value));
-            out.name("in").value(getBoolean(in, value));
+            out.name("in").value(value.isInput());
+            out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).amount : 0);
             out.name("fluids").beginArray();
             for (FluidStack fluidStack : value.getAllIngredients())
                 out.value(RenderFluid.render(fluidStack));
@@ -101,23 +103,11 @@ public class Adapters
         }
     }
 
-    private static boolean getBoolean(Field field, Object object)
-    {
-        try
-        {
-            return field.getBoolean(object);
-        } catch (IllegalAccessException e)
-        {
-            return false;
-        }
-    }
-
     private static Field x;
     private static Field y;
     private static Field w;
     private static Field h;
     private static Field p;
-    private static Field in;
 
     static
     {
@@ -133,8 +123,6 @@ public class Adapters
             h.setAccessible(true);
             p = GuiIngredient.class.getDeclaredField("padding");
             p.setAccessible(true);
-            in = GuiIngredient.class.getDeclaredField("input");
-            in.setAccessible(true);
         } catch (NoSuchFieldException e)
         {
             e.printStackTrace();
