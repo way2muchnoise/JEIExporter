@@ -15,6 +15,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:nuggets:3"
           ]
@@ -28,6 +29,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -39,6 +41,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -54,6 +57,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ingots:3"
           ]
@@ -67,6 +71,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -78,6 +83,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -93,6 +99,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:metal:3"
           ]
@@ -106,6 +113,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -117,6 +125,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -132,6 +141,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:eb40d90c"
           ]
@@ -145,6 +155,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -156,6 +167,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -171,6 +183,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:eb40d90c"
           ]
@@ -184,6 +197,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -195,6 +209,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -210,6 +225,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:eb40d90c"
           ]
@@ -223,6 +239,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -234,6 +251,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -249,6 +267,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:eb40d90c"
           ]
@@ -262,6 +281,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -273,6 +293,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -288,6 +309,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:eb40d90c"
           ]
@@ -301,6 +323,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -312,6 +335,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -327,6 +351,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:eb40d90c"
           ]
@@ -340,6 +365,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -351,6 +377,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -366,6 +393,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:eb40d90c"
           ]
@@ -379,6 +407,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -390,6 +419,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -405,6 +435,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:eb40d90c"
           ]
@@ -418,6 +449,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -429,6 +461,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -444,6 +477,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:eb40d90c"
           ]
@@ -457,6 +491,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -468,6 +503,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -483,6 +519,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:eb40d90c"
           ]
@@ -496,6 +533,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -507,6 +545,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -522,6 +561,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:eb40d90c"
           ]
@@ -535,6 +575,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -546,6 +587,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -561,6 +603,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:eb40d90c"
           ]
@@ -574,6 +617,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -585,6 +629,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -600,6 +645,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:eb40d90c"
           ]
@@ -613,6 +659,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -624,6 +671,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -639,6 +687,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:eb40d90c"
           ]
@@ -652,6 +701,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -663,6 +713,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -678,6 +729,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:eb40d90c"
           ]
@@ -691,6 +743,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -702,6 +755,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -717,6 +771,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:eb40d90c"
           ]
@@ -730,6 +785,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -741,6 +797,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -756,6 +813,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:eb40d90c"
           ]
@@ -769,6 +827,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -780,6 +839,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -795,6 +855,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:eb40d90c"
           ]
@@ -808,6 +869,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -819,6 +881,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -834,6 +897,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:eb40d90c"
           ]
@@ -847,6 +911,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -858,6 +923,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -873,6 +939,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:nugget:0"
           ]
@@ -886,6 +953,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:iron"
           ]
@@ -897,6 +965,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -912,6 +981,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ingot:0"
           ]
@@ -925,6 +995,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -936,6 +1007,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -951,6 +1023,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -964,6 +1037,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:iron"
           ]
@@ -975,6 +1049,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -990,6 +1065,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ore:0"
           ]
@@ -1003,6 +1079,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -1014,6 +1091,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1029,6 +1107,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:plate:1"
           ]
@@ -1042,6 +1121,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -1053,6 +1133,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1068,6 +1149,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:fdacad4d"
           ]
@@ -1081,6 +1163,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:iron"
           ]
@@ -1092,6 +1175,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1107,6 +1191,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:fdacad4d"
           ]
@@ -1120,6 +1205,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -1131,6 +1217,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1146,6 +1233,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:fdacad4d"
           ]
@@ -1159,6 +1247,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -1170,6 +1259,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1185,6 +1275,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:fdacad4d"
           ]
@@ -1198,6 +1289,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -1209,6 +1301,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1224,6 +1317,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:fdacad4d"
           ]
@@ -1237,6 +1331,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -1248,6 +1343,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1263,6 +1359,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:fdacad4d"
           ]
@@ -1276,6 +1373,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -1287,6 +1385,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1302,6 +1401,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:fdacad4d"
           ]
@@ -1315,6 +1415,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -1326,6 +1427,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1341,6 +1443,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:fdacad4d"
           ]
@@ -1354,6 +1457,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -1365,6 +1469,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1380,6 +1485,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:fdacad4d"
           ]
@@ -1393,6 +1499,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:iron"
           ]
@@ -1404,6 +1511,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1419,6 +1527,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:fdacad4d"
           ]
@@ -1432,6 +1541,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:iron"
           ]
@@ -1443,6 +1553,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1458,6 +1569,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:fdacad4d"
           ]
@@ -1471,6 +1583,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:iron"
           ]
@@ -1482,6 +1595,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1497,6 +1611,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:fdacad4d"
           ]
@@ -1510,6 +1625,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:iron"
           ]
@@ -1521,6 +1637,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1536,6 +1653,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:fdacad4d"
           ]
@@ -1549,6 +1667,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -1560,6 +1679,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1575,6 +1695,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:fdacad4d"
           ]
@@ -1588,6 +1709,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -1599,6 +1721,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1614,6 +1737,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:fdacad4d"
           ]
@@ -1627,6 +1751,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -1638,6 +1763,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1653,6 +1779,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:fdacad4d"
           ]
@@ -1666,6 +1793,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:iron"
           ]
@@ -1677,6 +1805,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1692,6 +1821,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:fdacad4d"
           ]
@@ -1705,6 +1835,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -1716,6 +1847,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1731,6 +1863,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:fdacad4d"
           ]
@@ -1744,6 +1877,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -1755,6 +1889,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1770,6 +1905,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:fdacad4d"
           ]
@@ -1783,6 +1919,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:iron"
           ]
@@ -1794,6 +1931,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1809,6 +1947,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:nuggets:4"
           ]
@@ -1822,6 +1961,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -1833,6 +1973,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1848,6 +1989,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ingots:4"
           ]
@@ -1861,6 +2003,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -1872,6 +2015,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1887,6 +2031,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:metal:4"
           ]
@@ -1900,6 +2045,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -1911,6 +2057,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1926,6 +2073,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:1d383047"
           ]
@@ -1939,6 +2087,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -1950,6 +2099,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -1965,6 +2115,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:1d383047"
           ]
@@ -1978,6 +2129,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -1989,6 +2141,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2004,6 +2157,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:1d383047"
           ]
@@ -2017,6 +2171,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2028,6 +2183,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2043,6 +2199,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:1d383047"
           ]
@@ -2056,6 +2213,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2067,6 +2225,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2082,6 +2241,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:1d383047"
           ]
@@ -2095,6 +2255,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2106,6 +2267,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2121,6 +2283,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:1d383047"
           ]
@@ -2134,6 +2297,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2145,6 +2309,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2160,6 +2325,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:1d383047"
           ]
@@ -2173,6 +2339,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2184,6 +2351,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2199,6 +2367,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:1d383047"
           ]
@@ -2212,6 +2381,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2223,6 +2393,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2238,6 +2409,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:1d383047"
           ]
@@ -2251,6 +2423,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2262,6 +2435,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2277,6 +2451,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:1d383047"
           ]
@@ -2290,6 +2465,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2301,6 +2477,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2316,6 +2493,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:1d383047"
           ]
@@ -2329,6 +2507,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2340,6 +2519,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2355,6 +2535,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:1d383047"
           ]
@@ -2368,6 +2549,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2379,6 +2561,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2394,6 +2577,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:1d383047"
           ]
@@ -2407,6 +2591,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2418,6 +2603,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2433,6 +2619,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:1d383047"
           ]
@@ -2446,6 +2633,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2457,6 +2645,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2472,6 +2661,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:1d383047"
           ]
@@ -2485,6 +2675,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2496,6 +2687,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2511,6 +2703,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:1d383047"
           ]
@@ -2524,6 +2717,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2535,6 +2729,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2550,6 +2745,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:1d383047"
           ]
@@ -2563,6 +2759,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2574,6 +2771,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2589,6 +2787,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:1d383047"
           ]
@@ -2602,6 +2801,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2613,6 +2813,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2628,6 +2829,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:1d383047"
           ]
@@ -2641,6 +2843,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -2652,6 +2855,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2667,6 +2871,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:nuggets:0"
           ]
@@ -2680,6 +2885,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2691,6 +2897,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2706,6 +2913,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ingots:0"
           ]
@@ -2719,6 +2927,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2730,6 +2939,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2745,6 +2955,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:metal:0"
           ]
@@ -2758,6 +2969,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2769,6 +2981,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2784,6 +2997,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ore:0"
           ]
@@ -2797,6 +3011,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2808,6 +3023,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2823,6 +3039,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:207823b8"
           ]
@@ -2836,6 +3053,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2847,6 +3065,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2862,6 +3081,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:207823b8"
           ]
@@ -2875,6 +3095,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2886,6 +3107,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2901,6 +3123,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:207823b8"
           ]
@@ -2914,6 +3137,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2925,6 +3149,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2940,6 +3165,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:207823b8"
           ]
@@ -2953,6 +3179,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -2964,6 +3191,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -2979,6 +3207,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:207823b8"
           ]
@@ -2992,6 +3221,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3003,6 +3233,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3018,6 +3249,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:207823b8"
           ]
@@ -3031,6 +3263,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3042,6 +3275,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3057,6 +3291,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:207823b8"
           ]
@@ -3070,6 +3305,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3081,6 +3317,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3096,6 +3333,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:207823b8"
           ]
@@ -3109,6 +3347,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3120,6 +3359,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3135,6 +3375,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:207823b8"
           ]
@@ -3148,6 +3389,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3159,6 +3401,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3174,6 +3417,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:207823b8"
           ]
@@ -3187,6 +3431,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3198,6 +3443,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3213,6 +3459,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:207823b8"
           ]
@@ -3226,6 +3473,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3237,6 +3485,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3252,6 +3501,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:207823b8"
           ]
@@ -3265,6 +3515,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3276,6 +3527,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3291,6 +3543,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:207823b8"
           ]
@@ -3304,6 +3557,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3315,6 +3569,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3330,6 +3585,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:207823b8"
           ]
@@ -3343,6 +3599,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3354,6 +3611,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3369,6 +3627,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:207823b8"
           ]
@@ -3382,6 +3641,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3393,6 +3653,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3408,6 +3669,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:207823b8"
           ]
@@ -3421,6 +3683,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3432,6 +3695,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3447,6 +3711,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:207823b8"
           ]
@@ -3460,6 +3725,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3471,6 +3737,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3486,6 +3753,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:207823b8"
           ]
@@ -3499,6 +3767,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3510,6 +3779,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3525,6 +3795,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:207823b8"
           ]
@@ -3538,6 +3809,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -3549,6 +3821,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3564,6 +3837,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:nuggets:1"
           ]
@@ -3577,6 +3851,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3588,6 +3863,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3603,6 +3879,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ingots:1"
           ]
@@ -3616,6 +3893,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3627,6 +3905,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3642,6 +3921,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:metal:1"
           ]
@@ -3655,6 +3935,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3666,6 +3947,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3681,6 +3963,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ore:1"
           ]
@@ -3694,6 +3977,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3705,6 +3989,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3720,6 +4005,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:f34653ac"
           ]
@@ -3733,6 +4019,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3744,6 +4031,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3759,6 +4047,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:f34653ac"
           ]
@@ -3772,6 +4061,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3783,6 +4073,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3798,6 +4089,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:f34653ac"
           ]
@@ -3811,6 +4103,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3822,6 +4115,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3837,6 +4131,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:f34653ac"
           ]
@@ -3850,6 +4145,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3861,6 +4157,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3876,6 +4173,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:f34653ac"
           ]
@@ -3889,6 +4187,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3900,6 +4199,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3915,6 +4215,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:f34653ac"
           ]
@@ -3928,6 +4229,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3939,6 +4241,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3954,6 +4257,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:f34653ac"
           ]
@@ -3967,6 +4271,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:ardite"
           ]
@@ -3978,6 +4283,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -3993,6 +4299,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:f34653ac"
           ]
@@ -4006,6 +4313,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4017,6 +4325,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4032,6 +4341,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:f34653ac"
           ]
@@ -4045,6 +4355,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4056,6 +4367,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4071,6 +4383,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:f34653ac"
           ]
@@ -4084,6 +4397,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4095,6 +4409,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4110,6 +4425,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:f34653ac"
           ]
@@ -4123,6 +4439,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4134,6 +4451,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4149,6 +4467,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:f34653ac"
           ]
@@ -4162,6 +4481,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4173,6 +4493,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4188,6 +4509,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:f34653ac"
           ]
@@ -4201,6 +4523,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4212,6 +4535,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4227,6 +4551,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:f34653ac"
           ]
@@ -4240,6 +4565,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4251,6 +4577,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4266,6 +4593,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:f34653ac"
           ]
@@ -4279,6 +4607,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4290,6 +4619,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4305,6 +4635,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:f34653ac"
           ]
@@ -4318,6 +4649,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4329,6 +4661,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4344,6 +4677,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:f34653ac"
           ]
@@ -4357,6 +4691,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4368,6 +4703,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4383,6 +4719,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:f34653ac"
           ]
@@ -4396,6 +4733,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4407,6 +4745,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4422,6 +4761,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:f34653ac"
           ]
@@ -4435,6 +4775,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:ardite"
           ]
@@ -4446,6 +4787,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4461,6 +4803,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:nuggets:2"
           ]
@@ -4474,6 +4817,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4485,6 +4829,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4500,6 +4845,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:ingots:2"
           ]
@@ -4513,6 +4859,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4524,6 +4871,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4539,6 +4887,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:metal:2"
           ]
@@ -4552,6 +4901,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4563,6 +4913,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4578,6 +4929,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:7484c1bc"
           ]
@@ -4591,6 +4943,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4602,6 +4955,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4617,6 +4971,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:7484c1bc"
           ]
@@ -4630,6 +4985,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4641,6 +4997,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4656,6 +5013,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:7484c1bc"
           ]
@@ -4669,6 +5027,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4680,6 +5039,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4695,6 +5055,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:7484c1bc"
           ]
@@ -4708,6 +5069,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4719,6 +5081,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4734,6 +5097,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:7484c1bc"
           ]
@@ -4747,6 +5111,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4758,6 +5123,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4773,6 +5139,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:7484c1bc"
           ]
@@ -4786,6 +5153,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4797,6 +5165,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4812,6 +5181,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:7484c1bc"
           ]
@@ -4825,6 +5195,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4836,6 +5207,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4851,6 +5223,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:7484c1bc"
           ]
@@ -4864,6 +5237,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4875,6 +5249,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4890,6 +5265,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:7484c1bc"
           ]
@@ -4903,6 +5279,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4914,6 +5291,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4929,6 +5307,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:7484c1bc"
           ]
@@ -4942,6 +5321,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4953,6 +5333,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -4968,6 +5349,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:7484c1bc"
           ]
@@ -4981,6 +5363,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -4992,6 +5375,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5007,6 +5391,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:7484c1bc"
           ]
@@ -5020,6 +5405,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5031,6 +5417,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5046,6 +5433,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:7484c1bc"
           ]
@@ -5059,6 +5447,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5070,6 +5459,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5085,6 +5475,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:7484c1bc"
           ]
@@ -5098,6 +5489,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5109,6 +5501,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5124,6 +5517,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:7484c1bc"
           ]
@@ -5137,6 +5531,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5148,6 +5543,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5163,6 +5559,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:7484c1bc"
           ]
@@ -5176,6 +5573,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5187,6 +5585,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5202,6 +5601,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:7484c1bc"
           ]
@@ -5215,6 +5615,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5226,6 +5627,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5241,6 +5643,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:7484c1bc"
           ]
@@ -5254,6 +5657,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5265,6 +5669,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5280,6 +5685,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:7484c1bc"
           ]
@@ -5293,6 +5699,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -5304,6 +5711,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5319,6 +5727,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_nugget:0",
             "thaumcraft:coin:0"
@@ -5333,6 +5742,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:gold"
           ]
@@ -5344,6 +5754,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5359,6 +5770,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -5372,6 +5784,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:gold"
           ]
@@ -5383,6 +5796,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5398,6 +5812,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_block:0"
           ]
@@ -5411,6 +5826,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:gold"
           ]
@@ -5422,6 +5838,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5437,6 +5854,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ore:0"
           ]
@@ -5450,6 +5868,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:gold"
           ]
@@ -5461,6 +5880,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5476,6 +5896,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:nugget:8"
           ]
@@ -5489,6 +5910,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 16,
           "fluids": [
             "fluid:brass"
           ]
@@ -5500,6 +5922,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5515,6 +5938,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ingot:2"
           ]
@@ -5528,6 +5952,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:brass"
           ]
@@ -5539,6 +5964,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5554,6 +5980,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:metal:4"
           ]
@@ -5567,6 +5994,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1296,
           "fluids": [
             "fluid:brass"
           ]
@@ -5578,6 +6006,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5593,6 +6022,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:plate:0"
           ]
@@ -5606,6 +6036,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:brass"
           ]
@@ -5617,6 +6048,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5632,6 +6064,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:gear:0"
           ]
@@ -5645,6 +6078,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:brass"
           ]
@@ -5656,6 +6090,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5671,6 +6106,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:ice:0"
           ]
@@ -5684,6 +6120,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:water"
           ]
@@ -5695,6 +6132,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5710,6 +6148,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:packed_ice:0"
           ]
@@ -5723,6 +6162,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 2000,
           "fluids": [
             "fluid:water"
           ]
@@ -5734,6 +6174,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5749,6 +6190,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:snow:0"
           ]
@@ -5762,6 +6204,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:water"
           ]
@@ -5773,6 +6216,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5788,6 +6232,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:snowball:0"
           ]
@@ -5801,6 +6246,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 125,
           "fluids": [
             "fluid:water"
           ]
@@ -5812,6 +6258,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5827,6 +6274,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:rotten_flesh:0"
           ]
@@ -5840,6 +6288,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 5,
           "fluids": [
             "fluid:blood"
           ]
@@ -5851,6 +6300,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5866,6 +6316,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:edible:2"
           ]
@@ -5879,6 +6330,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 250,
           "fluids": [
             "fluid:purpleslime"
           ]
@@ -5890,6 +6342,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5905,6 +6358,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:slime_congealed:2"
           ]
@@ -5918,6 +6372,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:purpleslime"
           ]
@@ -5929,6 +6384,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5944,6 +6400,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:slime:2"
           ]
@@ -5957,6 +6414,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 2250,
           "fluids": [
             "fluid:purpleslime"
           ]
@@ -5968,6 +6426,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -5983,6 +6442,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -5996,6 +6456,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:stone"
           ]
@@ -6007,6 +6468,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6022,6 +6484,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cobblestone:0"
           ]
@@ -6035,6 +6498,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:stone"
           ]
@@ -6046,6 +6510,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6061,6 +6526,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -6074,6 +6540,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6085,6 +6552,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6100,6 +6568,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:4df63d20"
           ]
@@ -6113,6 +6582,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6124,6 +6594,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6139,6 +6610,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:4df63d20"
           ]
@@ -6152,6 +6624,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6163,6 +6636,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6178,6 +6652,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:4df63d20"
           ]
@@ -6191,6 +6666,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6202,6 +6678,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6217,6 +6694,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:4df63d20"
           ]
@@ -6230,6 +6708,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6241,6 +6720,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6256,6 +6736,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:4df63d20"
           ]
@@ -6269,6 +6750,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6280,6 +6762,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6295,6 +6778,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:4df63d20"
           ]
@@ -6308,6 +6792,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6319,6 +6804,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6334,6 +6820,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:4df63d20"
           ]
@@ -6347,6 +6834,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6358,6 +6846,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6373,6 +6862,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:4df63d20"
           ]
@@ -6386,6 +6876,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6397,6 +6888,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6412,6 +6904,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:4df63d20"
           ]
@@ -6425,6 +6918,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6436,6 +6930,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6451,6 +6946,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:4df63d20"
           ]
@@ -6464,6 +6960,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6475,6 +6972,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6490,6 +6988,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:4df63d20"
           ]
@@ -6503,6 +7002,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6514,6 +7014,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6529,6 +7030,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:4df63d20"
           ]
@@ -6542,6 +7044,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6553,6 +7056,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6568,6 +7072,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:4df63d20"
           ]
@@ -6581,6 +7086,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6592,6 +7098,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6607,6 +7114,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:4df63d20"
           ]
@@ -6620,6 +7128,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6631,6 +7140,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6646,6 +7156,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:4df63d20"
           ]
@@ -6659,6 +7170,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6670,6 +7182,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6685,6 +7198,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:4df63d20"
           ]
@@ -6698,6 +7212,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6709,6 +7224,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6724,6 +7240,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:4df63d20"
           ]
@@ -6737,6 +7254,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6748,6 +7266,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6763,6 +7282,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:4df63d20"
           ]
@@ -6776,6 +7296,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6787,6 +7308,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6802,6 +7324,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shard:0:4df63d20"
           ]
@@ -6815,6 +7338,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -6826,6 +7350,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6841,6 +7366,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sharpening_kit:0:cc51ef16"
           ]
@@ -6854,6 +7380,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 216,
           "fluids": [
             "fluid:stone"
           ]
@@ -6865,6 +7392,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6880,6 +7408,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tool_rod:0:cc51ef16"
           ]
@@ -6893,6 +7422,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:stone"
           ]
@@ -6904,6 +7434,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6919,6 +7450,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pick_head:0:cc51ef16"
           ]
@@ -6932,6 +7464,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:stone"
           ]
@@ -6943,6 +7476,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6958,6 +7492,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:binding:0:cc51ef16"
           ]
@@ -6971,6 +7506,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:stone"
           ]
@@ -6982,6 +7518,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -6997,6 +7534,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:shovel_head:0:cc51ef16"
           ]
@@ -7010,6 +7548,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:stone"
           ]
@@ -7021,6 +7560,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7036,6 +7576,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:axe_head:0:cc51ef16"
           ]
@@ -7049,6 +7590,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:stone"
           ]
@@ -7060,6 +7602,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7075,6 +7618,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sword_blade:0:cc51ef16"
           ]
@@ -7088,6 +7632,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:stone"
           ]
@@ -7099,6 +7644,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7114,6 +7660,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:wide_guard:0:cc51ef16"
           ]
@@ -7127,6 +7674,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:stone"
           ]
@@ -7138,6 +7686,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7153,6 +7702,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hand_guard:0:cc51ef16"
           ]
@@ -7166,6 +7716,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:stone"
           ]
@@ -7177,6 +7728,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7192,6 +7744,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:pan_head:0:cc51ef16"
           ]
@@ -7205,6 +7758,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:stone"
           ]
@@ -7216,6 +7770,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7231,6 +7786,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:sign_head:0:cc51ef16"
           ]
@@ -7244,6 +7800,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:stone"
           ]
@@ -7255,6 +7812,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7270,6 +7828,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_tool_rod:0:cc51ef16"
           ]
@@ -7283,6 +7842,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:stone"
           ]
@@ -7294,6 +7854,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7309,6 +7870,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:hammer_head:0:cc51ef16"
           ]
@@ -7322,6 +7884,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:stone"
           ]
@@ -7333,6 +7896,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7348,6 +7912,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_plate:0:cc51ef16"
           ]
@@ -7361,6 +7926,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:stone"
           ]
@@ -7372,6 +7938,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7387,6 +7954,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:excavator_head:0:cc51ef16"
           ]
@@ -7400,6 +7968,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:stone"
           ]
@@ -7411,6 +7980,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7426,6 +7996,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:tough_binding:0:cc51ef16"
           ]
@@ -7439,6 +8010,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:stone"
           ]
@@ -7450,6 +8022,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7465,6 +8038,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:broad_axe_head:0:cc51ef16"
           ]
@@ -7478,6 +8052,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:stone"
           ]
@@ -7489,6 +8064,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7504,6 +8080,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:large_sword_blade:0:cc51ef16"
           ]
@@ -7517,6 +8094,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:stone"
           ]
@@ -7528,6 +8106,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7543,6 +8122,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:seared:0",
             "tconstruct:seared:1",
@@ -7564,6 +8144,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:stone"
           ]
@@ -7575,6 +8156,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7590,6 +8172,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "tconstruct:materials:0"
           ]
@@ -7603,6 +8186,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:stone"
           ]
@@ -7614,6 +8198,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7629,6 +8214,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dirt:0",
             "minecraft:dirt:1",
@@ -7644,6 +8230,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:dirt"
           ]
@@ -7655,6 +8242,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7670,6 +8258,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:clay_ball:0"
           ]
@@ -7683,6 +8272,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:clay"
           ]
@@ -7694,6 +8284,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7709,6 +8300,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:clay:0"
           ]
@@ -7722,6 +8314,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 576,
           "fluids": [
             "fluid:clay"
           ]
@@ -7733,6 +8326,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7748,6 +8342,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:emerald:0"
           ]
@@ -7761,6 +8356,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 666,
           "fluids": [
             "fluid:emerald"
           ]
@@ -7772,6 +8368,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7787,6 +8384,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:emerald_block:0"
           ]
@@ -7800,6 +8398,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 5994,
           "fluids": [
             "fluid:emerald"
           ]
@@ -7811,6 +8410,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 0,
           "fluids": []
         }
       ]
@@ -7824,6 +8424,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_chestplate:0"
           ]
@@ -7837,6 +8438,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:iron"
           ]
@@ -7848,6 +8450,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7863,6 +8466,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_leggings:0"
           ]
@@ -7876,6 +8480,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1008,
           "fluids": [
             "fluid:iron"
           ]
@@ -7887,6 +8492,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7902,6 +8508,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:golden_chestplate:0"
           ]
@@ -7915,6 +8522,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1152,
           "fluids": [
             "fluid:gold"
           ]
@@ -7926,6 +8534,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7941,6 +8550,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:golden_leggings:0"
           ]
@@ -7954,6 +8564,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1008,
           "fluids": [
             "fluid:gold"
           ]
@@ -7965,6 +8576,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -7980,6 +8592,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cauldron:0"
           ]
@@ -7993,6 +8606,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 1008,
           "fluids": [
             "fluid:iron"
           ]
@@ -8004,6 +8618,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8019,6 +8634,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_bars:0"
           ]
@@ -8032,6 +8648,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 54,
           "fluids": [
             "fluid:iron"
           ]
@@ -8043,6 +8660,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8058,6 +8676,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_helmet:0"
           ]
@@ -8071,6 +8690,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 720,
           "fluids": [
             "fluid:iron"
           ]
@@ -8082,6 +8702,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8097,6 +8718,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_boots:0"
           ]
@@ -8110,6 +8732,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 576,
           "fluids": [
             "fluid:iron"
           ]
@@ -8121,6 +8744,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8136,6 +8760,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:golden_helmet:0"
           ]
@@ -8149,6 +8774,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 720,
           "fluids": [
             "fluid:gold"
           ]
@@ -8160,6 +8786,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8175,6 +8802,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:golden_boots:0"
           ]
@@ -8188,6 +8816,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 576,
           "fluids": [
             "fluid:gold"
           ]
@@ -8199,6 +8828,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8214,6 +8844,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_door:0"
           ]
@@ -8227,6 +8858,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -8238,6 +8870,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8253,6 +8886,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:minecart:0"
           ]
@@ -8266,6 +8900,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 720,
           "fluids": [
             "fluid:iron"
           ]
@@ -8277,6 +8912,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8292,6 +8928,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bucket:0"
           ]
@@ -8305,6 +8942,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 432,
           "fluids": [
             "fluid:iron"
           ]
@@ -8316,6 +8954,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8331,6 +8970,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:shears:0"
           ]
@@ -8344,6 +8984,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -8355,6 +8996,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8370,6 +9012,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_trapdoor:0"
           ]
@@ -8383,6 +9026,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 576,
           "fluids": [
             "fluid:iron"
           ]
@@ -8394,6 +9038,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8409,6 +9054,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:heavy_weighted_pressure_plate:0"
           ]
@@ -8422,6 +9068,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:iron"
           ]
@@ -8433,6 +9080,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8448,6 +9096,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:light_weighted_pressure_plate:0"
           ]
@@ -8461,6 +9110,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 288,
           "fluids": [
             "fluid:gold"
           ]
@@ -8472,6 +9122,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8487,6 +9138,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:baubles:1"
           ]
@@ -8500,6 +9152,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 128,
           "fluids": [
             "fluid:brass"
           ]
@@ -8511,6 +9164,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]
@@ -8526,6 +9180,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:wand_cap:0"
           ]
@@ -8539,6 +9194,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 80,
           "fluids": [
             "fluid:iron"
           ]
@@ -8550,6 +9206,7 @@
           "h": 16,
           "p": 0,
           "in": false,
+          "amount": 1000,
           "fluids": [
             "fluid:lava"
           ]

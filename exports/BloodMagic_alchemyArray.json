@@ -15,196 +15,7 @@
           "h": 18,
           "p": 1,
           "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:9"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:3"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilSuppression:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:7"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:1"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilSeer:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:18"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:3"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilTransposition:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:4"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:1"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilVoid:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:16"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:3"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilEnderSeverance:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:5"
           ]
@@ -216,6 +27,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:1"
           ]
@@ -227,6 +39,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilGreenGrove:0"
           ]
@@ -243,196 +56,7 @@
           "h": 18,
           "p": 1,
           "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:13"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:3"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilHaste:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:2"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:1"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilAir:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:14"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:3"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilCompression:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemComponent:11"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:2"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilBloodLight:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "minecraft:redstone:0"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "bloodmagic:ItemSlate:0"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "bloodmagic:ItemSigilDivination:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:6"
           ]
@@ -444,6 +68,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:2"
           ]
@@ -455,6 +80,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilElementalAffinity:0"
           ]
@@ -471,6 +97,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:17"
           ]
@@ -482,6 +109,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:3"
           ]
@@ -493,6 +121,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilTeleposition:0"
           ]
@@ -509,6 +138,48 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:14"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:3"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilCompression:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:3"
           ]
@@ -520,6 +191,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:1"
           ]
@@ -531,6 +203,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilFastMiner:0"
           ]
@@ -547,6 +220,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:15"
           ]
@@ -558,6 +232,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:3"
           ]
@@ -569,6 +244,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilPhantomBridge:0"
           ]
@@ -585,8 +261,9 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:0"
+            "minecraft:redstone:0"
           ]
         },
         {
@@ -596,6 +273,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:0"
           ]
@@ -607,6 +285,48 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilDivination:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:0"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilWater:0"
           ]
@@ -623,6 +343,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:12"
           ]
@@ -634,6 +355,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:2"
           ]
@@ -645,6 +367,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilMagnetism:0"
           ]
@@ -661,6 +384,212 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:9"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:3"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilSuppression:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:7"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:1"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilSeer:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:18"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:3"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilTransposition:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:4"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:1"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilVoid:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:16"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:3"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilEnderSeverance:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:1"
           ]
@@ -672,6 +601,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:0"
           ]
@@ -683,8 +613,132 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilLava:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:13"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:3"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilHaste:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:2"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:1"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilAir:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:11"
+          ]
+        },
+        {
+          "x": 50,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSlate:2"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemSigilBloodLight:0"
           ]
         }
       ],

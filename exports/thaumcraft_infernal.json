@@ -15,272 +15,7 @@
           "h": 18,
           "p": 1,
           "in": true,
-          "stacks": [
-            "minecraft:mutton:0"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:cooked_mutton:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:chunk:5"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "minecraft:iron_ore:0"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:iron_ingot:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:nugget:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "thaumcraft:cluster:0"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:iron_ingot:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:nugget:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "thaumcraft:cluster:1"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:gold_ingot:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:gold_nugget:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "minecraft:beef:0"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:cooked_beef:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:chunk:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "minecraft:chicken:0"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "minecraft:cooked_chicken:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:chunk:1"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "stacks": [
-            "thaumcraft:cluster:6"
-          ]
-        },
-        {
-          "x": 60,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:quicksilver:0"
-          ]
-        },
-        {
-          "x": 86,
-          "y": 18,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "stacks": [
-            "thaumcraft:nugget:5"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:rabbit:0"
           ]
@@ -292,6 +27,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:cooked_rabbit:0"
           ]
@@ -303,6 +39,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:chunk:4"
           ]
@@ -319,8 +56,9 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
-            "minecraft:gold_ore:0"
+            "minecraft:iron_ore:0"
           ]
         },
         {
@@ -330,6 +68,92 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:iron_ingot:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:nugget:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:fish:0",
+            "minecraft:fish:1",
+            "minecraft:fish:2",
+            "minecraft:fish:3"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:cooked_fish:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:chunk:3"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:cluster:1"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -341,6 +165,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_nugget:0"
           ]
@@ -357,6 +182,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:porkchop:0"
           ]
@@ -368,6 +194,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:cooked_porkchop:0"
           ]
@@ -379,6 +206,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:chunk:2"
           ]
@@ -395,6 +223,89 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:gold_ore:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:gold_ingot:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:gold_nugget:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:cluster:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 2,
+          "stacks": [
+            "minecraft:iron_ingot:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:nugget:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ore_cinnabar:0"
           ]
@@ -406,6 +317,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:quicksilver:0"
           ]
@@ -417,6 +329,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:nugget:5"
           ]
@@ -433,11 +346,9 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
-            "minecraft:fish:0",
-            "minecraft:fish:1",
-            "minecraft:fish:2",
-            "minecraft:fish:3"
+            "minecraft:chicken:0"
           ]
         },
         {
@@ -447,8 +358,9 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
-            "minecraft:cooked_fish:0"
+            "minecraft:cooked_chicken:0"
           ]
         },
         {
@@ -458,8 +370,132 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
-            "thaumcraft:chunk:3"
+            "thaumcraft:chunk:1"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:mutton:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:cooked_mutton:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:chunk:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:cluster:6"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 2,
+          "stacks": [
+            "thaumcraft:quicksilver:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:nugget:5"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:beef:0"
+          ]
+        },
+        {
+          "x": 60,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "minecraft:cooked_beef:0"
+          ]
+        },
+        {
+          "x": 86,
+          "y": 18,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "thaumcraft:chunk:0"
           ]
         }
       ],

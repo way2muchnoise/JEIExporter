@@ -15,6 +15,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:0"
           ]
@@ -26,6 +27,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -42,6 +44,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -53,6 +56,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -64,6 +68,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -73,6 +78,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -100,6 +106,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -111,6 +118,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -120,6 +128,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -129,6 +138,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -138,6 +148,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -152,6 +163,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1"
           ]
@@ -163,6 +175,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -179,6 +192,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:0"
           ]
@@ -190,6 +204,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond:0"
           ]
@@ -201,6 +216,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -210,6 +226,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone_block:0"
           ]
@@ -221,6 +238,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:lapis_block:0"
           ]
@@ -232,6 +250,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -241,6 +260,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -250,6 +270,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -259,6 +280,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -273,6 +295,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2"
           ]
@@ -284,6 +307,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -298,6 +322,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1"
           ]
@@ -309,6 +334,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond:0"
           ]
@@ -320,6 +346,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -329,6 +356,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_block:0"
           ]
@@ -340,6 +368,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:2"
           ]
@@ -351,6 +380,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -360,6 +390,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -369,6 +400,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -378,6 +410,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -392,6 +425,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3"
           ]
@@ -403,6 +437,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -416,6 +451,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2"
           ]
@@ -427,6 +463,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:3"
           ]
@@ -438,6 +475,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -447,6 +485,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemBloodShard:0"
           ]
@@ -458,6 +497,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -469,6 +509,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -478,6 +519,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -487,6 +529,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -496,6 +539,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -510,6 +554,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:4"
           ]
@@ -521,6 +566,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -533,6 +579,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3"
           ]
@@ -544,6 +591,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:nether_star:0"
           ]
@@ -555,6 +603,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -564,6 +613,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -573,6 +623,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -582,6 +633,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -591,6 +643,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -600,6 +653,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -609,6 +663,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -623,6 +678,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSentientSword:0"
           ]
@@ -634,6 +690,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -650,6 +707,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:0"
           ]
@@ -661,6 +719,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_sword:0"
           ]
@@ -672,6 +731,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -681,6 +741,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -690,6 +751,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -699,6 +761,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -708,6 +771,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -717,6 +781,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -726,6 +791,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -740,6 +806,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSentientBow:0"
           ]
@@ -751,6 +818,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -765,6 +833,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bow:0"
           ]
@@ -776,6 +845,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1"
           ]
@@ -787,6 +857,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -796,6 +867,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -807,6 +879,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -818,6 +891,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -827,6 +901,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -836,6 +911,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -845,6 +921,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -859,6 +936,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemArcaneAshes:0"
           ]
@@ -870,6 +948,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -886,6 +965,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -897,6 +977,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:15"
           ]
@@ -908,6 +989,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -917,6 +999,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -928,6 +1011,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:coal:0"
           ]
@@ -939,6 +1023,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -948,6 +1033,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -957,6 +1043,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -966,6 +1053,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -980,6 +1068,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:0"
           ]
@@ -991,6 +1080,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -1007,6 +1097,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:sugar:0"
           ]
@@ -1018,6 +1109,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:water_bucket:0"
           ]
@@ -1029,6 +1121,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1038,6 +1131,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:water_bucket:0"
           ]
@@ -1049,6 +1143,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1058,6 +1153,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1067,6 +1163,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1076,6 +1173,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1085,6 +1183,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1099,6 +1198,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:1"
           ]
@@ -1110,6 +1210,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -1126,6 +1227,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:lava_bucket:0"
           ]
@@ -1137,6 +1239,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -1148,6 +1251,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1157,6 +1261,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cobblestone:0"
           ]
@@ -1168,6 +1273,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:coal_block:0"
           ]
@@ -1179,6 +1285,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1188,6 +1295,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1197,6 +1305,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1206,6 +1315,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1220,6 +1330,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:4"
           ]
@@ -1231,6 +1342,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -1247,6 +1359,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bucket:0"
           ]
@@ -1258,6 +1371,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -1269,6 +1383,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1278,6 +1393,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -1289,6 +1405,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -1300,6 +1417,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1309,6 +1427,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1318,6 +1437,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1327,6 +1447,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1341,6 +1462,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:5"
           ]
@@ -1352,6 +1474,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -1366,6 +1489,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:sapling:0",
             "minecraft:sapling:1",
@@ -1387,6 +1511,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:sapling:0",
             "minecraft:sapling:1",
@@ -1408,6 +1533,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1417,6 +1543,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:reeds:0"
           ]
@@ -1428,6 +1555,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:sugar:0"
           ]
@@ -1439,6 +1567,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1448,6 +1577,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1457,6 +1587,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1466,6 +1597,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1480,6 +1612,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:2"
           ]
@@ -1491,6 +1624,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -1505,6 +1639,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:ghast_tear:0"
           ]
@@ -1516,6 +1651,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:feather:0"
           ]
@@ -1527,6 +1663,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1536,6 +1673,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:feather:0"
           ]
@@ -1547,6 +1685,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1556,6 +1695,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1565,6 +1705,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1574,6 +1715,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1583,6 +1725,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1597,6 +1740,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:7"
           ]
@@ -1608,6 +1752,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
             "bloodmagic:ItemSoulGem:0",
@@ -1624,6 +1769,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilDivination:0"
           ]
@@ -1635,6 +1781,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -1662,6 +1809,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1671,6 +1819,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -1698,6 +1847,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -1709,6 +1859,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1718,6 +1869,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1727,6 +1879,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1736,6 +1889,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1750,6 +1904,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:3"
           ]
@@ -1761,6 +1916,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -1775,6 +1931,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_pickaxe:0"
           ]
@@ -1786,6 +1943,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_axe:0"
           ]
@@ -1797,6 +1955,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1806,6 +1965,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_shovel:0"
           ]
@@ -1817,6 +1977,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -1828,6 +1989,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1837,6 +1999,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1846,6 +2009,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1855,6 +2019,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1869,6 +2034,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:6"
           ]
@@ -1880,6 +2046,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -1893,6 +2060,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilWater:0"
           ]
@@ -1904,6 +2072,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilAir:0"
           ]
@@ -1915,6 +2084,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1924,6 +2094,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSigilLava:0"
           ]
@@ -1935,6 +2106,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -1946,6 +2118,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1955,6 +2128,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1964,6 +2138,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -1973,6 +2148,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -1987,6 +2163,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:9"
           ]
@@ -1998,6 +2175,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2011,6 +2189,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockTeleposer:0"
           ]
@@ -2022,6 +2201,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:water_bucket:0"
           ]
@@ -2033,6 +2213,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2042,6 +2223,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:lava_bucket:0"
           ]
@@ -2053,6 +2235,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:blaze_rod:0"
           ]
@@ -2064,6 +2247,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2073,6 +2257,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2082,6 +2267,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2091,6 +2277,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2105,6 +2292,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:8"
           ]
@@ -2116,6 +2304,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2129,6 +2318,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -2140,6 +2330,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -2151,6 +2342,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2160,6 +2352,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_nugget:0",
             "thaumcraft:coin:0"
@@ -2172,6 +2365,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -2183,6 +2377,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2192,6 +2387,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2201,6 +2397,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2210,6 +2407,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2224,6 +2422,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:11"
           ]
@@ -2235,6 +2434,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2248,6 +2448,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone:0"
           ]
@@ -2259,6 +2460,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:torch:0"
           ]
@@ -2270,6 +2472,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2279,6 +2482,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -2290,6 +2494,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -2301,6 +2506,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2310,6 +2516,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2319,6 +2526,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2328,6 +2536,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2342,6 +2551,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:12"
           ]
@@ -2353,6 +2563,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2366,6 +2577,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -2377,6 +2589,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -2388,6 +2601,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2397,6 +2611,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -2408,6 +2623,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -2419,6 +2635,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2428,6 +2645,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2437,6 +2655,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2446,6 +2665,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2460,6 +2680,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:13"
           ]
@@ -2471,6 +2692,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -2483,6 +2705,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cookie:0"
           ]
@@ -2494,6 +2717,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:sugar:0"
           ]
@@ -2505,6 +2729,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2514,6 +2739,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cookie:0"
           ]
@@ -2525,6 +2751,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -2536,6 +2763,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2545,6 +2773,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2554,6 +2783,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2563,6 +2793,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2577,6 +2808,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:15"
           ]
@@ -2588,6 +2820,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2601,6 +2834,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:soul_sand:0"
           ]
@@ -2612,6 +2846,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:soul_sand:0"
           ]
@@ -2623,6 +2858,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2632,6 +2868,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -2643,6 +2880,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -2654,6 +2892,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2663,6 +2902,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2672,6 +2912,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2681,6 +2922,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2695,6 +2937,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:16"
           ]
@@ -2706,6 +2949,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -2719,6 +2963,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:ender_eye:0"
           ]
@@ -2730,6 +2975,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:ender_pearl:0"
           ]
@@ -2741,6 +2987,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2750,6 +2997,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -2761,6 +3009,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -2772,6 +3021,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2781,6 +3031,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2790,6 +3041,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2799,6 +3051,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2813,6 +3066,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:14"
           ]
@@ -2824,6 +3078,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -2836,6 +3091,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -2847,6 +3103,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_block:0"
           ]
@@ -2858,6 +3115,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2867,6 +3125,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -2878,6 +3137,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cobblestone:0"
           ]
@@ -2889,6 +3149,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2898,6 +3159,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2907,6 +3169,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2916,6 +3179,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -2930,6 +3194,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:17"
           ]
@@ -2941,6 +3206,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -2953,6 +3219,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockTeleposer:0"
           ]
@@ -2964,6 +3231,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone:0"
           ]
@@ -2975,6 +3243,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -2984,6 +3253,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone_block:0"
           ]
@@ -2995,6 +3265,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -3006,6 +3277,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3015,6 +3287,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3024,6 +3297,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3033,6 +3307,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3047,6 +3322,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:18"
           ]
@@ -3058,6 +3334,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -3070,6 +3347,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockTeleposer:0"
           ]
@@ -3081,6 +3359,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond:0"
           ]
@@ -3092,6 +3371,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3101,6 +3381,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:ender_pearl:0"
           ]
@@ -3112,6 +3393,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -3123,6 +3405,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3132,6 +3415,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3141,6 +3425,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3150,6 +3435,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3164,6 +3450,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSentientArmourGem:0"
           ]
@@ -3175,6 +3462,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1",
             "bloodmagic:ItemSoulGem:2",
@@ -3189,6 +3477,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond_chestplate:0"
           ]
@@ -3200,6 +3489,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:1"
           ]
@@ -3211,6 +3501,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3220,6 +3511,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -3231,6 +3523,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:obsidian:0"
           ]
@@ -3242,6 +3535,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3251,6 +3545,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3260,6 +3555,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3269,6 +3565,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3283,6 +3580,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemComponent:10"
           ]
@@ -3294,6 +3592,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3307,6 +3606,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -3334,6 +3634,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -3345,6 +3646,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3354,6 +3656,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:0"
           ]
@@ -3365,6 +3668,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3374,6 +3678,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3383,6 +3688,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3392,6 +3698,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3401,6 +3708,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3415,6 +3723,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemNodeRouter:0"
           ]
@@ -3426,6 +3735,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3439,6 +3749,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stick:0"
           ]
@@ -3450,6 +3761,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:1"
           ]
@@ -3461,6 +3773,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3470,6 +3783,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -3481,6 +3795,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -3492,6 +3807,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3501,6 +3817,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3510,6 +3827,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3519,6 +3837,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3533,6 +3852,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockItemRoutingNode:0"
           ]
@@ -3544,6 +3864,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3557,6 +3878,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -3568,6 +3890,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -3579,6 +3902,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3588,6 +3912,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -3615,6 +3940,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -3626,6 +3952,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3635,6 +3962,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3644,6 +3972,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3653,6 +3982,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3667,6 +3997,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockOutputRoutingNode:0"
           ]
@@ -3678,6 +4009,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3691,6 +4023,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -3702,6 +4035,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -3713,6 +4047,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3722,6 +4057,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ingot:0"
           ]
@@ -3733,6 +4069,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockItemRoutingNode:0"
           ]
@@ -3744,6 +4081,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3753,6 +4091,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3762,6 +4101,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3771,6 +4111,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3785,6 +4126,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockInputRoutingNode:0"
           ]
@@ -3796,6 +4138,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3809,6 +4152,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -3820,6 +4164,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:redstone:0"
           ]
@@ -3831,6 +4176,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3840,6 +4186,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ingot:0"
           ]
@@ -3851,6 +4198,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockItemRoutingNode:0"
           ]
@@ -3862,6 +4210,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3871,6 +4220,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3880,6 +4230,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3889,6 +4240,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -3903,6 +4255,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockMasterRoutingNode:0"
           ]
@@ -3914,6 +4267,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -3927,6 +4281,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -3938,6 +4293,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond:0"
           ]
@@ -3949,6 +4305,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3958,6 +4315,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSlate:2"
           ]
@@ -3969,6 +4327,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3978,6 +4337,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3987,6 +4347,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -3996,6 +4357,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4005,6 +4367,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4019,6 +4382,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrystal:0"
           ]
@@ -4030,6 +4394,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -4042,6 +4407,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -4053,6 +4419,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -4064,6 +4431,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4073,6 +4441,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -4084,6 +4453,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -4095,6 +4465,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4104,6 +4475,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4113,6 +4485,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4122,6 +4495,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4136,6 +4510,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrystal:1"
           ]
@@ -4147,6 +4522,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -4159,6 +4535,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:1"
           ]
@@ -4170,6 +4547,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:1"
           ]
@@ -4181,6 +4559,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4190,6 +4569,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:1"
           ]
@@ -4201,6 +4581,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:1"
           ]
@@ -4212,6 +4593,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4221,6 +4603,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4230,6 +4613,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4239,6 +4623,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4253,6 +4638,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrystal:2"
           ]
@@ -4264,6 +4650,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -4276,6 +4663,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:2"
           ]
@@ -4287,6 +4675,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:2"
           ]
@@ -4298,6 +4687,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4307,6 +4697,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:2"
           ]
@@ -4318,6 +4709,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:2"
           ]
@@ -4329,6 +4721,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4338,6 +4731,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4347,6 +4741,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4356,6 +4751,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4370,6 +4766,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrystal:4"
           ]
@@ -4381,6 +4778,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:3",
             "bloodmagic:ItemSoulGem:4"
@@ -4393,6 +4791,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:4"
           ]
@@ -4404,6 +4803,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:4"
           ]
@@ -4415,6 +4815,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4424,6 +4825,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:4"
           ]
@@ -4435,6 +4837,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:4"
           ]
@@ -4446,6 +4849,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4455,6 +4859,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4464,6 +4869,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4473,6 +4879,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4487,6 +4894,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrucible:0"
           ]
@@ -4498,6 +4906,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -4511,6 +4920,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cauldron:0"
           ]
@@ -4522,6 +4932,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -4533,6 +4944,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4542,6 +4954,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -4553,6 +4966,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:diamond:0"
           ]
@@ -4564,6 +4978,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4573,6 +4988,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4582,6 +4998,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4591,6 +5008,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4605,6 +5023,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonPylon:0"
           ]
@@ -4616,6 +5035,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -4629,6 +5049,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_block:0"
           ]
@@ -4640,6 +5061,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -4651,6 +5073,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4660,6 +5083,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -4671,6 +5095,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemDemonCrystal:0"
           ]
@@ -4682,6 +5107,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4691,6 +5117,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4700,6 +5127,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4709,6 +5137,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],
@@ -4723,6 +5152,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockDemonCrystallizer:0"
           ]
@@ -4734,6 +5164,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemSoulGem:2",
             "bloodmagic:ItemSoulGem:3",
@@ -4747,6 +5178,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "bloodmagic:BlockSoulForge:0"
           ]
@@ -4758,6 +5190,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:stone:0"
           ]
@@ -4769,6 +5202,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4778,6 +5212,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:4"
           ]
@@ -4789,6 +5224,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glass:0",
             "minecraft:stained_glass:0",
@@ -4816,6 +5252,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4825,6 +5262,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4834,6 +5272,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         },
         {
@@ -4843,6 +5282,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 0,
           "stacks": []
         }
       ],

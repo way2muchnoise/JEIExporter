@@ -151,7 +151,11 @@ function drawRecipe(recipe) {
 			'background-image': image
 		}).addClass("itemstack").attr({cycle: 0, id: "itemElement" + i});
 		if (tooltipMap && item.stacks[0])
-			itemElement.attr('title', tooltipMap[item.stacks[0]]).tooltip({placement: 'left'});
+		{
+			var tooltip = tooltipMap[item.stacks[0]];
+			if (item.amount > 1) tooltip += " x" + item.amount;
+			itemElement.attr('title', tooltip).tooltip({placement: 'left'});
+		}
 		renderSpace.append(itemElement);
 		if ($("#itemElement" + i).is(":hover")) itemElement.tooltip('show');
 	}
@@ -172,7 +176,11 @@ function drawRecipe(recipe) {
 			'background-image': image
 		}).addClass("fluidstack").attr({cycle: 0, id: "fluidElement" + i});
 		if (tooltipMap && fluid.fluids[0])
-			fluidElement.attr('title', tooltipMap[fluid.fluids[0]]).tooltip({placement: 'left'});
+		{
+			var tooltip = tooltipMap[fluid.fluids[0]];
+			if (fluid.amount > 1) tooltip += "\n" + fluid.amount + "mb";
+			fluidElement.attr('title', tooltip).tooltip({placement: 'left'});
+		}
 		renderSpace.append(fluidElement);
 		if ($("#fluidElement" + i).is(":hover")) fluidElement.tooltip('show');
 	}
@@ -196,9 +204,13 @@ function cycleItems() {
 			image = "url(items/" + item.stacks[ii].replace(/:/g, "_") + ".png)";
 		itemElement.css('background-image', image).attr('cycle', ii);
 		if (tooltipMap && item.stacks[ii])
+		{
+			var tooltip = tooltipMap[item.stacks[ii]];
+			if (item.amount > 1) tooltip += " x" + item.amount;
 			itemElement.tooltip('hide')
-				.attr('data-original-title', tooltipMap[item.stacks[ii]])
+				.attr('data-original-title', tooltip)
 				.tooltip('fixTitle');
+		}
 		if (itemElement.is(":hover")) itemElement.tooltip('show');
 	}
 }
@@ -215,9 +227,13 @@ function cycleFluids() {
 			image = "url(fluids/" + fluid.fluids[ii].replace(/:/g, "_") + ".png)";
 		fluidElement.css('background-image', image).attr('cycle', ii);
 		if (tooltipMap && fluid.fluids[ii])
+		{
+			var tooltip = tooltipMap[fluid.fluids[ii]];
+			if (fluid.amount > 1) tooltip += "\n" + fluid.amount + "mb";
 			fluidElement.tooltip('hide')
-				.attr('data-original-title', tooltipMap[fluid.fluids[ii]])
+				.attr('data-original-title', tooltip)
 				.tooltip('fixTitle');
+		}
 		if (fluidElement.is(":hover")) fluidElement.tooltip('show');
 	}
 }

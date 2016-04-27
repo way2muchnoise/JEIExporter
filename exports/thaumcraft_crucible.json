@@ -15,6 +15,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:0"
           ]
@@ -26,6 +27,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -42,6 +44,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:1"
           ]
@@ -53,6 +56,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -69,6 +73,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:2"
           ]
@@ -80,6 +85,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -96,6 +102,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:3"
           ]
@@ -107,6 +114,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -123,6 +131,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:4"
           ]
@@ -134,6 +143,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -150,6 +160,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:5"
           ]
@@ -161,6 +172,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:7"
           ]
@@ -177,6 +189,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:coal:0",
             "minecraft:coal:1"
@@ -189,6 +202,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:alumentum:0"
           ]
@@ -205,6 +219,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -216,6 +231,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:nitor:4"
           ]
@@ -232,6 +248,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ingot:0"
           ]
@@ -243,6 +260,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ingot:0"
           ]
@@ -259,6 +277,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ingot:0"
           ]
@@ -270,6 +289,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ingot:2"
           ]
@@ -286,6 +306,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:void_seed:0"
           ]
@@ -297,6 +318,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ingot:1"
           ]
@@ -313,6 +335,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:wheat_seeds:0"
           ]
@@ -324,6 +347,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:void_seed:0"
           ]
@@ -340,6 +364,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:rotten_flesh:0"
           ]
@@ -351,6 +376,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:tallow:0"
           ]
@@ -367,6 +393,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -378,6 +405,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:gunpowder:0"
           ]
@@ -394,6 +422,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:slime_ball:0"
           ]
@@ -405,6 +434,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:slime_ball:0"
           ]
@@ -421,6 +451,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -432,6 +463,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:glowstone_dust:0"
           ]
@@ -448,6 +480,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dye:0"
           ]
@@ -459,6 +492,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:dye:0"
           ]
@@ -475,6 +509,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:prismarine_crystals:0"
           ]
@@ -486,6 +521,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:prismarine_crystals:0"
           ]
@@ -502,6 +538,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:prismarine_shard:0"
           ]
@@ -513,6 +550,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 2,
           "stacks": [
             "minecraft:prismarine_shard:0"
           ]
@@ -529,6 +567,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dirt:0"
           ]
@@ -540,6 +579,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:clay_ball:0"
           ]
@@ -556,6 +596,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -567,6 +608,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:web:0"
           ]
@@ -583,6 +625,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:cobblestone:0"
           ]
@@ -594,6 +637,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:mossy_cobblestone:0"
           ]
@@ -610,6 +654,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:snow:0"
           ]
@@ -621,6 +666,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:ice:0"
           ]
@@ -637,6 +683,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bucket:0"
           ]
@@ -648,6 +695,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:lava_bucket:0"
           ]
@@ -664,6 +712,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dirt:0"
           ]
@@ -675,6 +724,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:grass:0"
           ]
@@ -691,6 +741,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bone:0"
           ]
@@ -702,6 +753,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 4,
           "stacks": [
             "minecraft:dye:15"
           ]
@@ -718,6 +770,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:blaze_rod:0"
           ]
@@ -729,6 +782,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 3,
           "stacks": [
             "minecraft:blaze_powder:0"
           ]
@@ -745,6 +799,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:rotten_flesh:0"
           ]
@@ -756,6 +811,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:leather:0"
           ]
@@ -772,6 +828,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:wool:0",
             "minecraft:wool:1",
@@ -798,6 +855,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 4,
           "stacks": [
             "minecraft:string:0"
           ]
@@ -814,6 +872,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:dirt:0"
           ]
@@ -825,6 +884,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "minecraft:mycelium:0"
           ]
@@ -841,6 +901,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:iron_ore:0"
           ]
@@ -852,6 +913,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:cluster:0"
           ]
@@ -868,6 +930,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_ore:0"
           ]
@@ -879,6 +942,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:cluster:1"
           ]
@@ -895,6 +959,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:ore_cinnabar:0"
           ]
@@ -906,6 +971,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:cluster:6"
           ]
@@ -922,6 +988,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:nugget:0"
           ]
@@ -933,6 +1000,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 3,
           "stacks": [
             "thaumcraft:nugget:0"
           ]
@@ -949,6 +1017,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:gold_nugget:0"
           ]
@@ -960,6 +1029,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 3,
           "stacks": [
             "minecraft:gold_nugget:0"
           ]
@@ -976,6 +1046,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shimmerleaf:0"
           ]
@@ -987,6 +1058,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:bloom:0"
           ]
@@ -1003,6 +1075,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "minecraft:bucket:0"
           ]
@@ -1014,6 +1087,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:bucket_death:0"
           ]
@@ -1030,6 +1104,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:phial:1:604fae1c"
           ]
@@ -1041,6 +1116,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:bottle_taint:0"
           ]
@@ -1057,6 +1133,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:0",
             "thaumcraft:shard:1",
@@ -1075,6 +1152,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:shard:6"
           ]
@@ -1091,6 +1169,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:salis_mundus:0"
           ]
@@ -1102,6 +1181,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:bath_salts:0"
           ]
@@ -1118,6 +1198,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:flesh_block:0"
           ]
@@ -1129,6 +1210,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:sanity_soap:0"
           ]
@@ -1145,6 +1227,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:0"
           ]
@@ -1156,6 +1239,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:1"
           ]
@@ -1172,6 +1256,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:1"
           ]
@@ -1183,6 +1268,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:2"
           ]
@@ -1199,6 +1285,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:0"
           ]
@@ -1210,6 +1297,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:3"
           ]
@@ -1226,6 +1314,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:3"
           ]
@@ -1237,6 +1326,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:4"
           ]
@@ -1253,6 +1343,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:0"
           ]
@@ -1264,6 +1355,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:5"
           ]
@@ -1280,6 +1372,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:5"
           ]
@@ -1291,6 +1384,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:6"
           ]
@@ -1307,6 +1401,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:6"
           ]
@@ -1318,6 +1413,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:14"
           ]
@@ -1334,6 +1430,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:0"
           ]
@@ -1345,6 +1442,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:9"
           ]
@@ -1361,6 +1459,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:9"
           ]
@@ -1372,6 +1471,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:10"
           ]
@@ -1388,6 +1488,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:12"
           ]
@@ -1399,6 +1500,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:11"
           ]
@@ -1415,6 +1517,7 @@
           "h": 18,
           "p": 1,
           "in": true,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:0"
           ]
@@ -1426,6 +1529,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "thaumcraft:seal:13"
           ]

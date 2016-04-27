@@ -16,6 +16,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 36,
           "fluids": [
             "fluid:obsidian"
           ]
@@ -27,6 +28,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 125,
           "fluids": [
             "fluid:water"
           ]
@@ -38,6 +40,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 125,
           "fluids": [
             "fluid:lava"
           ]
@@ -54,6 +57,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:clay"
           ]
@@ -65,6 +69,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 250,
           "fluids": [
             "fluid:water"
           ]
@@ -76,6 +81,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 72,
           "fluids": [
             "fluid:stone"
           ]
@@ -87,6 +93,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 144,
           "fluids": [
             "fluid:dirt"
           ]
@@ -103,6 +110,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 72,
           "fluids": [
             "fluid:knightslime"
           ]
@@ -114,6 +122,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 72,
           "fluids": [
             "fluid:iron"
           ]
@@ -125,6 +134,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 125,
           "fluids": [
             "fluid:purpleslime"
           ]
@@ -136,6 +146,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 144,
           "fluids": [
             "fluid:stone"
           ]
@@ -152,6 +163,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 144,
           "fluids": [
             "fluid:pigiron"
           ]
@@ -163,6 +175,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 48,
           "fluids": [
             "fluid:iron"
           ]
@@ -174,6 +187,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 33,
           "fluids": [
             "fluid:blood"
           ]
@@ -185,6 +199,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 74,
           "fluids": [
             "fluid:emerald"
           ]
@@ -201,6 +216,7 @@
           "h": 32,
           "p": 0,
           "in": false,
+          "amount": 2,
           "fluids": [
             "fluid:manyullyn"
           ]
@@ -212,6 +228,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 2,
           "fluids": [
             "fluid:cobalt"
           ]
@@ -223,6 +240,7 @@
           "h": 32,
           "p": 0,
           "in": true,
+          "amount": 2,
           "fluids": [
             "fluid:ardite"
           ]

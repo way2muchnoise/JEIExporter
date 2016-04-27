@@ -15,6 +15,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemAltarMaker:0"
           ]
@@ -31,6 +32,7 @@
           "h": 18,
           "p": 1,
           "in": false,
+          "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0"
           ]
