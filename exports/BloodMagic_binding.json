@@ -17,12 +17,13 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:8"
+            "bloodmagic:ItemComponent:8",
+            "minecraft:diamond_sword:0"
           ]
         },
         {
-          "x": 50,
-          "y": 5,
+          "x": 29,
+          "y": 3,
           "w": 18,
           "h": 18,
           "p": 1,
@@ -58,135 +59,13 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:8"
+            "bloodmagic:ItemComponent:8",
+            "minecraft:iron_helmet:0"
           ]
         },
         {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "minecraft:iron_chestplate:0"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemLivingArmourChest:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemComponent:8"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "minecraft:diamond_pickaxe:0"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemBoundPickaxe:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemComponent:8"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "minecraft:diamond_shovel:0"
-          ]
-        },
-        {
-          "x": 73,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": false,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemBoundShovel:0"
-          ]
-        }
-      ],
-      "ingredientFluids": []
-    },
-    {
-      "ingredientItems": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 18,
-          "h": 18,
-          "p": 1,
-          "in": true,
-          "amount": 1,
-          "stacks": [
-            "bloodmagic:ItemComponent:8"
-          ]
-        },
-        {
-          "x": 50,
-          "y": 5,
+          "x": 29,
+          "y": 3,
           "w": 18,
           "h": 18,
           "p": 1,
@@ -222,19 +101,20 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:8"
+            "bloodmagic:ItemComponent:8",
+            "minecraft:diamond_shovel:0"
           ]
         },
         {
-          "x": 50,
-          "y": 5,
+          "x": 29,
+          "y": 3,
           "w": 18,
           "h": 18,
           "p": 1,
           "in": true,
           "amount": 1,
           "stacks": [
-            "minecraft:iron_boots:0"
+            "minecraft:diamond_shovel:0"
           ]
         },
         {
@@ -246,7 +126,7 @@
           "in": false,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemLivingArmourBoots:0"
+            "bloodmagic:ItemBoundShovel:0"
           ]
         }
       ],
@@ -263,12 +143,55 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:8"
+            "bloodmagic:ItemComponent:8",
+            "minecraft:iron_chestplate:0"
           ]
         },
         {
-          "x": 50,
+          "x": 29,
+          "y": 3,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:iron_chestplate:0"
+          ]
+        },
+        {
+          "x": 73,
           "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourChest:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:8",
+            "minecraft:diamond_axe:0"
+          ]
+        },
+        {
+          "x": 29,
+          "y": 3,
           "w": 18,
           "h": 18,
           "p": 1,
@@ -304,12 +227,55 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemComponent:8"
+            "bloodmagic:ItemComponent:8",
+            "minecraft:diamond_pickaxe:0"
           ]
         },
         {
-          "x": 50,
+          "x": 29,
+          "y": 3,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:diamond_pickaxe:0"
+          ]
+        },
+        {
+          "x": 73,
           "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemBoundPickaxe:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:8",
+            "minecraft:iron_leggings:0"
+          ]
+        },
+        {
+          "x": 29,
+          "y": 3,
           "w": 18,
           "h": 18,
           "p": 1,
@@ -329,6 +295,48 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemLivingArmourLegs:0"
+          ]
+        }
+      ],
+      "ingredientFluids": []
+    },
+    {
+      "ingredientItems": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemComponent:8",
+            "minecraft:iron_boots:0"
+          ]
+        },
+        {
+          "x": 29,
+          "y": 3,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": true,
+          "amount": 1,
+          "stacks": [
+            "minecraft:iron_boots:0"
+          ]
+        },
+        {
+          "x": 73,
+          "y": 5,
+          "w": 18,
+          "h": 18,
+          "p": 1,
+          "in": false,
+          "amount": 1,
+          "stacks": [
+            "bloodmagic:ItemLivingArmourBoots:0"
           ]
         }
       ],

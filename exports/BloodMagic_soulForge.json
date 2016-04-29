@@ -178,11 +178,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -309,10 +309,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -439,9 +439,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -568,8 +568,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -693,11 +693,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -820,10 +820,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -951,11 +951,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1083,11 +1083,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1213,11 +1213,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1345,11 +1345,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1476,10 +1476,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1497,8 +1497,6 @@
             "minecraft:sapling:3",
             "minecraft:sapling:4",
             "minecraft:sapling:5",
-            "thaumcraft:sapling:0",
-            "thaumcraft:sapling:1",
             "tconstruct:slime_sapling:0",
             "tconstruct:slime_sapling:1",
             "tconstruct:slime_sapling:2"
@@ -1519,8 +1517,6 @@
             "minecraft:sapling:3",
             "minecraft:sapling:4",
             "minecraft:sapling:5",
-            "thaumcraft:sapling:0",
-            "thaumcraft:sapling:1",
             "tconstruct:slime_sapling:0",
             "tconstruct:slime_sapling:1",
             "tconstruct:slime_sapling:2"
@@ -1626,10 +1622,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1755,11 +1751,11 @@
           "amount": 1,
           "stacks": [
             "bloodmagic:ItemMonsterSoul:0",
-            "bloodmagic:ItemSoulGem:0",
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:0:f62",
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -1918,10 +1914,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2048,9 +2044,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2177,9 +2173,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2306,9 +2302,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2354,8 +2350,7 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "minecraft:gold_nugget:0",
-            "thaumcraft:coin:0"
+            "minecraft:gold_nugget:0"
           ]
         },
         {
@@ -2436,9 +2431,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2565,9 +2560,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2694,8 +2689,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2822,9 +2817,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -2951,9 +2946,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3080,8 +3075,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3208,8 +3203,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3336,8 +3331,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3464,10 +3459,10 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:1",
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:1:f62",
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3594,9 +3589,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3737,9 +3732,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -3866,9 +3861,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4011,9 +4006,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4140,9 +4135,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4269,9 +4264,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4396,8 +4391,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4524,8 +4519,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4652,8 +4647,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4780,8 +4775,8 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -4908,9 +4903,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -5037,9 +5032,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {
@@ -5166,9 +5161,9 @@
           "in": true,
           "amount": 1,
           "stacks": [
-            "bloodmagic:ItemSoulGem:2",
-            "bloodmagic:ItemSoulGem:3",
-            "bloodmagic:ItemSoulGem:4"
+            "bloodmagic:ItemSoulGem:2:f62",
+            "bloodmagic:ItemSoulGem:3:f62",
+            "bloodmagic:ItemSoulGem:4:f62"
           ]
         },
         {

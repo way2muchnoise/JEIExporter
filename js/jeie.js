@@ -11,6 +11,11 @@ var gitURL = "http://way2muchnoise.github.io/JEIExporter/exports";
 
 function loadDefaultFiles()
 {
+	$.getJSON(gitURL + "/BloodMagic_alchemyArray.json", pushToData);
+	$.getJSON(gitURL + "/BloodMagic_altar.json", pushToData);
+	$.getJSON(gitURL + "/BloodMagic_binding.json", pushToData);
+	$.getJSON(gitURL + "/BloodMagic_soulForge.json", pushToData);
+
 	$.getJSON(gitURL + "/minecraft_crafting.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_brewing.json", pushToData);
 	$.getJSON(gitURL + "/minecraft_smelting.json", pushToData);
@@ -19,11 +24,6 @@ function loadDefaultFiles()
 	$.getJSON(gitURL + "/tconstruct_alloy.json", pushToData);
 	$.getJSON(gitURL + "/tconstruct_casting_table.json", pushToData);
 	$.getJSON(gitURL + "/tconstruct_smeltery.json", pushToData);
-	$.getJSON(gitURL + "/thaumcraft_crucible.json", pushToData);
-	$.getJSON(gitURL + "/thaumcraft_infernal.json", pushToData);
-	$.getJSON(gitURL + "/thaumcraft_arcane.json", pushToData);
-	$.getJSON(gitURL + "/thaumcraft_crucible.json", pushToData);
-	$.getJSON(gitURL + "/thaumcraft_infusion.json", pushToData);
 
 	$.getJSON(gitURL + "/tooltipMap.json", setTooltipMap);
 	$.getJSON(gitURL + "/lookupMap.json", setLookupMap);
