@@ -6,10 +6,10 @@ import jeiexporter.json.TooltipJsonMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.Tessellator;
-import net.minecraft.client.renderer.WorldRenderer;
 import net.minecraft.client.renderer.texture.TextureAtlasSprite;
 import net.minecraft.client.renderer.texture.TextureMap;
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats;
+import net.minecraft.client.renderer.VertexBuffer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fluids.FluidStack;
 import org.lwjgl.opengl.GL11;
@@ -68,7 +68,7 @@ public class RenderFluid
             fluidStillSprite = textureMapBlocks.getMissingSprite();
         }
 
-        Minecraft.getMinecraft().renderEngine.bindTexture(TextureMap.locationBlocksTexture);
+        Minecraft.getMinecraft().renderEngine.bindTexture(TextureMap.LOCATION_BLOCKS_TEXTURE);
 
         int colour = fluidStack.getFluid().getColor(fluidStack);
         float red = (colour >> 16 & 0xFF) / 255.0F;
@@ -77,12 +77,12 @@ public class RenderFluid
         GlStateManager.color(red, green, blue, 1.0F);
 
         Tessellator tessellator = Tessellator.getInstance();
-        WorldRenderer worldrenderer = tessellator.getWorldRenderer();
-        worldrenderer.begin(7, DefaultVertexFormats.POSITION_TEX);
-        worldrenderer.pos(0, FLUID_SIZE, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
-        worldrenderer.pos(FLUID_SIZE, FLUID_SIZE, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
-        worldrenderer.pos(FLUID_SIZE, 0, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
-        worldrenderer.pos(0, 0, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMinV()).endVertex();
+        VertexBuffer buffer = tessellator.getBuffer();
+        buffer.begin(7, DefaultVertexFormats.POSITION_TEX);
+        buffer.pos(0, FLUID_SIZE, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(FLUID_SIZE, FLUID_SIZE, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(FLUID_SIZE, 0, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
+        buffer.pos(0, 0, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMinV()).endVertex();
         tessellator.draw();
     }
 }
