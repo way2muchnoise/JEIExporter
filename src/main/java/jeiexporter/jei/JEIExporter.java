@@ -64,7 +64,7 @@ public class JEIExporter
         }
         try
         {
-            TooltipJsonMap.saveAsJson();
+            TooltipJsonMap.saveAsJson("exports");
         } catch (IOException e)
         {
             e.printStackTrace();

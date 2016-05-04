@@ -22,12 +22,14 @@ public class EventHandler
     }
 
     @SubscribeEvent
-    public void inKeyInput(InputEvent.KeyInputEvent event)
+    public void onKeyInput(InputEvent.KeyInputEvent event)
     {
-        if (Settings.craftTree.isKeyDown())
+        if (Settings.craftTree.isPressed())
         {
             CraftingTree tree = new CraftingTree(new ItemStack(Items.COMPARATOR));
-            tree = tree;
+            tree.getCraftItems();
+            tree.getBaseItems();
+            CraftingTree.clearCache();
         }
     }
 }

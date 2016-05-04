@@ -32,12 +32,17 @@ public class TooltipJsonMap
         return regName;
     }
 
-    private static String createRegName(ItemStack itemStack)
+    public static String createRegName(ItemStack itemStack)
     {
         String regName = itemStack.getItem().getRegistryName() + ":" + itemStack.getMetadata();
         if (itemStack.hasTagCompound())
             regName += ":" + Integer.toHexString(itemStack.getTagCompound().toString().hashCode());
         return regName;
+    }
+
+    public static String getDispName(String regName)
+    {
+        return regToDisp.get(regName);
     }
 
     public static String add(FluidStack fluidStack)
@@ -58,10 +63,10 @@ public class TooltipJsonMap
         writer.close();
     }
 
-    public static void saveAsJson() throws IOException
+    public static void saveAsJson(String subFolder) throws IOException
     {
-        asJson(new File(ConfigHandler.getConfigDir() + "/exports/tooltipMap.json"), regToDisp);
-        asJson(new File(ConfigHandler.getConfigDir() + "/exports/lookupMap.json"), dispToReg);
+        asJson(new File(ConfigHandler.getConfigDir() + "/" + subFolder + "/tooltipMap.json"), regToDisp);
+        asJson(new File(ConfigHandler.getConfigDir() + "/" + subFolder + "/lookupMap.json"), dispToReg);
         clear();
     }
 }
