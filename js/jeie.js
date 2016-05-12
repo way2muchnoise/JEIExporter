@@ -161,11 +161,14 @@ function drawRecipe(recipe) {
 	}
 
 	var fluids = recipe.ingredientFluids;
+	var largest = 0;
 	for (var i = fluids.length - 1; i >= 0; i--) {
 		var fluid = fluids[i];
 		var image = "";
 		if (fluid.fluids[0])
 			image = "url(fluids/" + fluid.fluids[0].replace(/:/g, "_") + ".png)";
+		if (largest < fluid.amount)
+			largest = fluid.amount;
 		var padding = fluid.p;
 		var fluidElement = $("<div></div>").css({
 			width: fluid.w*2,
@@ -173,7 +176,7 @@ function drawRecipe(recipe) {
 			top: fluid.y*2-padding,
 			left: fluid.x*2-padding,
 			margin: padding*2,
-			'background-image': image
+			'background-image': image,
 		}).addClass("fluidstack").attr({cycle: 0, id: "fluidElement" + i});
 		if (tooltipMap && fluid.fluids[0])
 		{
@@ -184,6 +187,18 @@ function drawRecipe(recipe) {
 		renderSpace.append(fluidElement);
 		if ($("#fluidElement" + i).is(":hover")) fluidElement.tooltip('show');
 	}
+	console.log(largest);
+	$("#renderSpace .fluidstack").each(function() {
+		var csize = $(this).css('height').match(/\d+/)[0]*1;
+		var asize = $(this).attr('data-original-title').match(/(\d+)mb/)[1]*1;
+		var ctop  = $(this).css('top').match(/\d+/)[0]*1;
+		var nsize = csize * asize / largest;
+		var ntop  = ctop + csize - nsize;
+		$(this).css({
+			height: nsize,
+			top: ntop
+		});
+	});
 }
 
 function cycle()
