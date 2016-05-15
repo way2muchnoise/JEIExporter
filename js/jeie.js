@@ -34,6 +34,8 @@ function pushToData(json)
 {
 	mainData.push(json);
 	data = mainData;
+	if (json.category == "Crafting Table")
+		cat = data.length-1;
 	changeBackground();
 	udpateRecipe();
 }
@@ -187,18 +189,20 @@ function drawRecipe(recipe) {
 		renderSpace.append(fluidElement);
 		if ($("#fluidElement" + i).is(":hover")) fluidElement.tooltip('show');
 	}
-	console.log(largest);
-	$("#renderSpace .fluidstack").each(function() {
-		var csize = $(this).css('height').match(/\d+/)[0]*1;
-		var asize = $(this).attr('data-original-title').match(/(\d+)mb/)[1]*1;
-		var ctop  = $(this).css('top').match(/\d+/)[0]*1;
-		var nsize = csize * asize / largest;
-		var ntop  = ctop + csize - nsize;
-		$(this).css({
-			height: nsize,
-			top: ntop
+	if (fluids.length > 0)
+	{
+		$("#renderSpace .fluidstack").each(function() {
+			var csize = $(this).css('height').match(/\d+/)[0]*1;
+			var asize = $(this).attr('data-original-title').match(/(\d+)mb/)[1]*1;
+			var ctop  = $(this).css('top').match(/\d+/)[0]*1;
+			var nsize = csize * asize / largest;
+			var ntop  = ctop + csize - nsize;
+			$(this).css({
+				height: nsize,
+				top: ntop
+			});
 		});
-	});
+	}
 }
 
 function cycle()
