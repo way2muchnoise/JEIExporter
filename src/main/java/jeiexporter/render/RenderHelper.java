@@ -66,7 +66,7 @@ public class RenderHelper
         Minecraft.getMinecraft().getRenderItem().zLevel = oldZLevel;
     }
 
-    public static BufferedImage readPixels(int width, int height) throws InterruptedException
+    public static BufferedImage readPixels(int width, int height)
     {
 		/*
 		 * Make sure we're reading from the back buffer, not the front buffer.

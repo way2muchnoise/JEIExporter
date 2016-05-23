@@ -4,7 +4,7 @@
   "name": "JEIExporter",
   "description": "Export JEI to html pages",
   "version": "",
-  "mcversion": "1.8.9",
+  "mcversion": "1.9.4",
   "url": "",
   "updateUrl": "",
   "authorList": ["way2muchnoise"],

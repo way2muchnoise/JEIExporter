@@ -2,9 +2,7 @@ package jeiexporter.handler;
 
 import jeiexporter.config.Settings;
 import jeiexporter.jei.CraftingTree;
-import jeiexporter.jei.JEIConfig;
 import jeiexporter.jei.JEIExporter;
-import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.eventhandler.EventPriority;

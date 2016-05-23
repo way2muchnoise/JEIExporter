@@ -6,10 +6,10 @@ import jeiexporter.json.TooltipJsonMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.Tessellator;
+import net.minecraft.client.renderer.VertexBuffer;
 import net.minecraft.client.renderer.texture.TextureAtlasSprite;
 import net.minecraft.client.renderer.texture.TextureMap;
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats;
-import net.minecraft.client.renderer.VertexBuffer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fluids.FluidStack;
 import org.lwjgl.opengl.GL11;
@@ -79,10 +79,10 @@ public class RenderFluid
         Tessellator tessellator = Tessellator.getInstance();
         VertexBuffer buffer = tessellator.getBuffer();
         buffer.begin(7, DefaultVertexFormats.POSITION_TEX);
-        buffer.pos(0, FLUID_SIZE, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
-        buffer.pos(FLUID_SIZE, FLUID_SIZE, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
-        buffer.pos(FLUID_SIZE, 0, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
-        buffer.pos(0, 0, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMinV()).endVertex();
+        buffer.pos(x, y+height, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(x+width, y+height, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(x+width, y, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
+        buffer.pos(x, y, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMinV()).endVertex();
         tessellator.draw();
     }
 }

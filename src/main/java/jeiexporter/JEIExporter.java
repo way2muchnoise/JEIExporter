@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.ModMetadata;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = Reference.ID, name = Reference.NAME, version = Reference.VERSION, guiFactory = "jeiexporter.gui.ModGuiFactory", dependencies = "after:JEI@[2.27.0,);", clientSideOnly = true)
+@Mod(modid = Reference.ID, name = Reference.NAME, version = Reference.VERSION, guiFactory = "jeiexporter.gui.ModGuiFactory", dependencies = "after:JEI@[3.4.0,);", clientSideOnly = true)
 public class JEIExporter
 {
     @Mod.Metadata(Reference.ID)
