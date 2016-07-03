@@ -1,8 +1,8 @@
 package jeiexporter.jei;
 
 import jeiexporter.json.TooltipJsonMap;
+import mezz.jei.api.gui.IGuiIngredient;
 import mezz.jei.api.gui.IRecipeLayout;
-import mezz.jei.gui.ingredients.IGuiIngredient;
 import net.minecraft.item.ItemStack;
 
 import java.util.ArrayList;

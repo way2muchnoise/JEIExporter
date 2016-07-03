@@ -4,6 +4,7 @@ import mezz.jei.api.gui.IRecipeLayout;
 import mezz.jei.api.recipe.IRecipeCategory;
 import mezz.jei.gui.Focus;
 import mezz.jei.gui.IRecipeGuiLogic;
+import mezz.jei.gui.MasterFocus;
 import mezz.jei.gui.RecipeGuiLogic;
 import net.minecraft.item.ItemStack;
 
@@ -32,9 +33,8 @@ public class LayoutFetcher
     public List<IRecipeLayout> getRecipes(ItemStack itemStack)
     {
         List<IRecipeLayout> list = new ArrayList<>();
-        Focus focus = new Focus(itemStack);
-        focus.setMode(Focus.Mode.OUTPUT);
-        this.logic.setFocus(focus);
+        Focus<ItemStack> focus = new Focus<>(Focus.Mode.OUTPUT, itemStack);
+        this.logic.setFocus(MasterFocus.create(focus));
         this.logic.setRecipesPerPage(1);
         String startCategory = this.logic.getRecipeCategory().getUid();
         do

@@ -2,9 +2,9 @@ package jeiexporter.json;
 
 import com.google.gson.stream.JsonWriter;
 import jeiexporter.config.ConfigHandler;
+import mezz.jei.api.gui.IGuiIngredient;
 import mezz.jei.api.gui.IRecipeLayout;
 import mezz.jei.api.recipe.IRecipeCategory;
-import mezz.jei.gui.ingredients.IGuiIngredient;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
 

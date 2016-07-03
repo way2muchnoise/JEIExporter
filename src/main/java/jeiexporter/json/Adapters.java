@@ -7,9 +7,9 @@ import jeiexporter.render.RenderFluid;
 import jeiexporter.render.RenderIDrawable;
 import jeiexporter.render.RenderItem;
 import mezz.jei.api.gui.IDrawable;
+import mezz.jei.api.gui.IGuiIngredient;
 import mezz.jei.api.recipe.IRecipeCategory;
 import mezz.jei.gui.ingredients.GuiIngredient;
-import mezz.jei.gui.ingredients.IGuiIngredient;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
 
