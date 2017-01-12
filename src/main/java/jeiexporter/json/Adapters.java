@@ -48,7 +48,7 @@ public class Adapters
             out.name("y").value(getInt(y, value));
             out.name("w").value(getInt(w, value));
             out.name("h").value(getInt(h, value));
-            out.name("p").value(getInt(p, value));
+            out.name("p").value((getInt(xp, value) + (getInt(yp, value))) / 2);
             out.name("in").value(value.isInput());
             out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).stackSize : 0);
             out.name("stacks").beginArray();
@@ -75,7 +75,7 @@ public class Adapters
             out.name("y").value(getInt(y, value));
             out.name("w").value(getInt(w, value));
             out.name("h").value(getInt(h, value));
-            out.name("p").value(getInt(p, value));
+            out.name("p").value((getInt(xp, value) + (getInt(yp, value))) / 2);
             out.name("in").value(value.isInput());
             out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).amount : 0);
             out.name("fluids").beginArray();
@@ -107,7 +107,8 @@ public class Adapters
     private static Field y;
     private static Field w;
     private static Field h;
-    private static Field p;
+    private static Field xp;
+    private static Field yp;
 
     static
     {
@@ -121,8 +122,10 @@ public class Adapters
             w.setAccessible(true);
             h = GuiIngredient.class.getDeclaredField("height");
             h.setAccessible(true);
-            p = GuiIngredient.class.getDeclaredField("padding");
-            p.setAccessible(true);
+            xp = GuiIngredient.class.getDeclaredField("xPadding");
+            xp.setAccessible(true);
+            yp = GuiIngredient.class.getDeclaredField("yPadding");
+            yp.setAccessible(true);
         } catch (NoSuchFieldException e)
         {
             e.printStackTrace();
