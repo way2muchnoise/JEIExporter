@@ -89,7 +89,7 @@ public class CraftingTree
         for (Map.Entry<String, ItemStack> entry : this.items.entrySet())
         {
             ItemStack stack = entry.getValue().copy();
-            stack.stackSize = this.count.get(entry.getKey());
+            stack.setCount(this.count.get(entry.getKey()));
             stacks.add(stack);
         }
         return stacks;
@@ -109,7 +109,7 @@ public class CraftingTree
         int count = 0;
         for (IGuiIngredient<ItemStack> ingredient : layout.getItemStacks().getGuiIngredients().values())
             if (!ingredient.isInput())
-                count += ingredient.getAllIngredients().get(0).stackSize;
+                count += ingredient.getAllIngredients().get(0).getCount();
         return count;
     }
 

@@ -13,6 +13,7 @@ import mezz.jei.gui.ingredients.GuiIngredient;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
 
+import java.awt.Rectangle;
 import java.io.IOException;
 import java.lang.reflect.Field;
 
@@ -44,13 +45,14 @@ public class Adapters
         public void write(JsonWriter out, IGuiIngredient<ItemStack> value) throws IOException
         {
             out.beginObject();
-            out.name("x").value(getInt(x, value));
-            out.name("y").value(getInt(y, value));
-            out.name("w").value(getInt(w, value));
-            out.name("h").value(getInt(h, value));
+            Rectangle rect = getRect(value);
+            out.name("x").value(rect.getX());
+            out.name("y").value(rect.getY());
+            out.name("w").value(rect.getWidth());
+            out.name("h").value(rect.getHeight());
             out.name("p").value((getInt(xp, value) + (getInt(yp, value))) / 2);
             out.name("in").value(value.isInput());
-            out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).stackSize : 0);
+            out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).getCount() : 0);
             out.name("stacks").beginArray();
             for (ItemStack itemStack : value.getAllIngredients())
                 out.value(RenderItem.render(itemStack));
@@ -71,10 +73,11 @@ public class Adapters
         public void write(JsonWriter out, IGuiIngredient<FluidStack> value) throws IOException
         {
             out.beginObject();
-            out.name("x").value(getInt(x, value));
-            out.name("y").value(getInt(y, value));
-            out.name("w").value(getInt(w, value));
-            out.name("h").value(getInt(h, value));
+            Rectangle rect = getRect(value);
+            out.name("x").value(rect.getX());
+            out.name("y").value(rect.getY());
+            out.name("w").value(rect.getWidth());
+            out.name("h").value(rect.getHeight());
             out.name("p").value((getInt(xp, value) + (getInt(yp, value))) / 2);
             out.name("in").value(value.isInput());
             out.name("amount").value(value.getAllIngredients().size() > 0 ? value.getAllIngredients().get(0).amount : 0);
@@ -92,6 +95,17 @@ public class Adapters
         }
     };
 
+    private static Rectangle getRect(Object object)
+    {
+        try
+        {
+            return (Rectangle) rect.get(object);
+        } catch (IllegalAccessException e)
+        {
+            return null;
+        }
+    }
+
     private static int getInt(Field field, Object object)
     {
         try
@@ -103,10 +117,7 @@ public class Adapters
         }
     }
 
-    private static Field x;
-    private static Field y;
-    private static Field w;
-    private static Field h;
+    private static Field rect;
     private static Field xp;
     private static Field yp;
 
@@ -114,14 +125,8 @@ public class Adapters
     {
         try
         {
-            x = GuiIngredient.class.getDeclaredField("xPosition");
-            x.setAccessible(true);
-            y = GuiIngredient.class.getDeclaredField("yPosition");
-            y.setAccessible(true);
-            w = GuiIngredient.class.getDeclaredField("width");
-            w.setAccessible(true);
-            h = GuiIngredient.class.getDeclaredField("height");
-            h.setAccessible(true);
+            rect = GuiIngredient.class.getDeclaredField("rect");
+            rect.setAccessible(true);
             xp = GuiIngredient.class.getDeclaredField("xPadding");
             xp.setAccessible(true);
             yp = GuiIngredient.class.getDeclaredField("yPadding");
