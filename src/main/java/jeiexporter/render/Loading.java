@@ -19,7 +19,7 @@ public class Loading
         // Draw the dirt background and status text...
         RenderAccess.drawBackground(res.getScaledWidth(), res.getScaledHeight());
 
-        RenderAccess.drawCenteredString(mc.fontRendererObj, title, res.getScaledWidth()/2, res.getScaledHeight()/2-24, -1);
+        RenderAccess.drawCenteredString(mc.fontRenderer, title, res.getScaledWidth()/2, res.getScaledHeight()/2-24, -1);
 
         RenderAccess.drawRect(res.getScaledWidth()/2-50, res.getScaledHeight()/2-1, res.getScaledWidth()/2+50, res.getScaledHeight()/2+1, 0xFF001100);
         RenderAccess.drawRect(res.getScaledWidth()/2-50, res.getScaledHeight()/2-1, (res.getScaledWidth()/2-50)+(int)(mainProgress*100), res.getScaledHeight()/2+1, 0xFF55FF55);
@@ -29,8 +29,8 @@ public class Loading
 
         GlStateManager.pushMatrix();
         GlStateManager.scale(0.5f, 0.5f, 1);
-        RenderAccess.drawCenteredString(mc.fontRendererObj, mainSubtitle, res.getScaledWidth(), res.getScaledHeight()-20, -1);
-        RenderAccess.drawCenteredString(mc.fontRendererObj, subSubtitle, res.getScaledWidth(), res.getScaledHeight()+18, -1);
+        RenderAccess.drawCenteredString(mc.fontRenderer, mainSubtitle, res.getScaledWidth(), res.getScaledHeight()-20, -1);
+        RenderAccess.drawCenteredString(mc.fontRenderer, subSubtitle, res.getScaledWidth(), res.getScaledHeight()+18, -1);
         GlStateManager.popMatrix();
         GlStateManager.popMatrix();
         mc.updateDisplay();
