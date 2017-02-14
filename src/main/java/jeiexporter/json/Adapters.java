@@ -13,17 +13,14 @@ import mezz.jei.gui.ingredients.GuiIngredient;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
 
-import java.awt.Rectangle;
+import java.awt.*;
 import java.io.IOException;
 import java.lang.reflect.Field;
 
-public class Adapters
-{
-    public static final TypeAdapter<IRecipeCategory> drawable = new TypeAdapter<IRecipeCategory>()
-    {
+public class Adapters {
+    public static final TypeAdapter<IRecipeCategory> drawable = new TypeAdapter<IRecipeCategory>() {
         @Override
-        public void write(JsonWriter out, IRecipeCategory value) throws IOException
-        {
+        public void write(JsonWriter out, IRecipeCategory value) throws IOException {
             out.beginObject();
             IDrawable drawable = value.getBackground();
             out.name("w").value(drawable.getWidth());
@@ -33,17 +30,14 @@ public class Adapters
         }
 
         @Override
-        public IRecipeCategory read(JsonReader in) throws IOException
-        {
+        public IRecipeCategory read(JsonReader in) throws IOException {
             return null;
         }
     };
 
-    public static final TypeAdapter<IGuiIngredient<ItemStack>> itemIngredient = new TypeAdapter<IGuiIngredient<ItemStack>>()
-    {
+    public static final TypeAdapter<IGuiIngredient<ItemStack>> itemIngredient = new TypeAdapter<IGuiIngredient<ItemStack>>() {
         @Override
-        public void write(JsonWriter out, IGuiIngredient<ItemStack> value) throws IOException
-        {
+        public void write(JsonWriter out, IGuiIngredient<ItemStack> value) throws IOException {
             out.beginObject();
             Rectangle rect = getRect(value);
             out.name("x").value(rect.getX());
@@ -61,17 +55,14 @@ public class Adapters
         }
 
         @Override
-        public IGuiIngredient<ItemStack> read(JsonReader in) throws IOException
-        {
+        public IGuiIngredient<ItemStack> read(JsonReader in) throws IOException {
             return null;
         }
     };
 
-    public static final TypeAdapter<IGuiIngredient<FluidStack>> fluidIngredient = new TypeAdapter<IGuiIngredient<FluidStack>>()
-    {
+    public static final TypeAdapter<IGuiIngredient<FluidStack>> fluidIngredient = new TypeAdapter<IGuiIngredient<FluidStack>>() {
         @Override
-        public void write(JsonWriter out, IGuiIngredient<FluidStack> value) throws IOException
-        {
+        public void write(JsonWriter out, IGuiIngredient<FluidStack> value) throws IOException {
             out.beginObject();
             Rectangle rect = getRect(value);
             out.name("x").value(rect.getX());
@@ -89,30 +80,23 @@ public class Adapters
         }
 
         @Override
-        public IGuiIngredient<FluidStack> read(JsonReader in) throws IOException
-        {
+        public IGuiIngredient<FluidStack> read(JsonReader in) throws IOException {
             return null;
         }
     };
 
-    private static Rectangle getRect(Object object)
-    {
-        try
-        {
+    private static Rectangle getRect(Object object) {
+        try {
             return (Rectangle) rect.get(object);
-        } catch (IllegalAccessException e)
-        {
+        } catch (IllegalAccessException e) {
             return null;
         }
     }
 
-    private static int getInt(Field field, Object object)
-    {
-        try
-        {
+    private static int getInt(Field field, Object object) {
+        try {
             return field.getInt(object);
-        } catch (IllegalAccessException e)
-        {
+        } catch (IllegalAccessException e) {
             return 0;
         }
     }
@@ -121,18 +105,15 @@ public class Adapters
     private static Field xp;
     private static Field yp;
 
-    static
-    {
-        try
-        {
+    static {
+        try {
             rect = GuiIngredient.class.getDeclaredField("rect");
             rect.setAccessible(true);
             xp = GuiIngredient.class.getDeclaredField("xPadding");
             xp.setAccessible(true);
             yp = GuiIngredient.class.getDeclaredField("yPadding");
             yp.setAccessible(true);
-        } catch (NoSuchFieldException e)
-        {
+        } catch (NoSuchFieldException e) {
             e.printStackTrace();
         }
     }

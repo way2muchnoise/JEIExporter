@@ -12,12 +12,10 @@ import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
-public class RenderItem
-{
+public class RenderItem {
     public static final int ITEM_SIZE = 16 * 2;
 
-    public static String render(ItemStack itemStack)
-    {
+    public static String render(ItemStack itemStack) {
         RenderHelper.setupRenderState(ITEM_SIZE);
         String itemName = TooltipJsonMap.add(itemStack);
         String filename = itemName.replaceAll(":", "_") + ".png";
@@ -26,12 +24,11 @@ public class RenderItem
         GlStateManager.clear(GL11.GL_COLOR_BUFFER_BIT | GL11.GL_DEPTH_BUFFER_BIT);
         Minecraft.getMinecraft().getRenderItem().renderItemAndEffectIntoGUI(itemStack, 0, 0);
         GlStateManager.popMatrix();
-        try
-        {
+        try {
             File f = new File(ConfigHandler.getConfigDir(), "items/" + filename);
             if (f.exists()) return itemName;
             /*
-			 * We need to flip the image over here, because again, GL Y-zero is
+             * We need to flip the image over here, because again, GL Y-zero is
 			 * the bottom, so it's "Y-up". Minecraft's Y-zero is the top, so it's
 			 * "Y-down". Since readPixels is Y-up, our Y-down render is flipped.
 			 * It's easier to do this operation on the resulting image than to
@@ -42,8 +39,7 @@ public class RenderItem
             f.createNewFile();
             ImageIO.write(img, "PNG", f);
             return itemName;
-        } catch (Exception e)
-        {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         RenderHelper.tearDownRenderState();

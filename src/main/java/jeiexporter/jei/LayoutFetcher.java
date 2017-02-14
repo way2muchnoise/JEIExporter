@@ -13,33 +13,27 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class LayoutFetcher
-{
+public class LayoutFetcher {
     private static LayoutFetcher instance;
     private IRecipeGuiLogic logic;
 
-    public static LayoutFetcher getInstance()
-    {
+    public static LayoutFetcher getInstance() {
         if (instance == null)
             instance = new LayoutFetcher();
         return instance;
     }
 
-    private LayoutFetcher()
-    {
+    private LayoutFetcher() {
         this.logic = new RecipeGuiLogic(JEIConfig.getJeiRuntime().getRecipeRegistry(), new BlankStateListener());
     }
 
-    public List<IRecipeLayout> getRecipes(ItemStack itemStack)
-    {
+    public List<IRecipeLayout> getRecipes(ItemStack itemStack) {
         List<IRecipeLayout> list = new ArrayList<>();
         this.logic.setFocus(new Focus<>(Focus.Mode.OUTPUT, itemStack));
         this.logic.setRecipesPerPage(1);
         String startCategory = this.logic.getSelectedRecipeCategory().getUid();
-        do
-        {
-            do
-            {
+        do {
+            do {
                 list.addAll(this.logic.getRecipeLayouts(0, 0, 0));
                 this.logic.nextPage();
             } while (!this.logic.getPageString().startsWith("1/"));
@@ -48,17 +42,14 @@ public class LayoutFetcher
         return list;
     }
 
-    public Map<IRecipeCategory, List<IRecipeLayout>> fetchAll()
-    {
+    public Map<IRecipeCategory, List<IRecipeLayout>> fetchAll() {
         Map<IRecipeCategory, List<IRecipeLayout>> map = new HashMap<>();
         this.logic.setCategoryFocus(JEIConfig.recipeCategoryUids());
         this.logic.setRecipesPerPage(1);
         String startCategory = this.logic.getSelectedRecipeCategory().getUid();
-        do
-        {
+        do {
             List<IRecipeLayout> layouts = new ArrayList<>();
-            do
-            {
+            do {
                 layouts.addAll(this.logic.getRecipeLayouts(0, 0, 0));
                 this.logic.nextPage();
             } while (!this.logic.getPageString().startsWith("1/"));

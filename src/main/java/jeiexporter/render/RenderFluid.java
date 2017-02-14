@@ -18,12 +18,10 @@ import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
-public class RenderFluid
-{
+public class RenderFluid {
     public static final int FLUID_SIZE = 16;
 
-    public static String render(FluidStack fluidStack)
-    {
+    public static String render(FluidStack fluidStack) {
         RenderHelper.setupRenderState(FLUID_SIZE);
         String fluidName = TooltipJsonMap.add(fluidStack);
         String filename = fluidName.replaceAll(":", "_") + ".png";
@@ -32,12 +30,11 @@ public class RenderFluid
         GlStateManager.clear(GL11.GL_COLOR_BUFFER_BIT | GL11.GL_DEPTH_BUFFER_BIT);
         drawFluid(fluidStack, 0, 0, FLUID_SIZE, FLUID_SIZE);
         GlStateManager.popMatrix();
-        try
-        {
+        try {
             File f = new File(ConfigHandler.getConfigDir(), "fluids/" + filename);
             if (f.exists()) return fluidName;
             /*
-			 * We need to flip the image over here, because again, GL Y-zero is
+             * We need to flip the image over here, because again, GL Y-zero is
 			 * the bottom, so it's "Y-up". Minecraft's Y-zero is the top, so it's
 			 * "Y-down". Since readPixels is Y-up, our Y-down render is flipped.
 			 * It's easier to do this operation on the resulting image than to
@@ -48,16 +45,14 @@ public class RenderFluid
             f.createNewFile();
             ImageIO.write(img, "PNG", f);
             return fluidName;
-        } catch (Exception e)
-        {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         RenderHelper.tearDownRenderState();
         return null;
     }
 
-    private static void drawFluid(FluidStack fluidStack, int x, int y, int width, int height)
-    {
+    private static void drawFluid(FluidStack fluidStack, int x, int y, int width, int height) {
         TextureMap textureMapBlocks = Minecraft.getMinecraft().getTextureMapBlocks();
         ResourceLocation fluidStill = fluidStack.getFluid().getStill(fluidStack);
         TextureAtlasSprite fluidStillSprite = null;
@@ -79,9 +74,9 @@ public class RenderFluid
         Tessellator tessellator = Tessellator.getInstance();
         VertexBuffer buffer = tessellator.getBuffer();
         buffer.begin(7, DefaultVertexFormats.POSITION_TEX);
-        buffer.pos(x, y+height, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
-        buffer.pos(x+width, y+height, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
-        buffer.pos(x+width, y, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
+        buffer.pos(x, y + height, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(x + width, y + height, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
+        buffer.pos(x + width, y, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMinV()).endVertex();
         buffer.pos(x, y, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMinV()).endVertex();
         tessellator.draw();
     }

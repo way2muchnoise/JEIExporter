@@ -16,24 +16,21 @@ import java.nio.ByteBuffer;
  * This and other render code borrowed from @unascribed (licensed MIT)
  * https://github.com/unascribed/BlockRenderer
  */
-public class RenderHelper
-{
+public class RenderHelper {
     private static float oldZLevel;
 
-    public static void setupRenderStateWithMul(float mul)
-    {
+    public static void setupRenderStateWithMul(float mul) {
         setupRenderState(16 * mul);
     }
 
-    public static void setupRenderState(float desiredSize)
-    {
+    public static void setupRenderState(float desiredSize) {
         Minecraft mc = Minecraft.getMinecraft();
         ScaledResolution res = new ScaledResolution(mc);
 
         // Switches from 3D to 2D
         mc.entityRenderer.setupOverlayRendering();
         net.minecraft.client.renderer.RenderHelper.enableGUIStandardItemLighting();
-		/*
+        /*
 		 * The GUI scale affects us due to the call to setupOverlayRendering
 		 * above. As such, we need to counteract this to always get a 512x512
 		 * render. We could manually switch to orthogonal mode, but it's just
@@ -56,8 +53,7 @@ public class RenderHelper
         GlStateManager.disableAlpha();
     }
 
-    public static void tearDownRenderState()
-    {
+    public static void tearDownRenderState() {
         GlStateManager.disableLighting();
         GlStateManager.disableColorMaterial();
         GlStateManager.disableDepth();
@@ -66,8 +62,7 @@ public class RenderHelper
         Minecraft.getMinecraft().getRenderItem().zLevel = oldZLevel;
     }
 
-    public static BufferedImage readPixels(int width, int height)
-    {
+    public static BufferedImage readPixels(int width, int height) {
 		/*
 		 * Make sure we're reading from the back buffer, not the front buffer.
 		 * The front buffer is what is currently on-screen, and is useful for
@@ -86,8 +81,7 @@ public class RenderHelper
         return img;
     }
 
-    public static BufferedImage createFlipped(BufferedImage image)
-    {
+    public static BufferedImage createFlipped(BufferedImage image) {
         AffineTransform at = new AffineTransform();
 		/*
 		 * Creates a compound affine transform, instead of just one, as we need
@@ -105,8 +99,7 @@ public class RenderHelper
         return createTransformed(image, at);
     }
 
-    public static BufferedImage createTransformed(BufferedImage image, AffineTransform at)
-    {
+    public static BufferedImage createTransformed(BufferedImage image, AffineTransform at) {
         // Create a blank image with the same dimensions as the old one...
         BufferedImage newImage = new BufferedImage(image.getWidth(), image.getHeight(), BufferedImage.TYPE_INT_ARGB);
         // ...get it's renderer...

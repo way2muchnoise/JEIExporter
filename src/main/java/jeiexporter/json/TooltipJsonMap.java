@@ -12,19 +12,16 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TooltipJsonMap
-{
+public class TooltipJsonMap {
     private static Map<String, String> regToDisp = new HashMap<>();
     private static Map<String, String> dispToReg = new HashMap<>();
 
-    public static void clear()
-    {
+    public static void clear() {
         regToDisp.clear();
         dispToReg.clear();
     }
 
-    public static String add(ItemStack itemStack)
-    {
+    public static String add(ItemStack itemStack) {
         String regName = createRegName(itemStack);
         String dispName = itemStack.getDisplayName();
         regToDisp.put(regName, dispName);
@@ -32,21 +29,18 @@ public class TooltipJsonMap
         return regName;
     }
 
-    public static String createRegName(ItemStack itemStack)
-    {
+    public static String createRegName(ItemStack itemStack) {
         String regName = itemStack.getItem().getRegistryName() + ":" + itemStack.getMetadata();
         if (itemStack.hasTagCompound())
             regName += ":" + Integer.toHexString(itemStack.getTagCompound().toString().hashCode());
         return regName;
     }
 
-    public static String getDispName(String regName)
-    {
+    public static String getDispName(String regName) {
         return regToDisp.get(regName);
     }
 
-    public static String add(FluidStack fluidStack)
-    {
+    public static String add(FluidStack fluidStack) {
         String regName = "fluid:" + fluidStack.getFluid().getName();
         String dispName = fluidStack.getLocalizedName();
         regToDisp.put(regName, dispName);
@@ -54,8 +48,7 @@ public class TooltipJsonMap
         return regName;
     }
 
-    public static void asJson(File location, Map<String, String> map) throws IOException
-    {
+    public static void asJson(File location, Map<String, String> map) throws IOException {
         FileWriter writer = new FileWriter(location);
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         writer.write(gson.toJson(map));
@@ -63,8 +56,7 @@ public class TooltipJsonMap
         writer.close();
     }
 
-    public static void saveAsJson(String subFolder) throws IOException
-    {
+    public static void saveAsJson(String subFolder) throws IOException {
         asJson(new File(ConfigHandler.getConfigDir() + "/" + subFolder + "/tooltipMap.json"), regToDisp);
         asJson(new File(ConfigHandler.getConfigDir() + "/" + subFolder + "/lookupMap.json"), dispToReg);
         clear();

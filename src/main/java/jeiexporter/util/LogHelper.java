@@ -9,16 +9,14 @@ import org.apache.logging.log4j.Level;
  *
  * @author way2muchnoise
  */
-public class LogHelper
-{
+public class LogHelper {
     /**
      * General logging method
      *
      * @param level Level of the log
      * @param obj   object to log
      */
-    public static void log(Level level, Object obj)
-    {
+    public static void log(Level level, Object obj) {
         FMLLog.log(Reference.ID, level, String.valueOf(obj));
     }
 
@@ -27,8 +25,7 @@ public class LogHelper
      *
      * @param obj object to log
      */
-    public static void debug(Object obj)
-    {
+    public static void debug(Object obj) {
         log(Level.DEBUG, obj);
     }
 
@@ -37,13 +34,11 @@ public class LogHelper
      *
      * @param obj object to log
      */
-    public static void info(Object obj)
-    {
+    public static void info(Object obj) {
         log(Level.INFO, obj);
     }
 
-    public static void warn(Object obj)
-    {
+    public static void warn(Object obj) {
         log(Level.WARN, obj);
 
     }

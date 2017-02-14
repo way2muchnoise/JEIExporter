@@ -10,20 +10,16 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.InputEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 
-public class EventHandler
-{
+public class EventHandler {
     @SubscribeEvent(priority = EventPriority.HIGHEST)
-    public void onFrameStart(TickEvent.RenderTickEvent event)
-    {
+    public void onFrameStart(TickEvent.RenderTickEvent event) {
         if (event.phase != TickEvent.Phase.START || !Settings.exportAll.isPressed()) return;
-            JEIExporter.exportAll();
+        JEIExporter.exportAll();
     }
 
     @SubscribeEvent
-    public void onKeyInput(InputEvent.KeyInputEvent event)
-    {
-        if (Settings.craftTree.isPressed())
-        {
+    public void onKeyInput(InputEvent.KeyInputEvent event) {
+        if (Settings.craftTree.isPressed()) {
             CraftingTree tree = new CraftingTree(new ItemStack(Items.COMPARATOR));
             tree.getCraftItems();
             tree.getBaseItems();

@@ -14,41 +14,35 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-public class JEIExporter
-{
+public class JEIExporter {
     //TODO add single exports
 
-    public static void exportAll()
-    {
+    public static void exportAll() {
         export(LayoutFetcher.getInstance().fetchAll());
     }
 
-    private static void export(Map<IRecipeCategory, List<IRecipeLayout>> map)
-    {
+    private static void export(Map<IRecipeCategory, List<IRecipeLayout>> map) {
         long lastUpdate = 0;
         int size = map.size();
         int index = 0;
-        for (Map.Entry<IRecipeCategory, List<IRecipeLayout>> entry : map.entrySet())
-        {
+        for (Map.Entry<IRecipeCategory, List<IRecipeLayout>> entry : map.entrySet()) {
             if (Keyboard.isKeyDown(Keyboard.KEY_ESCAPE)) break;
             index++;
             List<IRecipeLayout> layouts = entry.getValue();
             int layoutsSize = layouts.size();
-            try
-            {
+            try {
                 JEIJsonWriter writer = new JEIJsonWriter(entry.getKey().getUid().replaceAll("[\\.\\s:]", "_"));
                 writer.writeTitle(entry.getKey());
-                for (int i = 0; i < layoutsSize; i++)
-                {
+                for (int i = 0; i < layoutsSize; i++) {
                     if (Keyboard.isKeyDown(Keyboard.KEY_ESCAPE)) break;
                     if (Minecraft.getSystemTime() - lastUpdate > 33) // 30 FPS
                     {
                         Loading.render(
-                                I18n.format("Exporting all JEI categories"),
-                                I18n.format("Exporting %s (%s/%s)", entry.getKey().getTitle(), index, size),
-                                (index * 1F) / size,
-                                I18n.format("%s/%s", i, layoutsSize),
-                                (i * 1F) / layoutsSize
+                            I18n.format("Exporting all JEI categories"),
+                            I18n.format("Exporting %s (%s/%s)", entry.getKey().getTitle(), index, size),
+                            (index * 1F) / size,
+                            I18n.format("%s/%s", i, layoutsSize),
+                            (i * 1F) / layoutsSize
                         );
                         lastUpdate = Minecraft.getSystemTime();
                     }
@@ -56,17 +50,14 @@ public class JEIExporter
                 }
                 writer.close();
                 LogHelper.info("Saved category: " + entry.getKey().getTitle());
-            } catch (IOException e)
-            {
+            } catch (IOException e) {
                 e.printStackTrace();
                 LogHelper.warn("Failed writing category: " + entry.getKey().getTitle());
             }
         }
-        try
-        {
+        try {
             TooltipJsonMap.saveAsJson("exports");
-        } catch (IOException e)
-        {
+        } catch (IOException e) {
             e.printStackTrace();
             LogHelper.warn("Failed writing tooltip map");
         }

@@ -11,8 +11,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Reference.ID, name = Reference.NAME, version = Reference.VERSION, guiFactory = "jeiexporter.gui.ModGuiFactory", dependencies = "after:JEI@[3.4.0,);", clientSideOnly = true)
-public class JEIExporter
-{
+public class JEIExporter {
     @Mod.Metadata(Reference.ID)
     public static ModMetadata metadata;
 
@@ -20,8 +19,7 @@ public class JEIExporter
     public static CommonProxy PROXY;
 
     @Mod.EventHandler
-    public void preInit(FMLPreInitializationEvent event)
-    {
+    public void preInit(FMLPreInitializationEvent event) {
         LogHelper.info("Init Config...");
         ConfigHandler.init(event.getModConfigurationDirectory());
 
