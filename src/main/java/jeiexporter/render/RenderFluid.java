@@ -6,7 +6,7 @@ import jeiexporter.json.TooltipJsonMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.Tessellator;
-import net.minecraft.client.renderer.VertexBuffer;
+import net.minecraft.client.renderer.BufferBuilder;
 import net.minecraft.client.renderer.texture.TextureAtlasSprite;
 import net.minecraft.client.renderer.texture.TextureMap;
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats;
@@ -72,7 +72,7 @@ public class RenderFluid {
         GlStateManager.color(red, green, blue, 1.0F);
 
         Tessellator tessellator = Tessellator.getInstance();
-        VertexBuffer buffer = tessellator.getBuffer();
+        BufferBuilder buffer = tessellator.getBuffer();
         buffer.begin(7, DefaultVertexFormats.POSITION_TEX);
         buffer.pos(x, y + height, 0).tex(fluidStillSprite.getMinU(), fluidStillSprite.getMaxV()).endVertex();
         buffer.pos(x + width, y + height, 0).tex(fluidStillSprite.getMaxU(), fluidStillSprite.getMaxV()).endVertex();
